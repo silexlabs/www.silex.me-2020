@@ -1,0 +1,42 @@
+.splide, .splide__track, .splide__list, .splide__slide {
+  width: inherit;
+  height: inherit;
+  min-height: inherit;
+}
+.splide__slide img {
+  max-height: 400px;
+}
+.splide__pagination__page {
+  border: 1px solid;
+}
+/*
+@media (min-width:481px) {
+  .splide__arrows button.splide__arrow--prev {
+    left: -50px;
+  }
+  .splide__arrows button.splide__arrow--next {
+    right: -50px;
+  }
+}
+*/
+.splide__arrows button {
+  background: none;
+  transition: none;
+}
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+

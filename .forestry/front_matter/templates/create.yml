@@ -1,0 +1,195 @@
+---
+id: create
+label: create
+fields:
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
+  - type: textarea
+    name: header
+    label: Header Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section1
+    label: Section 1
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7
+    label: Section 7 Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7-cta-right
+    label: Section 7 CTA Right
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7-cta-left
+    label: Section 7 CTA Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8
+    label: Section 8 Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8-cta-right
+    label: Section 8 CTA Right
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8-cta-left
+    label: Section 8 CTA Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community
+    label: Community text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-meetup
+    label: Meetups
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-roadmap
+    label: Road map
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-forums
+    label: Forums
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: silexlabs
+    label: Silex Labs text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-left
+    label: Footer Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-middle
+    label: Footer Middle
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-right
+    label: Footer RIght
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer
+    label: Footer Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: lang
+    label: Lang
+    default: en
+  - type: field_group_list
+    name: items
+    label: Items
+    default: ''
+    fields:
+      - type: textarea
+        name: text
+        label: Text
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta
+        label: CTA
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: create
+    config:
+      required: true
+name: create.yml
+hide_body: true

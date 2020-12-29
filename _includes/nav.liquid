@@ -1,0 +1,12 @@
+{% if page.url == '/' %}
+  {% assign url = '/' %}
+{% else %}
+  {% assign url = page.url | slice: 0, -1 %}
+{% endif %}
+<ul>
+  <li><p><a class="{% if url == nav['/'][lang].path %}page-link-active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{nav['/'][lang].path}}">{{nav['/'][lang].name}}</a></p></li>
+  <li><p><a class="{% if url == nav['/features'][lang].path %}page-link-active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{nav['/features'][lang].path}}">{{nav['/features'][lang].name}}</a></p></li>
+  <li><p><a class="{% if url == nav['/create'][lang].path %}page-link-active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{nav['/create'][lang].path}}">{{nav['/create'][lang].name}}</a></p></li>
+  <li><p><a class="{% if url == nav['/makers'][lang].path %}page-link-active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{nav['/makers'][lang].path}}">{{nav['/makers'][lang].name}}</a></p></li>
+  <li><p><a class="{% if url == nav['/pro'][lang].path %}page-link-active{% endif %}" href="{{ site.url }}{{ site.baseurl }}{{nav['/pro'][lang].path}}">{{nav['/pro'][lang].name}}</a></p></li>
+</ul>

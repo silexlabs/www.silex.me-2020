@@ -1,0 +1,84 @@
+{
+  "/": {
+    "en": {
+      "path": "/",
+      "name": "Home"
+    },
+    "fr": {
+      "path": "/fr",
+      "name": "Accueil"
+    }
+  },
+  "/get-started": {
+    "en": {
+      "path": "/get-started",
+      "name": "Get started!"
+    },
+    "fr": {
+      "path": "/fr/commencer",
+      "name": "Commencer !"
+    }
+  },
+  "/create": {
+    "en": {
+      "path": "/create",
+      "name": "Designers"
+    },
+    "fr": {
+      "path": "/fr/creer",
+      "name": "Designers"
+    }
+  },
+  "/features": {
+    "en": {
+      "path": "/features",
+      "name": "Features"
+    },
+    "fr": {
+      "path": "/fr/fonctionnalites",
+      "name": "Fonctionnalités"
+    }
+  },
+  "/makers": {
+    "en": {
+      "path": "/makers",
+      "name": "Makers"
+    },
+    "fr": {
+      "path": "/fr/makers",
+      "name": "No-code"
+    }
+  },
+  "/pro": {
+    "en": {
+      "path": "/pro",
+      "name": "Professionals"
+    },
+    "fr": {
+      "path": "/fr/pro",
+      "name": "Professionnels"
+    }
+  },
+  "/community": {
+    "en": {
+      "path": "/community",
+      "name": "Community"
+    },
+    "fr": {
+      "path": "/fr/communauté",
+      "name": "Communauté"
+    }
+  },
+  "lang-switch": {
+    "en": {
+      "path": "/fr",
+      "name": "Français",
+      "short": "FR"
+    },
+    "fr": {
+      "path": "/",
+      "name": "English",
+      "short": "EN"
+    }
+  }
+}

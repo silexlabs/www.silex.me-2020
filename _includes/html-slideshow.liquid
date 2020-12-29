@@ -1,0 +1,46 @@
+{% if slides %}
+  {%assign html = slides | map: 'html'%}
+  {% if html.size >= 1 %}
+  <div class="splide slideshow">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {%- for item in html %}
+        <li class="splide__slide">
+          <div>
+            <div class="">
+              {{item}}
+            </div>
+          </div>
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+    {%if white_arrow == "true"%}
+    <div class="splide__arrows p-splide__arrows"><button class="splide__arrow p-splide__arrow splide__arrow--prev p-splide__arrow--prev" aria-controls="example-container-track" aria-label="Go to last slide"><span class="spi-angle-left arrow left"></span></button><button class="splide__arrow p-splide__arrow splide__arrow--next p-splide__arrow--next" aria-controls="example-container-track" aria-label="Next slide"><span class="spi-angle-right arrow right"></span></button></div>
+    {%else%}
+    {%endif%}
+  </div>
+  <script>
+    var scriptTag = document.scripts[document.scripts.length - 1]
+    var silexElement = $(scriptTag).parents('.editable-style').get(0)
+    var classes = '.' + $(silexElement.classList).get().join('.')
+    new Splide(classes + ' .splide', {
+      type: 'fade',
+      controls: true,
+      autoplay: true,
+      keyboard: {{keyboard|default: 'false'}},
+      pagination: {{pagination|default: 'false'}},
+      arrows: true,
+      rewind: true,
+      speed: 300,
+      interval: 3000,
+    }).mount();
+  </script>
+
+  {% else if html.size == 0 %}
+    NO SLIDES YET
+  {% endif %}
+  <style>
+    {% include html-slideshow.css.liquid %}
+  </style>
+{% endif %}

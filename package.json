@@ -1,0 +1,23 @@
+{
+  "name": "11ty-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "scripts": {
+    "start": "LOCAL=true eleventy --serve --quiet",
+    "start:debug": "DEBUG=Eleventy* npm start",
+    "build": "eleventy && eleventy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "dependencies": {
+    "@quasibit/eleventy-plugin-sitemap": "^2.0.2",
+    "@splidejs/splide": "^2.4.14"
+  }
+}

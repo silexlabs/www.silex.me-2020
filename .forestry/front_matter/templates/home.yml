@@ -1,0 +1,228 @@
+---
+id: home
+label: home
+fields:
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
+  - type: list
+    name: hero-slider
+    label: Hero Slider
+    default: ''
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: field_group_list
+    name: header-slideshow
+    label: Header Slideshow
+    default: ''
+    fields:
+      - type: textarea
+        name: html
+        label: html
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: Get started!
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA link
+    default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7
+    label: Section 7 Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7-cta-right
+    label: Section 7 CTA Right
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section7-cta-left
+    label: Section 7 CTA Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8
+    label: Section 8 Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8-cta-right
+    label: Section 8 CTA Right
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section8-cta-left
+    label: Section 8 CTA Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community
+    label: Community text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-meetup
+    label: Meetups
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-roadmap
+    label: Road map
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-forums
+    label: Forums
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: silexlabs
+    label: Silex Labs text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-left
+    label: Footer Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-middle
+    label: Footer Middle
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-right
+    label: Footer RIght
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer
+    label: Footer Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: hero-above
+    label: Hero above
+    default: ''
+  - type: text
+    name: hero-bellow
+    label: Header text bellow
+    default: ''
+  - type: text
+    name: lang
+    label: Lang
+    default: en
+  - type: field_group_list
+    name: alternate-sections
+    label: Alternate Sections
+    default: ''
+    fields:
+      - type: textarea
+        name: section4
+        label: Section 4
+        default: <h2>Deploy to your Server</h2>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: section4-cta-left
+        label: Section 4 CTA Left
+        default: <b>Documentation</b>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: section4-cta-right
+        label: Section 4 CTA Right
+        default: <b>Start now</b>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: home
+    config:
+      required: true
+name: home.yml
+hide_body: true
