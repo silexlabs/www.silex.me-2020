@@ -13,7 +13,7 @@ sections:
   - home
 - type: document
   path: _data/common.json
-  label: Common
+  label: Common Sections
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
