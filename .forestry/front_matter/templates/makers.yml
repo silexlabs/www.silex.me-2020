@@ -1,316 +1,198 @@
 ---
+id: makers
 label: makers
-hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-  default: ''
-- type: text
-  name: description
-  label: Description
-  default: ''
-- type: textarea
-  name: header
-  label: Header Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: hero-cta
-  label: Hero CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section1
-  label: Section 1
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section2-image
-  label: Section 2 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section2
-  label: Section 2
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section3-image
-  label: Section 3 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section3
-  label: Section 3
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section4-image
-  label: Section 4 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section4
-  label: Section 4
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section5
-  label: Section 5
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section5-image
-  label: Section 5 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section5-cta
-  label: Section 5 CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section6
-  label: Section 6
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section6-image
-  label: Section 6 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section6-cta
-  label: Section 6 CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section9
-  label: Section 9
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section9-image
-  label: Section 9 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section9-cta
-  label: Section 9 CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section10
-  label: Section 10
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section10-cta
-  label: Section 10 CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section7
-  label: Section 7 Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section7-cta-right
-  label: Section 7 CTA Right
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section7-cta-left
-  label: Section 7 CTA Left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section8
-  label: Section 8 Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section8-cta-right
-  label: Section 8 CTA Right
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: section8-cta-left
-  label: Section 8 CTA Left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community
-  label: Community text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-meetup
-  label: Meetups
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-roadmap
-  label: Road map
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-forums
-  label: Forums
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: silexlabs
-  label: Silex Labs text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-left
-  label: Footer Left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-middle
-  label: Footer Middle
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-right
-  label: Footer RIght
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer
-  label: Footer Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: lang
-  label: Lang
-  default: en
-- type: textarea
-  name: section10-image
-  label: Section 10 image
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: makers
-  config:
-    required: true
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
+  - type: textarea
+    name: header
+    label: Header Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section1
+    label: Section 1
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section2-image
+    label: Section 2 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section2
+    label: Section 2
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section3-image
+    label: Section 3 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section3
+    label: Section 3
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section4-image
+    label: Section 4 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section4
+    label: Section 4
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5
+    label: Section 5
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5-image
+    label: Section 5 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5-cta
+    label: Section 5 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6
+    label: Section 6
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6-image
+    label: Section 6 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6-cta
+    label: Section 6 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9
+    label: Section 9
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9-image
+    label: Section 9 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9-cta
+    label: Section 9 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section10
+    label: Section 10
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section10-cta
+    label: Section 10 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: lang
+    label: Lang
+    default: en
+  - type: textarea
+    name: section10-image
+    label: Section 10 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: makers
+    config:
+      required: true
+name: makers.yml
+hide_body: true
