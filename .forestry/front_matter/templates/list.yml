@@ -1,6 +1,6 @@
 ---
-id: home
-label: Home
+id: list
+label: List
 fields:
   - type: text
     name: title
@@ -10,6 +10,26 @@ fields:
     name: description
     label: Description
     default: ''
+  - type: file
+    name: image
+    label: Image
+    default: ''
+  - type: textarea
+    name: header
+    label: Header Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: textarea
     name: section2
     label: Section 2
@@ -90,31 +110,6 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: list
-    name: hero-slider
-    label: Hero Slider
-    default: ''
-  - type: textarea
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: field_group_list
-    name: header-slideshow
-    label: Header Slideshow
-    default: ''
-    fields:
-      - type: textarea
-        name: html
-        label: html
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
   - type: textarea
     name: text
     label: Header text
@@ -204,14 +199,6 @@ fields:
       schema:
         format: html-blocks
   - type: text
-    name: hero-above
-    label: Hero above
-    default: ''
-  - type: text
-    name: hero-bellow
-    label: Header text bellow
-    default: ''
-  - type: text
     name: lang
     label: Lang
     default: en
@@ -297,8 +284,8 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: list
     config:
       required: true
-name: home.yml
+name: list.yml
 hide_body: true

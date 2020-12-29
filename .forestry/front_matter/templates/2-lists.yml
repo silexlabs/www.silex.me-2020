@@ -1,6 +1,6 @@
 ---
-id: home
-label: Home
+id: 2-lists
+label: 2 lists
 fields:
   - type: text
     name: title
@@ -10,6 +10,26 @@ fields:
     name: description
     label: Description
     default: ''
+  - type: file
+    name: image
+    label: Image
+    default: ''
+  - type: textarea
+    name: header
+    label: Header Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: textarea
     name: section2
     label: Section 2
@@ -90,31 +110,6 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: list
-    name: hero-slider
-    label: Hero Slider
-    default: ''
-  - type: textarea
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: field_group_list
-    name: header-slideshow
-    label: Header Slideshow
-    default: ''
-    fields:
-      - type: textarea
-        name: html
-        label: html
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
   - type: textarea
     name: text
     label: Header text
@@ -139,6 +134,19 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: field_group_list
+    name: items
+    label: Tiles list
+    default: ''
+    fields:
+      - type: textarea
+        name: text
+        label: Text
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
   - type: textarea
     name: section1
     label: Section 1 CTA
@@ -203,14 +211,6 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: text
-    name: hero-above
-    label: Hero above
-    default: ''
-  - type: text
-    name: hero-bellow
-    label: Header text bellow
-    default: ''
   - type: text
     name: lang
     label: Lang
@@ -297,8 +297,8 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: home
+    default: 2-lists
     config:
       required: true
-name: home.yml
+name: 2-lists.yml
 hide_body: true
