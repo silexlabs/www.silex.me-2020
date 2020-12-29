@@ -1,46 +1,44 @@
 ---
-id: get-started
 label: Get Started
-fields:
-  - type: text
-    name: title
-    label: Title
-    default: ''
-  - type: text
-    name: description
-    label: Description
-    default: ''
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - type: textarea
-    name: header
-    label: Header
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: header-cta
-    label: Header CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: get-started
-    config:
-      required: true
-name: get-started.yml
 hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- type: textarea
+  name: header
+  label: Header
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: header-cta
+  label: Header CTA
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: get-started
+  config:
+    required: true
