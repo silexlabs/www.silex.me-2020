@@ -1,134 +1,132 @@
 ---
-id: bkp
 label: Bkp
-fields:
-  - type: text
-    name: title
-    label: Title
-    default: ''
-  - type: text
-    name: description
-    label: Description
-    default: ''
-  - type: textarea
-    name: section2
-    label: Section 2 Text
-    default: <h2>Start Silex Online</h2>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section2-cta-right
-    label: Section 2 CTA Right
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section2-cta-left
-    label: Section 2 CTA Left
-    default: Documentation
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section3
-    label: Section 3 Text
-    default: <h2>Download Silex Desktop App</h2>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section3-cta-right
-    label: Section 3 CTA Right
-    default: <b>Downloads</b>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section4
-    label: Section 4
-    default: <h2>Deploy to your Server</h2>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section4-cta-right
-    label: Section 4 CTA Right
-    default: <b>Start now</b>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section4-cta-left
-    label: Section 4 CTA Left
-    default: <b>Documentation</b>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section5
-    label: Section 5 Text
-    default: <h2>Use Silex in your project</h2>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section5-cta-right
-    label: Section 5 CTA
-    default: <b>Download</b>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section6-cta-right
-    label: Section 6 VTA Right
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section6-cta-left
-    label: Section 6 CTA Left
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: section5-cta-left
-    label: Section 5 CTA Left
-    default: <b>Documentation</b>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: bkp
-    config:
-      required: true
-name: bkp.yml
 hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: textarea
+  name: section2
+  label: Section 2 Text
+  default: "<h2>Start Silex Online</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section2-cta-right
+  label: Section 2 CTA Right
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section2-cta-left
+  label: Section 2 CTA Left
+  default: Documentation
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section3
+  label: Section 3 Text
+  default: "<h2>Download Silex Desktop App</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section3-cta-right
+  label: Section 3 CTA Right
+  default: "<b>Downloads</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section4
+  label: Section 4
+  default: "<h2>Deploy to your Server</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section4-cta-right
+  label: Section 4 CTA Right
+  default: "<b>Start now</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section4-cta-left
+  label: Section 4 CTA Left
+  default: "<b>Documentation</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section5
+  label: Section 5 Text
+  default: "<h2>Use Silex in your project</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section5-cta-right
+  label: Section 5 CTA
+  default: "<b>Download</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section6-cta-right
+  label: Section 6 VTA Right
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section6-cta-left
+  label: Section 6 CTA Left
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: section5-cta-left
+  label: Section 5 CTA Left
+  default: "<b>Documentation</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: bkp
+  config:
+    required: true

@@ -1,6 +1,8 @@
 ---
-cta-primary: Get started!
-cta-link: More about freedom
+cta-primary: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
+  started!</strong></a></p>
+cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
+  title="Add Silex To Your Node.js Project">Documentation</a></p>
 lang: en
 layout: home
 title: Silex Website Builder | Free Open Source
@@ -44,8 +46,8 @@ footer-left: "<p></p>"
 footer-middle: "<p></p>"
 footer-right: "<p></p>"
 footer: "<p></p>"
-hero-above: ''
-hero-bellow: ''
+hero-above: 'Are you looking for:'
+hero-bellow: You are in the right place !
 alternate-sections: []
 permalink: "/"
 
