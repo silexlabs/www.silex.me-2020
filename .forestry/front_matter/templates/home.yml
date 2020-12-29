@@ -224,3 +224,5 @@ fields:
   default: home
   config:
     required: true
+pages:
+- pages/silex-website-builder-free-open-source.md
