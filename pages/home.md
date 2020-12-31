@@ -57,6 +57,16 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
 items:
+- image: "/uploads/ico-deploy-your-server.svg"
+  bg-color: ''
+  color: ''
+  text: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
+    the 1 click install, the docker image or just any server to create an instance
+    of Silex under your own name, for your users or just for hacking</p>"
+  cta-primary: <p><a href="https://heroku.com/deploy?template=https://github.com/silexlabs/Silex/tree/master"
+    title="1 click install to your server">1 CLICK INSTALL ON HEROKU</a></p>
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex#host-an-instance-of-silex-on-a-web-server"
+    title="How to host an instance of Silex">DOCUMENTATION</a></p>
 - image: "/uploads/ico-use-silex-for-project.svg"
   text: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, get it
     from npm</h3><p>Use npm to install Silex on you local computer or include it in
@@ -66,5 +76,7 @@ items:
     package on npm">SILEX ON NPM</a></p>
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
     title="Add Silex To Your Node.js Project">DOCUMENTATION</a></p>
+  bg-color: ''
+  color: ''
 
 ---
