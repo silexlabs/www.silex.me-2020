@@ -56,6 +56,15 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   designers">you’re a designer</a> making websites for customers,<br>you will love
   Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
-items: []
+items:
+- image: "/uploads/ico-use-silex-for-project.svg"
+  text: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, get it
+    from npm</h3><p>Use npm to install Silex on you local computer or include it in
+    a project, then run it with specific parameters or even replace some parts of
+    it</p>"
+  cta-primary: <p><a href="https://www.npmjs.com/package/silex-website-builder" title="Silex
+    package on npm">SILEX ON NPM</a></p>
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
+    title="Add Silex To Your Node.js Project">DOCUMENTATION</a></p>
 
 ---
