@@ -67,6 +67,14 @@ fields:
         name: ''
         label: ''
         default: ''
+      - type: color
+        name: color
+        label: Text color
+        default: ''
+      - type: color
+        name: bg-color
+        label: Background Color
+        default: ''
       - type: file
         name: image
         label: Illustration
