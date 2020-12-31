@@ -76,12 +76,14 @@ fields:
     label: Alternate Sections
     default: ''
     fields:
-      - &ref_0
-        type: file
+      - type: ''
+        name: ''
+        label: ''
+        default: ''
+      - type: file
         name: image
         label: Illustration
         default: ''
-      - *ref_0
       - type: textarea
         name: text
         label: Text
