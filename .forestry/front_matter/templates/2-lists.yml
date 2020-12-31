@@ -79,7 +79,7 @@ fields:
       - &ref_0
         type: file
         name: image
-        label: Image
+        label: Illustration
         default: ''
       - *ref_0
       - type: textarea
