@@ -84,17 +84,17 @@ fields:
           schema:
             format: html-blocks
       - type: textarea
-        name: cta-primary
-        label: CTA Primary
-        default: <b>Download</b>
+        name: cta-link
+        label: CTA Link
+        default: <b>Documentation</b>
         config:
           wysiwyg: true
           schema:
             format: html-blocks
       - type: textarea
-        name: cta-link
-        label: CTA Link
-        default: <b>Documentation</b>
+        name: cta-primary
+        label: CTA Primary
+        default: <b>Download</b>
         config:
           wysiwyg: true
           schema:
