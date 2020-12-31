@@ -10,7 +10,11 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - default
   - home
+  - list
+  - tiles-list
+  - 2-lists
 - type: document
   path: _data/common.json
   label: Common Sections
