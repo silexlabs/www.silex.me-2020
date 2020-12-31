@@ -221,27 +221,6 @@ fields:
             format: html-blocks
   - type: field_group_list
     name: items
-    label: Items
-    default: ''
-    fields:
-      - type: textarea
-        name: text
-        label: Text
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta
-        label: CTA
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: field_group_list
-    name: items
     label: Alternate Sections
     default: ''
     fields:
