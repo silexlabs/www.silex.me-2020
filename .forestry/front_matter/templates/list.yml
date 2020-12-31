@@ -1,84 +1,39 @@
 ---
+id: list
 label: List
-hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-  default: ''
-- type: text
-  name: description
-  label: Description
-  default: ''
-- type: file
-  name: image
-  label: Image
-  default: ''
-- type: textarea
-  name: header
-  label: Header Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: hero-cta
-  label: Hero CTA
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: text
-  label: Header text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: cta-primary
-  label: CTA Primary
-  default: Get started!
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: cta-link
-  label: CTA link
-  default: More about freedom
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: lang
-  label: Lang
-  default: en
-- type: field_group_list
-  name: items
-  label: Alternate Sections
-  default: ''
-  fields:
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
   - type: file
     name: image
-    label: Illustration
-    default: ''
-  - type: color
-    name: bg-color
-    label: Background Color
-    default: ''
-  - type: color
-    name: color
-    label: Text color
+    label: Image
     default: ''
   - type: textarea
+    name: header
+    label: Header Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
     name: text
-    label: Text
-    default: "<h2>Use Silex in your project</h2>"
+    label: Header text
+    default: ''
     config:
       wysiwyg: true
       schema:
@@ -86,28 +41,75 @@ fields:
   - type: textarea
     name: cta-primary
     label: CTA Primary
-    default: "<b>Download</b>"
+    default: Get started!
     config:
       wysiwyg: true
       schema:
         format: html-blocks
   - type: textarea
     name: cta-link
-    label: CTA Link
-    default: "<b>Documentation</b>"
+    label: CTA link
+    default: More about freedom
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: list
-  config:
-    required: true
+  - type: text
+    name: lang
+    label: Lang
+    default: en
+  - type: field_group_list
+    name: items
+    label: Alternate Sections
+    default: ''
+    fields:
+      - type: file
+        name: image
+        label: Illustration
+        default: ''
+      - type: color
+        name: bg-color
+        label: Background Color
+        default: ''
+      - type: color
+        name: color
+        label: Text color
+        default: ''
+      - type: textarea
+        name: text
+        label: Text
+        default: <h2>Use Silex in your project</h2>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-primary
+        label: CTA Primary
+        default: <b>Download</b>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-link
+        label: CTA Link
+        default: <b>Documentation</b>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: list
+    config:
+      required: true
+name: list.yml
+hide_body: true
