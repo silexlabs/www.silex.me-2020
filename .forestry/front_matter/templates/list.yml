@@ -67,17 +67,17 @@ fields:
         name: ''
         label: ''
         default: ''
-      - type: color
-        name: color
-        label: Text color
+      - type: file
+        name: image
+        label: Illustration
         default: ''
       - type: color
         name: bg-color
         label: Background Color
         default: ''
-      - type: file
-        name: image
-        label: Illustration
+      - type: color
+        name: color
+        label: Text color
         default: ''
       - type: textarea
         name: text
