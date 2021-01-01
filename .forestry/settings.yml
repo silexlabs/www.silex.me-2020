@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: sections
+  label: Sections
+  create: all
+  match: "**/*"
+- type: directory
   path: pages
   label: Pages
   create: documents
@@ -15,9 +20,6 @@ sections:
   - list
   - tiles-list
   - 2-lists
-- type: document
-  path: _data/langs.json
-  label: Common Sections
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
