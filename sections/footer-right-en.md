@@ -1,4 +1,5 @@
 ---
+tags: sections
 ---
 
 COMMUNITY
