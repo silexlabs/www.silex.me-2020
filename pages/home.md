@@ -57,9 +57,18 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
 items:
+- image: "/uploads/ico-download-silex-desktop-app.svg"
+  bg-color: ''
+  color: ''
+  text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
+    nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
+    on your computer, Windows, MacOS and Linux are supported.</p>"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
+    Silex desktop app">DOWNLOADS</a></p>
 - image: "/uploads/ico-deploy-your-server.svg"
-  bg-color: '#ffac54'
-  color: '#ffffff'
+  bg-color: "#ffac54"
+  color: "#ffffff"
   text: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
     the 1 click install, the docker image or just any server to create an instance
     of Silex under your own name, for your users or just for hacking</p>"
@@ -76,7 +85,7 @@ items:
     package on npm">SILEX ON NPM</a></p>
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
     title="Add Silex To Your Node.js Project">DOCUMENTATION</a></p>
-  bg-color: '#2ed5f6'
-  color: '#ffffff'
+  bg-color: "#2ed5f6"
+  color: "#ffffff"
 
 ---
