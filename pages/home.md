@@ -31,24 +31,6 @@ header-slideshow:
 - html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
-section7: "<p></p>"
-section7-cta-right: "<p></p>"
-section7-cta-left: "<p></p>"
-section8: "<p></p>"
-section8-cta-right: "<p></p>"
-section8-cta-left: "<p></p>"
-community: "<p></p>"
-community-meetup: "<p></p>"
-community-roadmap: "<p></p>"
-community-forums: "<p></p>"
-silexlabs: "<p></p>"
-footer-left: "<p></p>"
-footer-middle: "<p></p>"
-footer-right: "<p></p>"
-footer: "<p></p>"
-hero-above: 'Are you looking for:'
-hero-bellow: You are in the right place !
-alternate-sections: []
 permalink: "/"
 text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Silex
   for makers, DIY">you’re a maker</a> about to create your project''s website<br>or
@@ -72,7 +54,6 @@ items:
   text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
     nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
     on your computer, Windows, MacOS and Linux are supported.</p>"
-  cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
     Silex desktop app">DOWNLOADS</a></p>
 - image: "/uploads/ico-deploy-your-server.svg"
