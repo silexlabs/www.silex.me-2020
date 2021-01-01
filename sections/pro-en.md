@@ -1,5 +1,5 @@
 ---
-cta1: ''
+cta1: '[CONTACT THE TEAM](mailto:b2b@silex.me "Contact Silex team for professionals")'
 cta2: ''
 cta3: ''
 cta4: ''
