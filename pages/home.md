@@ -58,8 +58,8 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
 items:
 - image: "/uploads/ico-deploy-your-server.svg"
-  bg-color: ''
-  color: ''
+  bg-color: '#ffac54'
+  color: '#ffffff'
   text: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
     the 1 click install, the docker image or just any server to create an instance
     of Silex under your own name, for your users or just for hacking</p>"
@@ -76,7 +76,7 @@ items:
     package on npm">SILEX ON NPM</a></p>
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
     title="Add Silex To Your Node.js Project">DOCUMENTATION</a></p>
-  bg-color: ''
-  color: ''
+  bg-color: '#2ed5f6'
+  color: '#ffffff'
 
 ---
