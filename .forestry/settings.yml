@@ -16,7 +16,7 @@ sections:
   - tiles-list
   - 2-lists
 - type: document
-  path: _data/common.json
+  path: _data/langs.json
   label: Common Sections
 upload_dir: uploads
 public_path: "/uploads"
