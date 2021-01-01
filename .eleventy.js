@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
   const sitemap = require("@quasibit/eleventy-plugin-sitemap")
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: "https://internet2000.net",
+      hostname: "https://www.silex.me",
     },
   })
 
@@ -24,6 +24,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css/*.ico') // favicon
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
+  
+  eleventyConfig.addFilter('getSection', function(collection, name) {
+    return collection.find(item => item.fileSlug === name)
+  })
 
   // other config
   return {
