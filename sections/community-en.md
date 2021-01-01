@@ -1,4 +1,5 @@
 ---
+tags: sections
 cta1: |-
   [**SILEX MEETUPS**](https://www.meetup.com/Silex-Labs-Aperopensource/ "Join or create your Meetup group")
 
