@@ -39,5 +39,6 @@ fields:
       format: markdown
   label: CTA4
 pages:
+- sections/community-en.md
 - sections/freedom-en.md
 - sections/pro-en.md
