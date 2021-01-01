@@ -40,8 +40,8 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
-  bg-color: '#8873FE'
-  color: '#ffffff'
+  bg-color: "#8873FE"
+  color: "#ffffff"
   text: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
     the instance provided Silex Labs for free, no installation, store your data in
     your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
@@ -49,13 +49,14 @@ items:
   cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/#online"
     title="">START NOW!</a></p>
 - image: "/uploads/ico-download-silex-desktop-app.svg"
-  bg-color: '#ff557a'
+  bg-color: "#ff557a"
   color: "#ffffff"
   text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
     nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
     on your computer, Windows, MacOS and Linux are supported.</p>"
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
     Silex desktop app">DOWNLOADS</a></p>
+  cta-link: ''
 - image: "/uploads/ico-deploy-your-server.svg"
   bg-color: "#ffac54"
   color: "#ffffff"
@@ -77,5 +78,16 @@ items:
     title="Add Silex To Your Node.js Project">DOCUMENTATION</a></p>
   bg-color: "#2ed5f6"
   color: "#ffffff"
+- image: "/uploads/ico-header-features.svg"
+  bg-color: ''
+  color: ''
+  text: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
+    useful and powerful functionalities</h3>"
+  cta-link: <p><a href="https://silex2020-dev.netlify.app/features/" title="Silex
+    features">MORE FEATURES</a></p>
+  cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Get
+    started with Silex website builder"><strong>GET STARTED!</strong></a></p>
+hero-above: ''
+hero-bellow: ''
 
 ---
