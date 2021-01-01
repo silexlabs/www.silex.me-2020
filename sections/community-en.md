@@ -11,7 +11,10 @@ cta3: |-
   [**FORUMS**](https://github.com/silexlabs/Silex/issues "Silex forums")
 
   _Real advice from real people_
-cta4: ''
+cta4: |-
+  [**SILEXLABS**](https://www.silexlabs.org/ "The non profit which started it all")
+
+  The non profit where it all started
 
 ---
 ## **Follow us, join the community !**
