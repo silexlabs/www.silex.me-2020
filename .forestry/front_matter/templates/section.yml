@@ -38,3 +38,5 @@ fields:
     schema:
       format: markdown
   label: CTA4
+pages:
+- sections/pro-en.md
