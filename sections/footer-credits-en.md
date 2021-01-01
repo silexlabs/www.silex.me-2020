@@ -1,4 +1,5 @@
 ---
+tags: sections
 ---
 
 * Silex is maintained by [lexoyo](https://github.com/lexoyo "Alex Hoyau on github") and [Silex contributors](https://github.com/silexlabs/Silex/graphs/contributors "Silex contributions") since 2009.
