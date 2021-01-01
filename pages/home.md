@@ -57,6 +57,15 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
 items:
+- image: "/uploads/ico-start-silex-online-animated.svg"
+  bg-color: ''
+  color: ''
+  text: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
+    the instance provided Silex Labs for free, no installation, store your data in
+    your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">DOCUMENTATION</a></p>
+  cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/#online"
+    title="">START NOW!</a></p>
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: ''
   color: ''
