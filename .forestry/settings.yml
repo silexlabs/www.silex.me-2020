@@ -18,7 +18,7 @@ sections:
 - type: directory
   path: sections
   label: Sections
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - section
