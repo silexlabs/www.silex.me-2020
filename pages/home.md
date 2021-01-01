@@ -79,8 +79,8 @@ items:
   bg-color: "#2ed5f6"
   color: "#ffffff"
 - image: "/uploads/ico-header-features.svg"
-  bg-color: ''
-  color: ''
+  bg-color: '#ffffff'
+  color: '#000000'
   text: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
     useful and powerful functionalities</h3>"
   cta-link: <p><a href="https://silex2020-dev.netlify.app/features/" title="Silex
