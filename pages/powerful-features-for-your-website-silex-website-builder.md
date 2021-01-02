@@ -14,6 +14,10 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/features/#list" title="S
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
   use Silex to take control of their online presence.</h3>"
 items:
+- text: "<h3>Industry-Leading SEO</h3><p>Follow your own personalised SEO plan to
+    get your website found on Google. No restrictions, Silex simply make it easy for
+    you to add meta data, og: tags for the social nets, alt attributes for search
+    engines etc.</p>"
 - text: '<h3>Publish you website</h3><p>Hit "publish" when you are ready and <a href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
     title="Publish your website">get your site hosted for free</a> on <a href="https://pages.github.com/"
     title="Github pages">Github pages</a>, <a href="https://www.netlify.com/" title="Netlify">Netlify</a>,
