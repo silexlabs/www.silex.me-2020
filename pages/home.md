@@ -56,7 +56,7 @@ items:
     on your computer, Windows, MacOS and Linux are supported.</p>"
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
     Silex desktop app">DOWNLOADS</a></p>
-  cta-link: ''
+  cta-link: "<p></p>"
 - image: "/uploads/ico-deploy-your-server.svg"
   bg-color: "#ffac54"
   color: "#ffffff"
