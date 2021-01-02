@@ -9,7 +9,7 @@ cta3: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex forums
   advice from real people</em></p>
 cta4: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started.
-  The mission is to bring diversity in IT.</p>
+  It is all about bringing diversity in IT.</p>
 
 ---
 ## **Follow us, join the community !**
