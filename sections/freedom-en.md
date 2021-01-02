@@ -1,8 +1,9 @@
 ---
 tags: sections
-cta1: '[**GET STARTED!**](https://silex2020-dev.netlify.app/get-started/ "Get started
-  with Silex website builder")'
-cta2: '[MORE FEATURES](https://silex2020-dev.netlify.app/features/ "Silex features")'
+cta1: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Get started
+  with Silex website builder"><strong>GET STARTED!</strong></a></p>
+cta2: <p><a href="https://silex2020-dev.netlify.app/features/" title="Silex features">MORE
+  FEATURES</a></p>
 cta3: ''
 cta4: ''
 
