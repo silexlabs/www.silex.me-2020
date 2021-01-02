@@ -22,6 +22,14 @@ sections:
   match: "**/*"
   templates:
   - section
+- type: document
+  path: _data/nav.json
+  label: Nav
+  match: "**/*"
+- type: document
+  path: _data/Langs.json
+  label: Lang
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
