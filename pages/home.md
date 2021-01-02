@@ -6,8 +6,8 @@ cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-T
 lang: en
 layout: home
 title: Silex Website Builder | Free Open Source
-description: Create a fast **and** beautiful website with Silex, free open source
-  web design tool for makers.
+description: Create fast **and** beautiful websites with Silex, free open source web
+  design tool for makers.
 hero-slider:
 - Your website builder
 - A free and open source tool
