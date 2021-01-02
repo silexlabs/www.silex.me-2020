@@ -14,8 +14,10 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/features/#list" title="S
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
   use Silex to take control of their online presence.</h3>"
 items:
-- text: "<h3>Mobile Friendly</h3><p>Look amazing on every screen with a customizable
-    mobile-friendly version of your website.</p>"
+- text: <h3>Mobile Friendly</h3><p>Look amazing on every screen with a customisable
+    mobile-friendly version of your website. Learn more about <a href="https://github.com/silexlabs/Silex/wiki/FAQ#why-do-you-say-silex-is-mobile-friendly-is-it-the-same-as-responsive"
+    title="Silex FAQ, mobile friendly VS responsive websites">mobile friendly VS responsive
+    websites</a>.</p>
 - text: "<h3>Industry-Leading SEO</h3><p>Follow your own personalised SEO plan to
     get your website found on Google. No restrictions, Silex simply make it easy for
     you to add meta data, og: tags for the social nets, alt attributes for search
