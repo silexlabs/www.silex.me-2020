@@ -12,6 +12,13 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Cre
 text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 items:
+- image: "/uploads/ico-step-02.svg"
+  bg-color: ''
+  color: ''
+  text: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
+    images, videos &amp; more...</p>"
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 - image: "/uploads/01-diy_256.gif"
   bg-color: ''
   color: ''
