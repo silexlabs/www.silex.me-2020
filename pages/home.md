@@ -87,7 +87,7 @@ items:
     features">MORE FEATURES</a></p>
   cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Get
     started with Silex website builder"><strong>GET STARTED!</strong></a></p>
-hero-above: ''
-hero-bellow: ''
+hero-above: 'If you are looking for:'
+hero-bellow: You are in the right place !
 
 ---
