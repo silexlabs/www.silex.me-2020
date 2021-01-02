@@ -37,7 +37,7 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   <a href="https://silex2020-dev.netlify.app/create/" title="Silex, nocode tool for
   designers">you’re a designer</a> making websites for customers,<br>you will love
   Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
-  Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3><p><strong><br></strong></p>'
+  Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
   bg-color: "#8873FE"
