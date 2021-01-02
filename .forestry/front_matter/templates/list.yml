@@ -112,4 +112,4 @@ fields:
   config:
     required: true
 pages:
-- pages/diy-for-makers-silex-website-builder.md
+- pages/makers.md
