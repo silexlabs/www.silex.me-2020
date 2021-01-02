@@ -25,7 +25,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
   
-  eleventyConfig.addFilter('getCollectionItemByFileName', function(collection, name) {
+  eleventyConfig.addFilter('getCollectionItemByFileSlug', function(collection, name) {
     return collection.find(item => item.fileSlug === name)
   })
 
