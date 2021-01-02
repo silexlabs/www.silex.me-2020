@@ -83,3 +83,5 @@ fields:
   default: tiles-list
   config:
     required: true
+pages:
+- pages/powerful-features-for-your-website-silex-website-builder.md
