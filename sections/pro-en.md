@@ -1,7 +1,8 @@
 ---
-cta1: '[CONTACT THE TEAM](mailto:b2b@silex.me "Contact Silex team for professionals")'
-cta2: '[MORE PRO FEATURES](https://silex2020-dev.netlify.app/professionals/ "Silex
-  PRO features for agencies")'
+cta1: <p><a href="mailto:b2b@silex.me" title="Contact Silex team for professionals">CONTACT
+  THE TEAM</a></p>
+cta2: <p><a href="https://silex2020-dev.netlify.app/professionals/" title="Silex PRO
+  features for agencies">MORE PRO FEATURES</a></p>
 cta3: ''
 cta4: ''
 
