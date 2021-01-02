@@ -11,9 +11,9 @@ description: Create a fast **and** beautiful website with Silex, free open sourc
 hero-slider:
 - Your website builder
 - A free and open source tool
-- To learn about standards and web design
+- Learn web design
 - A friendly community
-- A Wix for makers like you
+- A better Wix for makers like you
 - A hackable Unbounce alternative
 - An Adobe muse successor
 hero-cta: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
@@ -79,8 +79,8 @@ items:
   bg-color: "#2ed5f6"
   color: "#ffffff"
 - image: "/uploads/ico-header-features.svg"
-  bg-color: '#ffffff'
-  color: '#000000'
+  bg-color: "#ffffff"
+  color: "#000000"
   text: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
     useful and powerful functionalities</h3>"
   cta-link: <p><a href="https://silex2020-dev.netlify.app/features/" title="Silex
