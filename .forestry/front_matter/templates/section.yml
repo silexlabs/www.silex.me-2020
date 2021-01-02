@@ -9,7 +9,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: CTA1
 - name: cta2
   type: textarea
@@ -18,7 +18,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: CTA2
 - name: cta3
   type: textarea
@@ -27,7 +27,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: CTA3
 - name: cta4
   type: textarea
@@ -36,7 +36,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
   label: CTA4
 pages:
 - sections/community-en.md
