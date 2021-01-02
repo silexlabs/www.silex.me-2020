@@ -25,11 +25,9 @@ sections:
 - type: document
   path: _data/nav.json
   label: Nav
-  match: "**/*"
 - type: document
-  path: _data/Langs.json
+  path: _data/langs.json
   label: Lang
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
