@@ -14,7 +14,7 @@ hero-slider:
 - Learn web design
 - A friendly community
 - A better Wix for makers like you
-- A hackable Unbounce alternative
+- An Unbounce alternative
 - An Adobe muse successor
 hero-cta: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
