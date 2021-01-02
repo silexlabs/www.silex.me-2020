@@ -12,6 +12,15 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Cre
 text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 items:
+- image: "/uploads/ico-step-01.svg"
+  bg-color: ''
+  color: ''
+  text: <h2>Get started</h2><p><a href="https://silex2020-dev.netlify.app/get-started/"
+    title="Silex editor">Open Silex in a browser</a>, or <a href="https://silex2020-dev.netlify.app/makers/"
+    title="">install the app on your computer</a>,<br>choose a free template or start
+    with a blank page</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 - image: "/uploads/ico-step-02.svg"
   bg-color: ''
   color: ''
