@@ -3,8 +3,9 @@ cta-primary: "<p></p>"
 cta-link: "<p></p>"
 lang: en
 layout: tiles-list
-title: ''
-description: ''
+title: Design professional websites | Silex website builder
+description: Design a website as you would draw it, iterate over your design, embrace
+  the live web creation process.
 image: ''
 header: "<h2>Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>"
 hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
