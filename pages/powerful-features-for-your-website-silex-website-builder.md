@@ -14,6 +14,8 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/features/#list" title="S
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
   use Silex to take control of their online presence.</h3>"
 items:
+- text: "<h3>Live web creation</h3><p>When you change something in Silex, you see
+    the result immediately. Iterating on design is much easier.</p>"
 - text: "<h3>External dynamic content</h3><p>Copy paste the embed code of your favorite
     services such as YouTube, SoundCloud, Twitter, etc.</p>"
 - text: <h3>Forms</h3><p>Use Silex form component and plug it to <a href="https://formspree.io/"
