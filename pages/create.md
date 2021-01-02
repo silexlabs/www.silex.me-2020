@@ -7,7 +7,7 @@ title: Design professional websites | Silex website builder
 description: Design a website as you would draw it, iterate over your design, embrace
   the live web creation process.
 image: "/uploads/ico-header-freedom.svg"
-header: "<h2>Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>"
+header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freedom.</h2>"
 hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
   website in Silex">GET STARTED!</a></p>
 text: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
