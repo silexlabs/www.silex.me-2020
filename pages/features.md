@@ -7,8 +7,8 @@ layout: tiles-list
 title: Powerful Features For Your Website | Silex Website Builder
 description: List of features of Silex open source website builder
 image: "/uploads/ico-header-features.svg"
-header: "<h2><strong>Powerful features for your website</strong></h2><h3>What makes
-  Silex website builder<br>the best choice for you?</h3>"
+header: "<h1><strong>Powerful features<br>for your website</strong></h1><h2>What makes
+  Silex website builder<br>the best choice for you?</h2>"
 hero-cta: <p><a href="https://silex2020-dev.netlify.app/features/#list" title="Scroll
   to the feature list"><strong>LIST OF FEATURES</strong></a></p>
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
