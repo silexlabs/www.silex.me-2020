@@ -12,6 +12,8 @@ hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Cre
   website in Silex">GET STARTED!</a></p>
 text: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
 items:
+- text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><strong>iterate
+    over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
 - text: "<h2>♥ Open source free software</h2><p>Silex is <strong>forever free</strong>,
     integrates with<strong> other tools</strong>,<br>has endless <strong>customization</strong>.</p>"
 - text: "<h2>Total design freedom, DIY!</h2><p>Create any <strong>custom design</strong>,
