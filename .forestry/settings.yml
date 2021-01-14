@@ -27,7 +27,7 @@ sections:
   label: Nav
 - type: document
   path: _data/langs.json
-  label: Lang
+  label: Defaults
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
