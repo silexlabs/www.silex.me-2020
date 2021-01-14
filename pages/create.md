@@ -8,7 +8,7 @@ description: Design a website as you would draw it, iterate over your design, em
   the live web creation process.
 image: "/uploads/ico-header-freedom.svg"
 header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freedom.</h2>"
-hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
+hero-cta: <p><a href="./get-started/" title="Create
   website in Silex">GET STARTED!</a></p>
 text: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
 items:

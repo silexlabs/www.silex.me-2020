@@ -7,7 +7,7 @@ title: DIY for makers | Silex website builder
 description: Produce a website for free with this Low-code / no-code tool for Makers
 image: "/uploads/ico-header-freedom.svg"
 header: "<h1>Take full control<br>over your web presence</h1><h2>DIY style!</h2>"
-hero-cta: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
+hero-cta: <p><a href="./get-started/" title="Create
   website in Silex">GET STARTED!</a></p>
 text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
@@ -15,8 +15,8 @@ items:
 - image: "/uploads/ico-step-01.svg"
   bg-color: ''
   color: ''
-  text: <h2>Get started</h2><p><a href="https://silex2020-dev.netlify.app/get-started/"
-    title="Silex editor">Open Silex in a browser</a>, or <a href="https://silex2020-dev.netlify.app/makers/"
+  text: <h2>Get started</h2><p><a href="./get-started/"
+    title="Silex editor">Open Silex in a browser</a>, or <a href="./makers/"
     title="">install the app on your computer</a>,<br>choose a free template or start
     with a blank page</p>
   cta-link: "<p></p>"
@@ -61,7 +61,7 @@ items:
     feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript
     from within Silex.</p>"
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
+  cta-primary: <p><a href="./get-started/" title="Create
     website in Silex">GET STARTED!</a></p>
 - image: ''
   bg-color: ''
@@ -70,7 +70,7 @@ items:
     simple yet powerful:<br>no databases, no template language, no plugins.<br>This
     means no security issues, no "important" updates.</p>
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/" title="Create
+  cta-primary: <p><a href="./get-started/" title="Create
     website in Silex">GET STARTED!</a></p>
 permalink: "/makers/"
 
