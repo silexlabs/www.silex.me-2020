@@ -40,6 +40,8 @@ text: '<h3>Whether <a href="https://silex2020-dev.netlify.app/makers/" title="Si
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
+  color: "#ffffff"
+  bg-color: "#8873FE"
   text: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
     the instance provided Silex Labs for free, no installation, store your data in
     your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
