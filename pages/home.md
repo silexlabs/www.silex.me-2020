@@ -32,11 +32,10 @@ header-slideshow:
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
 permalink: "/"
-text: '<h3>Whether <a href="./makers/" title="Silex
-  for makers, DIY">you’re a maker</a> about to create your project''s website<br>or
-  <a href="./create/" title="Silex, nocode tool for
-  designers">you’re a designer</a> making websites for customers,<br>you will love
-  Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
+text: '<h3>Whether <a href="./makers/" title="Silex for makers, DIY">you’re a maker</a>
+  about to create your project''s website<br>or <a href="./create/" title="Silex,
+  nocode tool for designers">you’re a designer</a> making websites for customers,<br>you
+  will love Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
@@ -47,8 +46,8 @@ items:
     your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
   cta-link: <p><a href="./get-started/#online" title="Self hosted Silex instances">Community
     instances</a></p>
-  cta-primary: <p><a href="./get-started/#online"
-    title="">START NOW!</a></p>
+  cta-primary: <p><a href="https://editor.silex.me/" title="Silex editor, hosted by
+    Silex Labs">START NOW!</a></p>
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
@@ -84,10 +83,9 @@ items:
   color: "#000000"
   text: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
     useful and powerful functionalities</h3>"
-  cta-link: <p><a href="./features/" title="Silex
-    features">MORE FEATURES</a></p>
-  cta-primary: <p><a href="./get-started/" title="Get
-    started with Silex website builder"><strong>GET STARTED!</strong></a></p>
+  cta-link: <p><a href="./features/" title="Silex features">MORE FEATURES</a></p>
+  cta-primary: <p><a href="./get-started/" title="Get started with Silex website builder"><strong>GET
+    STARTED!</strong></a></p>
 hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
 
