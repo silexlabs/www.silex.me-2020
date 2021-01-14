@@ -1,6 +1,7 @@
 ---
 label: Tiles list
 hide_body: true
+display_field: permalink
 fields:
 - type: text
   name: title
