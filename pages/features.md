@@ -1,5 +1,5 @@
 ---
-cta-primary: <p><a href="./get-started/" title="Get started with Silex website builder"><strong>GET
+cta-primary: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>GET
   STARTED!</strong></a></p>
 cta-link: "<p></p>"
 lang: en
