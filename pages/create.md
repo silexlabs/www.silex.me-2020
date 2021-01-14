@@ -13,8 +13,8 @@ text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
 - text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><strong>iterate
     over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
-- text: "<h2>♥ Open source free software</h2><p>Silex is <strong>forever free</strong>,
-    integrates with<strong> other tools</strong>,<br>has endless <strong>customization</strong>.</p>"
+- text: "<h2>♥ Open source free software</h2><p>Silex is <em>forever free</em>, integrates
+    with<strong> </strong><em>other tools</em>,<br>has endless <em>customization</em>.</p>"
 - text: "<h2>Total design freedom, DIY!</h2><p>Create any <strong>custom design</strong>,
     clone a website pixel perfect.<br>Elements are absolutely positioned to make it
     feel natural.<br>Use the <strong>mobile editor</strong> to design the mobile version
