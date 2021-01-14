@@ -1,16 +1,16 @@
 ---
-cta-primary: <p><a href="./get-started/" title="Get
-  started with Silex website builder"><strong>GET STARTED!</strong></a></p>
+cta-primary: <p><a href="./get-started/" title="Get started with Silex website builder"><strong>GET
+  STARTED!</strong></a></p>
 cta-link: "<p></p>"
 lang: en
 layout: tiles-list
 title: Powerful Features For Your Website | Silex Website Builder
 description: List of features of Silex open source website builder
 image: "/uploads/ico-header-features.svg"
-header: "<h1><strong>Powerful features<br>for your website</strong></h1><h2>What makes
-  Silex website builder<br>the best choice for you?</h2>"
-hero-cta: <p><a href="./features/#list" title="Scroll
-  to the feature list"><strong>LIST OF FEATURES</strong></a></p>
+header: "<h1>Powerful features<br>for your website</h1><h2>What makes Silex website
+  builder<br>the best choice for you?</h2>"
+hero-cta: <p><a href="./features/#list" title="Scroll to the feature list"><strong>LIST
+  OF FEATURES</strong></a></p>
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
   use Silex to take control of their online presence.</h3>"
 items:
