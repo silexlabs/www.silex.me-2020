@@ -11,26 +11,25 @@ header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freed
 hero-cta: <p><a href="./get-started/" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
-- text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><strong>iterate
-    over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
+- text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><em>iterate
+    over your design</em>,<br>embrace the <em>live web creation</em> process</p>"
 - text: "<h2>♥ Open source free software</h2><p>Silex is <em>forever free</em>, integrates
     with<strong> </strong><em>other tools</em>,<br>has endless <em>customization</em>.</p>"
-- text: "<h2>Total design freedom, DIY!</h2><p>Create any <strong>custom design</strong>,
+- text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
     clone a website pixel perfect.<br>Elements are absolutely positioned to make it
-    feel natural.<br>Use the <strong>mobile editor</strong> to design the mobile version
-    too.</p>"
-- text: "<h2>DIY spirit</h2><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
-    friendly</strong>,<br>with a <strong>loving community</strong></p>"
+    feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
+- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,<br>with
+    a <em>loving community</em></p>"
 - text: <h2>Beyond nice looking</h2><p>Due to its static nature, your website will
     be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
-    title="Google PSI test">Page Speed Insight</a> score for Silex websites is<br><strong>&gt;
-    90% on desktop as well as on mobile</strong>.</p>
+    title="Google PSI test">Page Speed Insight</a> score for Silex websites is<br><em>&gt;
+    90% on desktop as well as on mobile.</em></p>
 - text: "<h2>Hacking without limits</h2><p>You can code from within the editor,<br>with<strong>
-    immediate feedback</strong>.<br><strong>Add any front end feature</strong>. Plug
+    </strong><em>immediate feedback</em>.<br><em>Add any front end feature</em>. Plug
     into any third party API.</p>"
 - text: <h2>The static nature of your<br>drag and drop editor</h2><p>Silex uses only
     file, so it has<br>no databases, no template language, no plugins.<br>This means
-    <strong>no security issues</strong>, <strong>no "important" updates</strong>.</p>
+    <em>no security issues, no "important" updates</em>.</p>
 permalink: "/create/"
 
 ---
