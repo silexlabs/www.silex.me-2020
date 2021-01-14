@@ -45,7 +45,7 @@ items:
   text: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
     the instance provided Silex Labs for free, no installation, store your data in
     your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
-  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">DOCUMENTATION</a></p>
+  cta-link: "<p>Community instances</p>"
   cta-primary: <p><a href="https://silex2020-dev.netlify.app/get-started/#online"
     title="">START NOW!</a></p>
 - image: "/uploads/ico-download-silex-desktop-app.svg"
