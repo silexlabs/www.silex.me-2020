@@ -8,9 +8,8 @@ description: Design a website as you would draw it, iterate over your design, em
   the live web creation process.
 image: "/uploads/ico-header-freedom.svg"
 header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freedom.</h2>"
-hero-cta: <p><a href="./get-started/" title="Create
-  website in Silex">GET STARTED!</a></p>
-text: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
+hero-cta: <p><a href="./get-started/" title="Create website in Silex">GET STARTED!</a></p>
+text: "<h2>Why choose Silex</h2><h3>To showcase your next product or big project?</h3>"
 items:
 - text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><strong>iterate
     over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
