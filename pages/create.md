@@ -21,9 +21,9 @@ items:
 - text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,<br>with
     a <em>loving community</em></p>"
 - text: <h2>Beyond nice looking</h2><p>Due to its static nature, your website will
-    be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
+    be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.silex.me"
     title="Google PSI test">Page Speed Insight</a> score for Silex websites is<br><em>&gt;
-    90% on desktop as well as on mobile.</em></p>
+    90% on mobile and desktop.</em></p>
 - text: "<h2>Hacking without limits</h2><p>You can code from within the editor,<br>with<strong>
     </strong><em>immediate feedback</em>.<br><em>Add any front end feature</em>. Plug
     into any third party API.</p>"
