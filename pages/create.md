@@ -25,7 +25,7 @@ items:
   color: "#000000"
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source
-    code"><strong>Silex source code</strong></a></p>
+    code">Silex source code</a></p>
 - text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
     clone a website pixel perfect.<br>Elements are absolutely positioned to make it
     feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
@@ -34,9 +34,9 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,<br>with
-    a <em>loving community</em></p>"
-  image: ''
+- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
+    with a <em>loving community</em></p>"
+  image: "/uploads/01-diy_256.gif"
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: ''
@@ -45,7 +45,7 @@ items:
     be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.silex.me"
     title="Google PSI test">Page Speed Insight</a> score for Silex websites is<br><em>&gt;
     90% on mobile and desktop.</em></p>
-  image: ''
+  image: "/uploads/02-publish_64.gif"
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: ''
