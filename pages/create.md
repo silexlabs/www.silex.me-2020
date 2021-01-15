@@ -24,7 +24,7 @@ items:
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: "<p></p>"
-  cta-primary: <p><a href="" title=""><strong>Silex source code</strong></a></p>
+  cta-primary: <p><a href="" title="">Silex source code</a></p>
 - text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
     clone a website pixel perfect.<br>Elements are absolutely positioned to make it
     feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
