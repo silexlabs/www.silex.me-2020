@@ -11,9 +11,9 @@ header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freed
 hero-cta: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
-- text: "<h2>Creative process</h2><p>Design a website as you would draw it,<br><em>iterate
-    over your design</em>,<br>embrace the <em>live web creation</em> process</p>"
-  image: ''
+- text: "<h2>Creative process</h2><p>Design a website as you would draw it, <em>iterate
+    over your design</em>, embrace the <em>live web creation</em> process</p>"
+  image: "/uploads/01-diy_256.gif"
   bg-color: ''
   color: ''
   cta-link: ''
