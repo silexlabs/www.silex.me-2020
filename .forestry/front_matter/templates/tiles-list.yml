@@ -85,5 +85,4 @@ fields:
   config:
     required: true
 pages:
-- pages/create.md
 - pages/features.md
