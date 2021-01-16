@@ -33,8 +33,8 @@ header-slideshow:
     design the mobile version too.</p>
 permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
-  about to create your project''s website<br>or <a href="/create/" title="Silex,
-  nocode tool for designers">you’re a designer</a> making websites for customers,<br>you
+  about to create your project''s website<br>or <a href="/create/" title="Silex, nocode
+  tool for designers">you’re a designer</a> making websites for customers,<br>you
   will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
@@ -54,8 +54,8 @@ items:
   text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
     nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
     on your computer, Windows, MacOS and Linux are supported.</p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
-    Silex desktop app">DOWNLOADS</a></p>
+  cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
 - image: "/uploads/ico-deploy-your-server.svg"
   bg-color: "#ffac54"
