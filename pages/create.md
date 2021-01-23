@@ -18,24 +18,17 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>♥ Open source free software</h2><p>Silex is <em>forever free</em>, integrates
-    with<strong> </strong><em>other tools</em>, has endless <em>customization</em>.</p>"
-  image: "/uploads/ico-step-02-1.svg"
-  bg-color: "#ffffff"
-  color: "#000000"
-  cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source on github">Silex source code</a></p>
-- text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
-    clone a website pixel perfect.<br>Elements are absolutely positioned to make it
-    feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
-  image: ''
+- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
+    with a <em>loving community</em></p>"
+  image: "/uploads/01-diy_256.gif"
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
-    with a <em>loving community</em></p>"
-  image: "/uploads/01-diy_256.gif"
+- text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
+    clone a website pixel perfect.<br>Elements are absolutely positioned to make it
+    feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
+  image: ''
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: ''
@@ -65,6 +58,14 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
+- text: "<h2>♥ Open source free software</h2><p>Silex is <em>forever free</em>, integrates
+    with<strong> </strong><em>other tools</em>, has endless <em>customization</em>.</p>"
+  image: "/uploads/ico-step-02-1.svg"
+  bg-color: "#ffffff"
+  color: "#000000"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source
+    on github">Silex source code</a></p>
 permalink: "/create/"
 
 ---
