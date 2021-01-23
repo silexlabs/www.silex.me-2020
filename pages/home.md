@@ -16,7 +16,7 @@ hero-slider:
 - A better Wix for makers like you
 - An Unbounce alternative
 - An Adobe muse successor
-hero-cta: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
+hero-cta: <p><a href="#list" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 header-slideshow:
 - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
