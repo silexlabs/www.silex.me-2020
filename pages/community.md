@@ -24,10 +24,10 @@ items:
   color: ''
   text: "<h2>HOSTING YOUR SITE FOR FREE</h2><p>Your work on silex.me will result in
     HTML pages stored on your computer.<br>Let Silex publish your site and host it
-    anywhere.<br>Or use the options to publish directly to trusted free hosting companies.</p>"
+    anywhere.</p><p>Or use the options to publish directly to trusted free hosting
+    companies.</p>"
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
-    title="About publication">Publication docs</a></p>
+  cta-primary: "<p></p>"
 permalink: "/community/"
 
 ---
