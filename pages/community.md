@@ -28,6 +28,16 @@ items:
     companies.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-permalink: "/community/"
+- image: ''
+  bg-color: ''
+  color: ''
+  text: <h2>GET INVOLVED </h2><h3>Let us know about you, participate!</h3><p>If you
+    want to be even more helpful, here is a list of <a href="https://github.com/silexlabs/Silex/wiki/Contribute"
+    title="Give 5 min of your time">simple things you can do</a> for your favorite
+    website builder ;)</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Contribute" title="Here
+    is how to contribute"><strong>Get involved!</strong></a></p>
+permalink: "/free/"
 
 ---
