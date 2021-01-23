@@ -63,9 +63,9 @@ items:
   image: "/uploads/ico-step-02-1.svg"
   bg-color: "#ffffff"
   color: "#000000"
-  cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source
-    on github">Silex source code</a></p>
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source on
+    github">Silex source code</a></p>
+  cta-primary: <p><a href="/#list" title="Start building a website now">Get started</a></p>
 permalink: "/create/"
 
 ---
