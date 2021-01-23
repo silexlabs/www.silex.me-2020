@@ -124,3 +124,5 @@ fields:
   default: 2-lists
   config:
     required: true
+pages:
+- pages/community.md

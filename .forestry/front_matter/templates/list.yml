@@ -113,7 +113,6 @@ fields:
     required: true
 pages:
 - pages/community-and-partners-silex-website-builder.md
-- pages/community.md
 - pages/create.md
 - pages/makers.md
 - pages/pro.md
