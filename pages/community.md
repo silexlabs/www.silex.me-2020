@@ -50,6 +50,7 @@ items:
     is how to contribute"><strong>Get involved!</strong></a></p>
 permalink: "/free/"
 tiles:
+- text: <p><a href="https://www.browserstack.com/" title="BrowserStack"><img src="/uploads/logo-browserstack.jpg"></a></p>
 - text: <p><img src="/uploads/pastille_internet2000.png" title="Internet 2000 web
     agency" alt="https://internet2000.net/"></p>
 - text: <p><a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-" title="Silex
