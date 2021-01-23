@@ -48,6 +48,15 @@ items:
   cta-link: <p><a href="https://editor.silex.me/" title="">Try Silex online now</a></p>
   cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Integrate-Silex-with-your-infrastructure"
     title="Docs: Integrate Silex with your infrastructure">Read the docs</a></p>'
+- image: ''
+  bg-color: ''
+  color: ''
+  text: <h2>Developers, create Silex components</h2><p>Silex components are elements
+    you can add to a website through the "+" menu. They are created with a tool called
+    "Prodotype" which compiles them for Silex and generates the UI.</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Create-Silex-components"
+    title="Create Silex components">Read the docs</a></p>
 permalink: "/pro/"
 
 ---
