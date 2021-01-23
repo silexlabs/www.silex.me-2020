@@ -61,7 +61,7 @@ items:
   cta-link: ''
   cta-primary: ''
 - text: <h2>The static nature of your<br>drag and drop editor</h2><p>Silex uses only
-    file, so it has<br>no databases, no template language, no plugins.<br>This means
+    file, so it has no databases, no template language, no plugins.<br>This means
     <em>no security issues, no "important" updates</em>.</p>
   image: ''
   bg-color: "#ffffff"
