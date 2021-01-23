@@ -21,7 +21,8 @@ items:
     components, you are free to offer your designers or customers a drag and drop
     website editor they will love</p>"
   cta-link: "<p></p>"
-  cta-primary: "<p></p>"
+  cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Editor-API"
+    title="Customize Silex: the editor API">Read the docs</a></p>'
 permalink: "/pro/"
 
 ---
