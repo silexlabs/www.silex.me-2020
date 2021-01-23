@@ -11,14 +11,6 @@ header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #Freed
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
-- image: ''
-  bg-color: ''
-  color: ''
-  text: "<h2>Get online fast and for free!</h2><p>When you are ready, publish your
-    website Silex integrates with professional hosting providers offering free plans
-    including your own domain name without ads.</p>"
-  cta-link: "<b>Documentation</b>"
-  cta-primary: "<b>Download</b>"
 - text: "<h2>Creative process</h2><p>Design a website as you would draw it, <em>iterate
     over your design</em>, embrace the <em>live web creation</em> process</p>"
   image: "/uploads/01-diy_256.gif"
@@ -26,13 +18,14 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
-    with a <em>loving community</em></p>"
-  image: "/uploads/01-diy_256.gif"
-  bg-color: "#ffffff"
-  color: "#000000"
-  cta-link: ''
-  cta-primary: ''
+- image: ''
+  bg-color: ''
+  color: ''
+  text: "<h2>Get online fast and for free!</h2><p>When you are ready, publish your
+    website Silex integrates with professional hosting providers offering free plans
+    including your own domain name without ads.</p>"
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 - text: "<h2>Total design freedom, DIY!</h2><p>Create any <em>custom design</em>,
     clone a website pixel perfect.<br>Elements are absolutely positioned to make it
     feel natural.<br>Use the <em>mobile editor</em> to design the mobile version too.</p>"
@@ -50,9 +43,16 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>Hacking without limits</h2><p>You can code from within the editor,<br>with<strong>
-    </strong><em>immediate feedback</em>.<br><em>Add any front end feature</em>. Plug
-    into any third party API.</p>"
+- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
+    with a <em>loving community</em></p>"
+  image: "/uploads/01-diy_256.gif"
+  bg-color: "#ffffff"
+  color: "#000000"
+  cta-link: ''
+  cta-primary: ''
+- text: "<h2>Hacking without limits</h2><p>You can code from within the editor in
+    JS or CSS, with<strong> </strong><em>immediate feedback</em>.<br><em>Add any front
+    end feature</em>. Plug into any third party API.</p>"
   image: ''
   bg-color: "#ffffff"
   color: "#000000"
