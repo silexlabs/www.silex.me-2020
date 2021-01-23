@@ -9,9 +9,10 @@ image: "/uploads/ico-header-community.svg"
 header: "<h2><strong>More about freedom</strong></h2><h3>Silex is free and open source
   because free minds need to have free tools</h3>"
 hero-cta: <p><a href="/#list" title="See how to get started with Silex">GET STARTED!</a></p>
-text: "<h2>FREE, FREE HOW ?</h2><p>Only a non profit can make it free like this, without
-  hidden costs or licensing hassle. You are welcome to contribute and to offer services
-  to the community.</p>"
+text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-"
+  title="About Silex Labs">a non profit</a> can make it free like this, without hidden
+  costs or licensing hassle. You are welcome to contribute and to offer services to
+  the community.</p>
 items:
 - image: ''
   bg-color: ''
@@ -48,5 +49,9 @@ items:
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Contribute" title="Here
     is how to contribute"><strong>Get involved!</strong></a></p>
 permalink: "/free/"
+tiles:
+- text: <p><a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-" title="Silex
+    Labs org"><img src="/uploads/silexlabs.png"></a></p>
+tile-list-title: "<h2>Proudly sponsored by the best</h2>"
 
 ---
