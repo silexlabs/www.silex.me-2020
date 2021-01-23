@@ -3,7 +3,7 @@ cta-primary: Get started!
 cta-link: More about freedom
 lang: en
 layout: list
-title: Silex Community
+title: Silex Website Builder | Open Community
 description: Silex is free software, for you and me to build websites
 image: "/uploads/ico-header-community.svg"
 header: "<h2><strong>More about freedom</strong></h2><h3>Silex is free and open source
