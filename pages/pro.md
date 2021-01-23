@@ -30,7 +30,7 @@ items:
     designer with components which appear in the "+" menu. The designer adds custom
     components to her site, using Silex UI to change its style and behavior.</p>
   cta-link: "<p></p>"
-  cta-primary: "<p>Read more about custom components</p>"
+  cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
   color: ''
