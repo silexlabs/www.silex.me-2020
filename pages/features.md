@@ -13,7 +13,7 @@ header: "<h1>Powerful features<br>for your website</h1><h2>What makes Silex webs
 hero-cta: <p><a href="#list" title="Scroll to the feature list"><strong>LIST OF FEATURES</strong></a></p>
 text: "<h2>Try Silex open source website builder now</h2><h3>Every day, people worldwide
   use Silex to take control of their online presence.</h3>"
-items:
+tiles:
 - text: <h3>Mobile Friendly</h3><p>Look amazing on every screen with a customisable
     mobile-friendly version of your website. Learn more about <a href="https://github.com/silexlabs/Silex/wiki/FAQ#why-do-you-say-silex-is-mobile-friendly-is-it-the-same-as-responsive"
     title="Silex FAQ, mobile friendly VS responsive websites">mobile friendly VS responsive
