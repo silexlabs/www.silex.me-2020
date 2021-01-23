@@ -55,17 +55,17 @@ items:
 - image: ''
   bg-color: "#ffffff"
   color: "#808080"
-  text: <h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is extremely
-    simple yet powerful:<br>no databases, no template language, no plugins.<br>This
-    means no security issues, no "important" updates.</p>
+  text: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is extremely
+    simple yet powerful: no databases, no template language, no plugins.<br>This means
+    no security issues, no "important" updates.</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
 - image: "/uploads/ico-step-01.svg"
   bg-color: "#ffffff"
   color: "#808080"
   text: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open Silex
-    in a browser</a>, or <a href="/makers/" title="">install the app on your computer</a>,<br>choose
-    a free template or start with a blank page</p>
+    in a browser</a>, or <a href="/makers/" title="">install the app on your computer</a>,
+    choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
 permalink: "/makers/"
