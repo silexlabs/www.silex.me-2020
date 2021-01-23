@@ -51,8 +51,8 @@ items:
 permalink: "/free/"
 tiles:
 - text: <p><a href="https://www.browserstack.com/" title="BrowserStack"><img src="/uploads/logo-browserstack.jpg"></a></p>
-- text: <p><img src="/uploads/pastille_internet2000.png" title="Internet 2000 web
-    agency" alt="https://internet2000.net/"></p>
+- text: <p><a href="https://internet2000.net/" title="Internet 2000 web agency"><img
+    src="/uploads/pastille_internet2000.png"></a></p>
 - text: <p><a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-" title="Silex
     Labs org"><img src="/uploads/silexlabs.png"></a></p>
 tile-list-title: "<h2>Proudly sponsored by</h2>"
