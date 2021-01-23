@@ -1,5 +1,5 @@
 ---
-cta-primary: <p><a href="#list" title="Get started with Silex website builder"><strong>Get
+cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
   title="Add Silex To Your Node.js Project">Documentation</a></p>
