@@ -8,7 +8,7 @@ description: Fully customizable website creation tool, with a vision and a great
   model.
 image: "/uploads/ico-header-pro.svg"
 header: "<h1>Silex for professionals</h1><h2>Silex is the best no-code tool<br>for
-  companies who need <em>their</em> website builder</h2>"
+  companies and freelancers who want <em>their</em> website builder</h2>"
 hero-cta: ''
 text: "<h2>Freelancers, agencies, hosting companies, Silex is the best at being customised,
   white labeled and integrated to your infrastructure</h2><h3>From white label features
