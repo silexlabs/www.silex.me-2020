@@ -3,7 +3,7 @@ cta-primary: "<p></p>"
 cta-link: "<p></p>"
 lang: en
 layout: list
-title: Silex Website Builder | Community and partners
+title: Free software, free of charge, freehand webdesign | Silex Website Builder
 description: Silex is free software, for you and me to build websites
 image: "/uploads/ico-header-community.svg"
 header: "<h2><strong>More about freedom</strong></h2><h3>Silex is free and open source
