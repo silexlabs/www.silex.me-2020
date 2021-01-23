@@ -51,6 +51,16 @@ items:
 - image: ''
   bg-color: ''
   color: ''
+  text: "<h2>Freelance designers</h2><p>Like more and more designers, use Silex to
+    produce websites for clients. You do not need a developer for showcase websites
+    or marketing websites or landing pages.</p>"
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex forums">Ask
+    us a question now</a></p>
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki" title="Silex user
+    docs">Read the user documentation</a></p>
+- image: ''
+  bg-color: ''
+  color: ''
   text: <h2>Developers, create Silex components</h2><p>Silex components are elements
     you can add to a website through the "+" menu. They are created with a tool called
     "Prodotype" which compiles them for Silex and generates the UI.</p>
