@@ -4,8 +4,8 @@ cta1: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex forums
   advice from real people</em></p>
 cta2: <p><a href="https://github.com/silexlabs/Silex/milestones" title="Silex open
   source roadmap"><strong>ROAD MAP</strong></a></p><p>Add "+1" for features you like</p>
-cta3: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex forums"><strong>Source
-  Code</strong></a></p><p>Here is the <em>source code</em></p>
+cta3: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source code"><strong>Source
+  Code</strong></a></p><p>Learn, hack, contribute</p>
 cta4: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEX LABS</strong></a></p><p>The non profit where it all started.
   It is all about bringing diversity in IT.</p>
