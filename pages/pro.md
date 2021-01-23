@@ -39,6 +39,15 @@ items:
     designer to make the site look like and behave how she wants it to.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+- image: ''
+  bg-color: ''
+  color: ''
+  text: "<h2>Hosting providers</h2><p>Integrate Silex with your infrastructure: customize
+    how files are stored, add authentication, publish to your own servers, and much
+    more.</p>"
+  cta-link: "<p></p>"
+  cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Integrate-Silex-with-your-infrastructure"
+    title="Docs: Integrate Silex with your infrastructure">Read the docs</a></p>'
 permalink: "/pro/"
 
 ---
