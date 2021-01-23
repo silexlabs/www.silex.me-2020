@@ -70,12 +70,13 @@ items:
 - image: ''
   bg-color: ''
   color: ''
-  text: '<h2>PAID SERVICES</h2><p>Silex founder, <a href="https://www.linkedin.com/in/webappdev/"
+  text: <h2>PAID SERVICES</h2><p>Silex founder, <a href="https://www.linkedin.com/in/webappdev/"
     title="Alex Hoyau Silex founder">Alex Hoyau</a> is selling services to support
     businesses to use Silex as a replacement for their CMS or website builder. When
-    the community support is not enough, contact him by email: b2b AT silex.me</p>'
-  cta-link: "<b>Documentation</b>"
-  cta-primary: "<b>Download</b>"
+    the community support is not enough, contact me.</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="/pro/#contact" title="Contact Silex Founder">Contact Silex
+    Founder</a></p>
 permalink: "/pro/"
 
 ---
