@@ -21,8 +21,7 @@ items:
     components, you are free to offer your designers or customers a drag and drop
     website editor they will love</p>"
   cta-link: "<p></p>"
-  cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Editor-API"
-    title="Customize Silex: the editor API">Read the docs (customize the editor)</a></p>'
+  cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
   color: ''
@@ -39,7 +38,7 @@ items:
     and add custom client side or server side code, which will enhance Silex for the
     designer to make the site look like and behave how she wants it to.</p>"
   cta-link: "<p></p>"
-  cta-primary: "<p>Read the docs about adding custom code to Silex</p>"
+  cta-primary: "<p></p>"
 permalink: "/pro/"
 
 ---
