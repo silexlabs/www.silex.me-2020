@@ -77,7 +77,8 @@ items:
     our partners page</a>.</p>
   cta-link: <p><a href="/pro/#contact" title="Contact Silex Founder">Contact Silex
     Founder</a></p>
-  cta-primary: "<p></p>"
+  cta-primary: <p><a href="/community/#list" title="Silex agencies directory">Silex
+    agencies directory</a></p>
 permalink: "/pro/"
 
 ---
