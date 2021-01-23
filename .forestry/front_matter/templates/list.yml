@@ -112,7 +112,7 @@ fields:
   config:
     required: true
 pages:
+- pages/community.md
 - pages/create.md
 - pages/makers.md
 - pages/pro.md
-- pages/silex-community.md
