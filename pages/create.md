@@ -43,8 +43,10 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
-    with a <em>loving community</em></p>"
+- text: <h2>DIY spirit</h2><p>As a <em>nocode tool</em>, Silex is <em>maker friendly</em>,
+    with a <em>loving community</em>. Copy paste <a href="https://github.com/silexlabs/Silex/labels/widget"
+    title="Silex widgets, ready to use code snipets">code and widgets</a> provided
+    by the community.</p>
   image: "/uploads/01-diy_256.gif"
   bg-color: "#ffffff"
   color: "#000000"
