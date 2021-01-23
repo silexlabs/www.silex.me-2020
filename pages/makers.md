@@ -29,9 +29,9 @@ items:
 - image: "/uploads/ico-step-03.svg"
   bg-color: "#ffffff"
   color: "#808080"
-  text: "<h2>Publish!</h2><p>When you are ready, publish your website<br>Silex integrates
-    with professional free hosting providers<br>with your own domain name and without
-    ads.</p>"
+  text: "<h2>Publish!</h2><p>When you are ready, publish your website Silex integrates
+    with professional hosting providers offering free hosting with your own domain
+    name and without ads.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: ''
