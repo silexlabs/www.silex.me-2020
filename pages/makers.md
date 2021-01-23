@@ -18,20 +18,20 @@ items:
     images, videos &amp; more...</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-- image: "/uploads/01-diy_256.gif"
-  bg-color: "#ffffff"
-  color: "#808080"
-  text: "<h2>Total Design Freedom, DIY!</h2><p>Create any custom design, or clone
-    one, pixel perfect.<br>Elements are absolutely positioned to make it feel natural.<br>Use
-    the mobile editor to design the mobile version too.</p>"
-  cta-link: "<p></p>"
-  cta-primary: "<p></p>"
 - image: "/uploads/ico-step-03.svg"
   bg-color: "#ffffff"
   color: "#808080"
   text: "<h2>Publish!</h2><p>When you are ready, publish your website Silex integrates
     with professional hosting providers offering free plans including your own domain
     name without ads.</p>"
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
+- image: "/uploads/01-diy_256.gif"
+  bg-color: "#ffffff"
+  color: "#808080"
+  text: "<h2>Total Design Freedom, DIY!</h2><p>Create any custom design, or clone
+    one, pixel perfect.<br>Elements are absolutely positioned to make it feel natural.<br>Use
+    the mobile editor to design the mobile version too.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: ''
