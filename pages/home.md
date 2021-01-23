@@ -5,7 +5,7 @@ cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-T
   title="Add Silex To Your Node.js Project">Documentation</a></p>
 lang: en
 layout: home
-title: Silex Website Builder | Free Open Source
+title: Silex Website Builder | Free Open Source HTML Web Design
 description: Create fast **and** beautiful websites with Silex, free open source web
   design tool for makers.
 hero-slider:
