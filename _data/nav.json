@@ -11,7 +11,7 @@
   },
   "/get-started": {
     "en": {
-      "path": "/get-started",
+      "path": "/#list",
       "name": "Get started!"
     },
     "fr": {
