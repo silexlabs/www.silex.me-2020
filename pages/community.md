@@ -54,6 +54,6 @@ tiles:
     agency" alt="https://internet2000.net/"></p>
 - text: <p><a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-" title="Silex
     Labs org"><img src="/uploads/silexlabs.png"></a></p>
-tile-list-title: "<h2>Proudly sponsored by the best</h2>"
+tile-list-title: "<h2>Proudly sponsored by</h2>"
 
 ---
