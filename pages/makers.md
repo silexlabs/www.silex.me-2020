@@ -14,8 +14,8 @@ items:
 - image: "/uploads/ico-step-02.svg"
   bg-color: "#ffffff"
   color: "#808080"
-  text: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
-    images, videos &amp; more...</p>"
+  text: "<h2>Customize</h2><p>Customize anything on your site, you can add text, images,
+    videos &amp; more...<br>No code is the next thing.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: "/uploads/ico-step-03.svg"
