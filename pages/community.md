@@ -38,6 +38,15 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Contribute" title="Here
     is how to contribute"><strong>Get involved!</strong></a></p>
+- image: ''
+  bg-color: ''
+  color: ''
+  text: '<h2>Use Silex in your projects</h2><p>When you need Silex in a open source
+    or <em>proprietary</em> project, don''t hesitate, go for it! Silex is doubled
+    licensed: <a href="https://en.wikipedia.org/wiki/Mozilla_Public_License" title="About
+    the MPL license">MPL</a> and GPL.</p>'
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 permalink: "/free/"
 
 ---
