@@ -50,8 +50,8 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-- text: "<h2>Hacking without limits</h2><p>You can code from within the editor in
-    JS or CSS, with<strong> </strong><em>immediate feedback</em>.<br><em>Add any front
+- text: "<h2>Hacking without limits</h2><p>You can code from within the editor, add
+    JS and CSS with<strong> </strong><em>immediate feedback</em>.<br><em>Add any front
     end feature</em>. Plug into any third party API.</p>"
   image: ''
   bg-color: "#ffffff"
