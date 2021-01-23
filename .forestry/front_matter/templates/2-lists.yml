@@ -112,6 +112,14 @@ fields:
           wysiwyg: true
           schema:
             format: html-blocks
+  - type: textarea
+    name: tile-list-title
+    label: Tile list title
+    default: <h2>PROUDLY SPONSORED BY THE BEST</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - name: permalink
     type: text
     label: Permalink
