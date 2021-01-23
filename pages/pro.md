@@ -65,8 +65,8 @@ items:
     you can add to a website through the "+" menu. They are created with a tool called
     "Prodotype" which compiles them for Silex and generates the UI.</p>
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Create-Silex-components"
-    title="Create Silex components">Read the docs</a></p>
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
+    title="Developpers docs">Read the docs</a></p>
 - image: ''
   bg-color: ''
   color: ''
