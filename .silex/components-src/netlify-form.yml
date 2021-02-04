@@ -21,7 +21,7 @@ initialCss:
   height: 400px
   background-color: 'transparent'
 props:
-- name: form-name
+- name: formName
   expandable: true
   type: string
   default: contact
