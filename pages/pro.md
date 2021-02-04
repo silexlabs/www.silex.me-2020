@@ -3,7 +3,7 @@ cta-primary: "<p></p>"
 cta-link: <p><a href="/pro/#contact" title="Contact for professionals">Contact Silex
   Founder</a></p>
 lang: en
-layout: list
+layout: contact
 title: Freelancers, Web Agencies, Hosting Companies | Silex Website Builder
 description: Fully customizable website creation tool, with a vision and a great business
   model.
@@ -80,5 +80,8 @@ items:
   cta-primary: <p><a href="/partners/" title="Silex agencies directory">Silex agencies
     directory</a></p>
 permalink: "/pro/"
+contact-form-text: "<h2>Contact us, let's do business !</h2><h3>Ask for a quote, partnership
+  or specific developmentFollow us, join the community !Silex is free and open source
+  because free minds need to have free tools</h3>"
 
 ---

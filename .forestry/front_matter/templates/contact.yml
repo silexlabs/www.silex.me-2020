@@ -121,3 +121,5 @@ fields:
   default: contact
   config:
     required: true
+pages:
+- pages/pro.md
