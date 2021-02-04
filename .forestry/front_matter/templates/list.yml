@@ -71,10 +71,6 @@ fields:
         name: bg-color
         label: Background Color
         default: ''
-      - type: color
-        name: color
-        label: Text color
-        default: ''
       - type: textarea
         name: text
         label: Text
