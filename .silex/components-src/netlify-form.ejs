@@ -1,4 +1,4 @@
-<form id="id_<%= uid %>" data-netlify="true" name="<%= formName %>" action="<% if(sendTo.indexOf('http') !== 0 && sendTo.indexOf('//') !== 0) { %>https://formspree.io/<% } %><%= sendTo %>" method="POST" <% if(onsubmit) { %>onsubmit="return onsubmit_<%= uid %>(event);"<% } %>>
+<form id="id_<%= uid %>" data-netlify="true" name="<%= formName %>" action="<%= sendTo %>" method="POST" <% if(onsubmit) { %>onsubmit="return onsubmit_<%= uid %>(event);"<% } %>>
   <% if(field1) { %>
   <div>
     <% if(label1) { %><label for="field1"><%= label1 %></label><% } %>

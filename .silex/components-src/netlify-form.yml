@@ -22,7 +22,7 @@ initialCss:
   background-color: 'transparent'
 props:
 - name: form-name
-  expandable: false
+  expandable: true
   type: string
   default: contact
   description: The name of Netlify form
