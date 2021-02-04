@@ -10,6 +10,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - contact
   - default
   - home
   - list
