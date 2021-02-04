@@ -81,7 +81,6 @@ items:
     directory</a></p>
 permalink: "/pro/"
 contact-form-text: "<h2>Contact us, let's do business !</h2><h3>Ask for a quote, partnership
-  or specific developmentFollow us, join the community !Silex is free and open source
-  because free minds need to have free tools</h3>"
+  or specific development</h3>"
 
 ---
