@@ -9,6 +9,7 @@
   "scripts": {
     "start": "LOCAL=true eleventy --serve --quiet",
     "start:debug": "DEBUG=Eleventy* npm start",
+    "build:components": "mkdir -p .silex/components && prodotype .silex/components-src/ .silex/components",
     "build": "eleventy && eleventy"
   },
   "author": "",
