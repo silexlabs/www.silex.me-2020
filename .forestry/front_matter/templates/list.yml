@@ -71,6 +71,8 @@ fields:
     name: bg-color
     label: Background Color
     default: ''
+    config:
+      color_format: Hex
   - type: textarea
     name: text
     label: Text
