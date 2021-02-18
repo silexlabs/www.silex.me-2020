@@ -16,12 +16,11 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
 items:
 - image: ''
   bg-color: ''
-  text: <h3>Keep in touch, let's talk</h3><ol><li><p>Star and Watch the project on
-    GitHub (buttons in the top right corner of this page)</p></li><li><p><a href="https://www.youtube.com/user/Silexlabs">Subscribe</a>
-    to our YouTube channel</p></li><li><p>Help us build up our documentation by asking
-    a question on the <a href="https://github.com/silexlabs/Silex/labels/question">forum</a></p></li></ol><p><a
-    href="http://eepurl.com/IuNSD">Subscribe</a> to our newsletter to be notified
-    of important news (less than one per month)</p>
+  text: <h3>Keep in touch, let's talk</h3><p><a href="https://github.com/silexlabs/Silex/issues/"
+    title="Silex forums">Get in touch on the forum (you will need a Github account)</a></p><p><a
+    href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube channel">Subscribe
+    to our YouTube channel</a></p><p><a href="http://eepurl.com/IuNSD" title="Silex
+    news letter">Subscribe to Silex newsletter (1 email per year)</a></p>
   cta-link: "<b>Documentation</b>"
   cta-primary: "<b>Download</b>"
 permalink: "/community/"
