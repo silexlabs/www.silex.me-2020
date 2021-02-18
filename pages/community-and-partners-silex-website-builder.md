@@ -22,6 +22,8 @@ items:
 permalink: "/community/"
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 tiles:
-- text: "<p>xxx</p>"
+- text: <p><img src="/uploads/silexlabs.png"></p>
+- text: <p><img src="/uploads/pastille_internet2000.png" title="Internet 2000 web
+    agency" alt="Internet 2000 web agency"></p>
 
 ---
