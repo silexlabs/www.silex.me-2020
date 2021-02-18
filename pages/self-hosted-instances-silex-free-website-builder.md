@@ -16,7 +16,7 @@ text: <h3>Anyone can host an instance of Silex, to give back to the community or
   Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
 items:
 - image: "/uploads/stastic-logo-square-10x-1.png"
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
     creator">@lexoyo</a></h3><p>Visually design <a href="https://jekyllrb.com/" title="Jekyll
     SSG">Jekyll</a> and <a href="https://www.11ty.dev/" title="Eleventy SSG">11ty</a>
