@@ -22,8 +22,11 @@ items:
 permalink: "/community/"
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 tiles:
-- text: <p><img src="/uploads/silexlabs.png"></p>
-- text: <p><img src="/uploads/pastille_internet2000.png" title="Internet 2000 web
-    agency" alt="Internet 2000 web agency"></p>
+- text: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit organization"><img
+    src="/uploads/silexlabs.png"></a></p>
+- text: <p><a href="https://internet2000.net/" title="Internet 2000 agency"><img src="/uploads/pastille_internet2000.png"
+    title="Internet 2000 web agency" alt="Internet 2000 web agency"></a></p>
+- text: <p><a href="https://www.browserstack.com/" title="BrowserStack partner"><img
+    src="/uploads/logo-browserstack.jpg"></a></p>
 
 ---
