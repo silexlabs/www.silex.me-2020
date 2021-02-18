@@ -14,7 +14,12 @@ hero-cta: <p><a href="/instances/#list" title="Silex self hosted community insta
 text: <h3>Anyone can host an instance of Silex, to give back to the community or to
   offer a service built on top of Silex.</h3><p>Here are the instances we know about.
   Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
-items: []
+items:
+- image: "/uploads/stastic-logo-square-10x-1.png"
+  bg-color: ''
+  text: "<h2>Use Silex in your project</h2>"
+  cta-link: "<b>Documentation</b>"
+  cta-primary: "<b>Download</b>"
 permalink: "/instances/"
 
 ---
