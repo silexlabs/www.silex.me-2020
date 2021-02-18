@@ -23,6 +23,17 @@ items:
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+- image: ''
+  bg-color: ''
+  text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
+    and <a href="https://www.facebook.com/silexlabs/">like</a> us on Facebook, <a
+    href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
+    and <a href="https://twitter.com/silexlabs">follow</a> us on Twitter</p><p><a
+    href="http://alternativeto.net/software/silex-live-web-creation/">Recommend</a>
+    us on AlternativeTo</p><p><strong>Get the word out</strong> - If you're talking
+    about Silex in public, let us know and we will send you stickers!</p>
+  cta-link: "<b>Documentation</b>"
+  cta-primary: "<b>Download</b>"
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
