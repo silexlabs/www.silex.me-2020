@@ -64,7 +64,8 @@ items:
     Labs organization will be happy advertise your Silex instance.</p>"
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
     title="How to Host An Instance of Silex">Read the docs</a></p>
-  cta-primary: <p><a href="/instances/#list" title="">Community instances</a></p>
+  cta-primary: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
+    instances</a></p>
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
