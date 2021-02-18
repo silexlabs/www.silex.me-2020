@@ -24,7 +24,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 permalink: "/community/"
-tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
+tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
 - text: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit organization"><img
     src="/uploads/silexlabs.png"></a></p>
@@ -36,5 +36,6 @@ tiles:
     src="/uploads/logo-browserstack.jpg"></a></p>
 - text: <p><a href="https://www.gandi.net/en/gandi-supports#silex" title="Gandi projets
     soutenus"><img src="/uploads/gandi.png"></a></p>
+- text: <p>Your company here, <a href="/pro/#contact" title="">get in touch</a></p>
 
 ---
