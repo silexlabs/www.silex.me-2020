@@ -15,6 +15,16 @@ text: <h3>Anyone can host an instance of Silex, to give back to the community or
   offer a service built on top of Silex.</h3><p>Here are the instances we know about.
   Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
 items:
+- image: "/uploads/silex-icon-2018-4x.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  text: <h3>Official Silex instance by <a href="https://www.silexlabs.org/" title="Silex
+    Labs non profit org">@silexlabs</a></h3><p>This is the 1st and official instance
+    of Silex, hosted since 2009 by Silex Labs organization.</p>
+  cta-link: <p><a href="https://editor.silex.me/" title="Silex website builder">Use
+    it for free</a></p>
+  cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
+    free instance">Make a donation</a></p>
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
