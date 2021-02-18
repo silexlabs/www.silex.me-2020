@@ -21,6 +21,7 @@ items:
   cta-primary: "<b>Download</b>"
 permalink: "/community/"
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
-tiles: []
+tiles:
+- text: "<p>xxx</p>"
 
 ---
