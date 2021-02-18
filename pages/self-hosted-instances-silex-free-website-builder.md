@@ -31,6 +31,7 @@ items:
     title=""><strong>Download (for Mac, linux, Win)</strong></a></p>
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Start
     online</strong></a></p>
+  color: "#000000"
 permalink: "/instances/"
 
 ---
