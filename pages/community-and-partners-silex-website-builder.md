@@ -54,7 +54,7 @@ items:
     key skill of a tester is not only to find bugs, it’s to report reproducible problems.</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
-    yourself here on github</a></p>
+    yourself here</a></p>
 - image: ''
   bg-color: ''
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
