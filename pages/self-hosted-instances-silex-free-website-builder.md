@@ -41,7 +41,18 @@ items:
     title=""><strong>Download (for Mac, linux, Win)</strong></a></p>
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Start
     online</strong></a></p>
-  color: "#000000"
+  color: "#333333"
+- image: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  text: "<h3>Submit your own instance of Silex</h3><p>Your can host a vanilla Silex
+    instance, or an instance with your custom hacks. For example you can add components
+    or provide hosting for users websites, customize the look or the feel ;)</p><p>Make
+    it public, for free or for a fee, and let us advertise it here.</p>"
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+    title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
+  cta-primary: <p><a href="/contact/#form" title="Submit your own instance of Silex"><strong>Submit
+    your own</strong></a></p>
 permalink: "/instances/"
 
 ---
