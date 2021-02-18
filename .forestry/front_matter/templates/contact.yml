@@ -70,7 +70,13 @@ fields:
   - type: color
     name: bg-color
     label: Background Color
-    default: ''
+    default: "#FFFFFF"
+    config:
+      color_format: Hex
+  - type: color
+    name: color
+    label: Text color
+    default: "#333333"
     config:
       color_format: Hex
   - type: textarea
