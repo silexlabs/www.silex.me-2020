@@ -2,7 +2,7 @@
 cta-primary: "<p>Contribute</p>"
 cta-link: "<p>Follow us</p>"
 lang: en
-layout: list
+layout: 2-lists
 title: Community and partners | Silex Website Builder
 description: 'Silex is a free website builder, as in #freedom and free speach. Here
   is a page about you, the community.'
@@ -20,5 +20,7 @@ items:
   cta-link: "<b>Documentation</b>"
   cta-primary: "<b>Download</b>"
 permalink: "/community/"
+tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
+tiles: []
 
 ---

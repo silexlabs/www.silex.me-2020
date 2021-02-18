@@ -110,6 +110,5 @@ fields:
   config:
     required: true
 pages:
-- pages/community-and-partners-silex-website-builder.md
 - pages/create.md
 - pages/makers.md
