@@ -16,13 +16,13 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
 items:
 - image: ''
   bg-color: ''
-  text: <h3>Keep in touch, let's talk</h3><p><a href="https://github.com/silexlabs/Silex/issues/"
-    title="Silex forums">Get in touch on the forum (you will need a Github account)</a></p><p><a
-    href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube channel">Subscribe
-    to our YouTube channel</a></p><p><a href="http://eepurl.com/IuNSD" title="Silex
-    news letter">Subscribe to Silex newsletter (1 email per year)</a></p>
-  cta-link: "<b>Documentation</b>"
-  cta-primary: "<b>Download</b>"
+  text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
+    title="Silex forums">the official forum</a> (you will need a Github account)</p><p>Subscribe
+    to our <a href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube
+    channel">YouTube channel</a></p><p>Subscribe to <a href="http://eepurl.com/IuNSD"
+    title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 permalink: "/community/"
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 tiles:
