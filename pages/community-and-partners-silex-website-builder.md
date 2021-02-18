@@ -51,11 +51,10 @@ items:
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
     staging server, where the next version is being developed</a>.</p><p>We always
     need more testers, so that the next version will not break people websites. The
-    key skill of a tester is not only to find bugs, it’s to report reproducible problems.
-    Please <a href="https://github.com/silexlabs/Silex/issues/new">ask questions and
-    report bugs here on github</a>.</p>
+    key skill of a tester is not only to find bugs, it’s to report reproducible problems.</p>
   cta-link: "<p></p>"
-  cta-primary: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
+    yourself here on github</a></p>
 - image: ''
   bg-color: ''
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
