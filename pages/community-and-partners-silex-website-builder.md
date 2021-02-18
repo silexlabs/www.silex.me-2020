@@ -8,8 +8,7 @@ description: 'Silex is a free website builder, as in #freedom and free speach. H
   is a page about you, the community.'
 image: "/uploads/ico-header-community.svg"
 header: "<h1>Community, Collaboration,<br>Creative power</h1><h2>~</h2><h2>Silex is
-  a free website builder,<br>as in <em>#freedom</em> and <em>#FreeSpeech.</em></h2><h2>Here
-  is a page about us the community.</h2>"
+  a free website builder,<br>as in <em>#freedom</em> and <em>#FreeSpeech.</em></h2>"
 hero-cta: ''
 text: ''
 items: []
