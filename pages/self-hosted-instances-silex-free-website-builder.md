@@ -1,7 +1,7 @@
 ---
 cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
   title="How to Host An Instance of Silex">Read the docs</a></p>
-cta-link: <p><a href="/contact/#form" title="">Submit your own</a></p>
+cta-link: <p><a href="/pro/#contact" title="">Submit your own</a></p>
 lang: en
 layout: list
 title: Self hosted instances | Silex Website Builder
