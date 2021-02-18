@@ -47,22 +47,19 @@ items:
   cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
-  text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
-    know and we will advertise the event!</p><p><strong>Answer Questions</strong>
-    - Find questions about Silex on <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open">github</a>
-    and provide clear and helpful answers.</p><p><strong>Update and Maintain our Docs</strong>
-    - <a href="https://github.com/silexlabs/Silex/labels/doc">Grab a question</a>
-    with the "doc" label and add details to our existing <a href="https://github.com/silexlabs/Silex/wiki">documentation</a>.
-    If you see any other issues in the docs, please feel free to edit them.</p><p><strong>Create
-    Tutorials</strong> - Create text or video guides and upload them to your favorite
-    video sharing website.</p><p><strong>Create Marketing Tools</strong> - Create
-    some fun marketing material, like a meme for example. Send it to us so we can
-    help share.</p><p><strong>Organize an Event</strong> - Are you active in your
-    local web design community? If you want to host a local Silex Meetup or demo,
-    let us know how we can support you.</p><p><strong>Write Articles and Blog Posts</strong>
-    - If you're interested in writing a blog for Silex, please do so and share it
-    with us. If we like it, we will publish it on the Silex Labs blog. Alternatively,
-    self publish on your own blog and tag us so we can help promote it.</p>
+  text: <h3>Share knowledge</h3><p><strong>Get the word out</strong> - If you're talking
+    about Silex in public, let us know and we will advertise the event! </p><p><strong>Answer
+    Questions</strong> - Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
+    title="Easy questions on github">questions which are flagged as easy ones</a>.</p><p><strong>Update
+    and Maintain our Docs</strong> - <a href="https://github.com/silexlabs/Silex/labels/doc"
+    title="Questions related to docs">Grab a question</a> with the "doc" label and
+    add details to the <a href="https://github.com/silexlabs/Silex/wiki" title="Collaborative
+    docs">documentation</a>.</p><p><strong>Create Tutorials</strong> - Create text
+    or video guides and publish them, we will help advertise those.</p><p><strong>Organize
+    an Event</strong> - Are you active in your local web design community? If you
+    want to host a local <a href="https://www.meetup.com/Silex-Labs-Aperopensource/"
+    title="Silex events">Silex Meetup</a> or demo, let us know how we can support
+    you.</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 permalink: "/community/"
