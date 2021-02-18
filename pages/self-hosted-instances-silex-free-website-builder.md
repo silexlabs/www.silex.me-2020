@@ -7,8 +7,8 @@ layout: list
 title: Self hosted instances | Silex Website Builder
 description: Here is a list of public self hosted instances of Silex website builder
 image: ''
-header: "<h1>Silex website builder public self hosted instances.</h1><h2>Free or paid
-  services from the community to the community.</h2>"
+header: "<h1>Silex website builder<br>public self hosted instances.</h1><h2>Free or
+  paid services by the community for the community.</h2>"
 hero-cta: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
   instances</a></p>
 text: <h3>Anyone can host an instance of Silex, to give back to the community or to
