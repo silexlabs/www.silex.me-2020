@@ -37,6 +37,17 @@ items:
   cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
+  text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
+    know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
+    title="Easy questions on github">questions which are flagged as easy ones</a>
+    and here is the <a href="https://github.com/silexlabs/Silex/wiki" title="Collaborative
+    docs">collaborative documentation</a>.</p><p>Feel free to create Tutorials or
+    host a local <a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Silex
+    events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
+- image: ''
+  bg-color: ''
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
     staging server, where the next version is being developed</a>.</p><p>We always
     need more testers, so that the next version will not break people websites. The
@@ -47,15 +58,13 @@ items:
   cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
-  text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
-    know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
-    title="Easy questions on github">questions which are flagged as easy ones</a>
-    and here is the <a href="https://github.com/silexlabs/Silex/wiki" title="Collaborative
-    docs">collaborative documentation</a>.</p><p>Feel free to create Tutorials or
-    host a local <a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Silex
-    events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
-  cta-link: "<p></p>"
-  cta-primary: "<p></p>"
+  text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
+    online version of Silex. You can host an instance of Silex on your own server
+    or on node.js. If you do so, and plan to maintain your server long term, Silex
+    Labs organization will be happy advertise your Silex instance.</p>"
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+    title="How to Host An Instance of Silex">Read the docs</a></p>
+  cta-primary: <p><a href="/instances/#list" title="">Community instances</a></p>
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
