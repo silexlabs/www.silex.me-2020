@@ -30,6 +30,8 @@ tiles:
     src="/uploads/silexlabs.png"></a></p>
 - text: <p><a href="https://internet2000.net/" title="Internet 2000 agency"><img src="/uploads/pastille_internet2000.png"
     title="Internet 2000 web agency" alt="Internet 2000 web agency"></a></p>
+- text: <p><a href="https://www.whynotprod.com/" title="Whynotprod | Brice MARTIN"><img
+    src="/uploads/whynotprod-logo.png"></a></p>
 - text: <p><a href="https://www.browserstack.com/" title="BrowserStack partner"><img
     src="/uploads/logo-browserstack.jpg"></a></p>
 
