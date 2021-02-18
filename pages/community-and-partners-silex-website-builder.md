@@ -30,10 +30,41 @@ items:
     href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
     and <a href="https://twitter.com/silexlabs">follow</a> us on Twitter</p><p><a
     href="http://alternativeto.net/software/silex-live-web-creation/">Recommend</a>
-    us on AlternativeTo</p><p><strong>Get the word out</strong> - If you're talking
-    about Silex in public, let us know and we will send you stickers!</p>
-  cta-link: "<b>Documentation</b>"
-  cta-primary: "<b>Download</b>"
+    us on AlternativeTo</p><p><a href="https://opencollective.com/silex" title="Donate
+    to Silex website builder">Donate</a> to our non profit and help us keep the lights
+    on</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
+- image: ''
+  bg-color: ''
+  text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
+    staging server, where the next version is being developed</a>.</p><p>We always
+    need more testers, so that the next version will not break people websites. The
+    key skill of a tester is not only to find bugs, it’s to report reproducible problems.
+    Please <a href="https://github.com/silexlabs/Silex/issues/new">ask questions and
+    report bugs here on github</a>.</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
+- image: ''
+  bg-color: ''
+  text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
+    know and we will advertise the event!</p><p><strong>Answer Questions</strong>
+    - Find questions about Silex on <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open">github</a>
+    and provide clear and helpful answers.</p><p><strong>Update and Maintain our Docs</strong>
+    - <a href="https://github.com/silexlabs/Silex/labels/doc">Grab a question</a>
+    with the "doc" label and add details to our existing <a href="https://github.com/silexlabs/Silex/wiki">documentation</a>.
+    If you see any other issues in the docs, please feel free to edit them.</p><p><strong>Create
+    Tutorials</strong> - Create text or video guides and upload them to your favorite
+    video sharing website.</p><p><strong>Create Marketing Tools</strong> - Create
+    some fun marketing material, like a meme for example. Send it to us so we can
+    help share.</p><p><strong>Organize an Event</strong> - Are you active in your
+    local web design community? If you want to host a local Silex Meetup or demo,
+    let us know how we can support you.</p><p><strong>Write Articles and Blog Posts</strong>
+    - If you're interested in writing a blog for Silex, please do so and share it
+    with us. If we like it, we will publish it on the Silex Labs blog. Alternatively,
+    self publish on your own blog and tag us so we can help promote it.</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
