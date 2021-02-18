@@ -34,5 +34,7 @@ tiles:
     src="/uploads/whynotprod-logo.png"></a></p>
 - text: <p><a href="https://www.browserstack.com/" title="BrowserStack partner"><img
     src="/uploads/logo-browserstack.jpg"></a></p>
+- text: <p><a href="https://www.gandi.net/en/gandi-supports#silex" title="Gandi projets
+    soutenus"><img src="/uploads/gandi.png"></a></p>
 
 ---
