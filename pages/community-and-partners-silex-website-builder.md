@@ -47,19 +47,13 @@ items:
   cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
-  text: <h3>Share knowledge</h3><p><strong>Get the word out</strong> - If you're talking
-    about Silex in public, let us know and we will advertise the event! </p><p><strong>Answer
-    Questions</strong> - Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
-    title="Easy questions on github">questions which are flagged as easy ones</a>.</p><p><strong>Update
-    and Maintain our Docs</strong> - <a href="https://github.com/silexlabs/Silex/labels/doc"
-    title="Questions related to docs">Grab a question</a> with the "doc" label and
-    add details to the <a href="https://github.com/silexlabs/Silex/wiki" title="Collaborative
-    docs">documentation</a>.</p><p><strong>Create Tutorials</strong> - Create text
-    or video guides and publish them, we will help advertise those.</p><p><strong>Organize
-    an Event</strong> - Are you active in your local web design community? If you
-    want to host a local <a href="https://www.meetup.com/Silex-Labs-Aperopensource/"
-    title="Silex events">Silex Meetup</a> or demo, let us know how we can support
-    you.</p>
+  text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
+    know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
+    title="Easy questions on github">questions which are flagged as easy ones</a>
+    and here is the <a href="https://github.com/silexlabs/Silex/wiki" title="Collaborative
+    docs">collaborative documentation</a>.</p><p>Feel free to create Tutorials or
+    host a local <a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Silex
+    events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 permalink: "/community/"
