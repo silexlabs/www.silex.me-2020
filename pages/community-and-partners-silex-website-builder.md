@@ -1,6 +1,6 @@
 ---
-cta-primary: "<p></p>"
-cta-link: "<p></p>"
+cta-primary: "<p>Contribute</p>"
+cta-link: "<p>Follow us</p>"
 lang: en
 layout: list
 title: Community and partners | Silex Website Builder
