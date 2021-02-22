@@ -5,7 +5,7 @@ lang: en
 layout: list
 title: DIY for makers | Silex website builder
 description: Produce a website for free with this Low-code / no-code tool for Makers
-image: "/uploads/ico-header-freedom.svg"
+image: "/uploads/ico-makers-dev.svg"
 header: "<h1>Take full control<br>over your web presence</h1><h2>DIY style!</h2>"
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
