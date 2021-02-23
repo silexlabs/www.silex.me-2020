@@ -23,7 +23,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: "/uploads/ico-pro-team.jpg"
-  bg-color: ''
+  bg-color: "#FFFFFF"
   color: ''
   text: <h2>Silex for teams</h2><h3>This is a whole new philosophy we have invented
     here.</h3><p>We work in teams with Silex since 2006. The developer provides the
