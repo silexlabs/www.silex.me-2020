@@ -14,9 +14,9 @@ hero-cta: ''
 text: "<h2>Freelancers, agencies, hosting companies,</h2><h3>Silex is the best at
   being <em>customised</em> and <em>integrated</em> to your infrastructure</h3>"
 items:
-- image: ''
-  bg-color: ''
-  color: ''
+- image: "/uploads/ico-pro-sustainability.jpg"
+  bg-color: "#FFFFFF"
+  color: "#333333"
   text: "<h2>Make it yours</h2><p>From white label features to custom backend or specific
     components, you are free to offer your designers or customers a drag and drop
     website editor they will love</p>"
