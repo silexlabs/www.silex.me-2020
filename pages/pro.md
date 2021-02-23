@@ -15,7 +15,7 @@ text: "<h2>Freelancers, agencies, hosting companies,</h2><h3>Silex is the best a
   being <em>customised</em> and <em>integrated</em> to your infrastructure</h3>"
 items:
 - image: "/uploads/ico-pro-sustainability.jpg"
-  bg-color: "#FFFFFF"
+  bg-color: "#FCFCFC"
   color: "#333333"
   text: "<h2>Make it yours</h2><p>From white label features to custom backend or specific
     components, you are free to offer your designers or customers a drag and drop
@@ -23,7 +23,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: "/uploads/ico-pro-team.jpg"
-  bg-color: "#FCFCFC"
+  bg-color: "#FFFFFF"
   color: "#333333"
   text: <h2>Silex for teams</h2><h3>This is a whole new philosophy we have invented
     here.</h3><p>We work in teams with Silex since 2006. The developer provides the
@@ -50,7 +50,7 @@ items:
     title="Docs: Integrate Silex with your infrastructure">Read the docs</a></p>'
 - image: ''
   bg-color: ''
-  color: ''
+  color: "#FCFCFC"
   text: "<h2>Freelance designers</h2><p>Like more and more designers, use Silex to
     produce websites for clients. You do not need a developer for showcase websites
     or marketing websites or landing pages.</p>"
