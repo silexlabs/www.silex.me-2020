@@ -58,9 +58,9 @@ items:
     us a question now</a></p>
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki" title="Silex user
     docs">Read the user documentation</a></p>
-- image: ''
-  bg-color: ''
-  color: ''
+- image: "/uploads/ico-pro-on-office-2.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
   text: <h2>Developers, create Silex components</h2><p>Silex components are elements
     you can add to a website through the "+" menu. They are created with a tool called
     "Prodotype" which compiles them for Silex and generates the UI.</p>
