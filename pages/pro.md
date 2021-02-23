@@ -39,9 +39,9 @@ items:
     designer to make the site look like and behave how she wants it to.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-- image: ''
-  bg-color: ''
-  color: ''
+- image: "/uploads/ico-pro-compagnies.jpg"
+  bg-color: "#FFFFFF"
+  color: "#333333"
   text: "<h2>Hosting providers</h2><p>Integrate Silex with your infrastructure: customize
     how files are stored, add authentication, publish to your own servers, and much
     more.</p>"
