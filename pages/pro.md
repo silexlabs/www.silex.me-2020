@@ -67,9 +67,9 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
     title="Developpers docs">Read the docs</a></p>
-- image: ''
-  bg-color: ''
-  color: ''
+- image: "/uploads/ico-pro-help.png"
+  bg-color: "#FCFCFC"
+  color: "#333333"
   text: <h2>PAID SERVICES</h2><p>When the community support is not enough, contact
     me Silex founder, <a href="https://www.linkedin.com/in/webappdev/" title="Alex
     Hoyau Silex founder">Alex Hoyau</a>.<br>Also if you are looking for an agency
