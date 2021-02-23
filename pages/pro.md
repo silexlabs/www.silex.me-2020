@@ -32,8 +32,8 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
 - image: "/uploads/ico-pro-on-office.png"
-  bg-color: ''
-  color: "#FCFCFC"
+  bg-color: "#FCFCFC"
+  color: "#333333"
   text: "<h2>Hacking is the way</h2><p>As a developer you have the tools to hack Silex
     and add custom client side or server side code, which will enhance Silex for the
     designer to make the site look like and behave how she wants it to.</p>"
