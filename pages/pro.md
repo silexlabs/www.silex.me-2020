@@ -48,9 +48,9 @@ items:
   cta-link: <p><a href="https://editor.silex.me/" title="">Try Silex online now</a></p>
   cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Integrate-Silex-with-your-infrastructure"
     title="Docs: Integrate Silex with your infrastructure">Read the docs</a></p>'
-- image: ''
+- image: "/uploads/ico-pro-designers.png"
   bg-color: ''
-  color: "#FCFCFC"
+  color: "#333333"
   text: "<h2>Freelance designers</h2><p>Like more and more designers, use Silex to
     produce websites for clients. You do not need a developer for showcase websites
     or marketing websites or landing pages.</p>"
