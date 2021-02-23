@@ -31,7 +31,7 @@ items:
     components to her site, using Silex UI to change its style and behavior.</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-- image: "/uploads/ico-pro-on-office-1.png"
+- image: "/uploads/ico-pro-hacker.png"
   bg-color: "#FCFCFC"
   color: "#333333"
   text: "<h2>Hacking is the way</h2><p>As a developer you have the tools to hack Silex
