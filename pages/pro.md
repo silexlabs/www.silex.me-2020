@@ -33,7 +33,7 @@ items:
   cta-primary: "<p></p>"
 - image: ''
   bg-color: ''
-  color: ''
+  color: "#FCFCFC"
   text: "<h2>Hacking is the way</h2><p>As a developer you have the tools to hack Silex
     and add custom client side or server side code, which will enhance Silex for the
     designer to make the site look like and behave how she wants it to.</p>"
