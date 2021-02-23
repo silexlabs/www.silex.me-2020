@@ -14,7 +14,7 @@ hero-cta: ''
 text: "<h2>Freelancers, agencies, hosting companies,</h2><h3>Silex is the best at
   being <em>customised</em> and <em>integrated</em> to your infrastructure</h3>"
 items:
-- image: "/uploads/ico-pro-sustainability.jpg"
+- image: "/uploads/ico-pro-sustainability.png"
   bg-color: "#FCFCFC"
   color: "#333333"
   text: "<h2>Make it yours</h2><p>From white label features to custom backend or specific
@@ -31,7 +31,7 @@ items:
     components to her site, using Silex UI to change its style and behavior.</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-- image: ''
+- image: "/uploads/ico-pro-on-office.png"
   bg-color: ''
   color: "#FCFCFC"
   text: "<h2>Hacking is the way</h2><p>As a developer you have the tools to hack Silex
