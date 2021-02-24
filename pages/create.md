@@ -7,7 +7,8 @@ title: Design professional websites | Silex website builder
 description: Design a website as you would draw it, iterate over your design, embrace
   the live web creation process.
 image: "/uploads/ico-header-freedom.svg"
-header: "<h1>Your design, your way!</h1><h2>Free is not just about price. #creativity</h2>"
+header: "<h1><strong>Your design, your way!</strong></h1><h2>Free is not just about
+  price. #creativity</h2>"
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
