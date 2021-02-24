@@ -48,6 +48,7 @@ items:
     instances</a></p>
   cta-primary: <p><a href="https://editor.silex.me/" title="Silex editor, hosted by
     Silex Labs">START NOW!</a></p>
+  cta-color: "#8873FE"
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
@@ -57,6 +58,7 @@ items:
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
     title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
+  cta-color: ''
 - image: "/uploads/ico-deploy-your-server.svg"
   bg-color: "#ffac54"
   color: "#ffffff"
@@ -88,6 +90,7 @@ items:
   cta-link: <p><a href="/features/" title="Silex features">MORE FEATURES</a></p>
   cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>GET
     STARTED!</strong></a></p>
+  cta-color: ''
 hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
 
