@@ -1,7 +1,7 @@
 ---
 cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
   title="How to Host An Instance of Silex">Read the docs</a></p>
-cta-link: <p><a href="/contact/#form" title="">Submit your own</a></p>
+cta-link: <p><a href="/pro/#contact" title="">Submit your own</a></p>
 lang: en
 layout: list
 title: Self hosted instances | Silex Website Builder
@@ -15,6 +15,16 @@ text: <h3>Anyone can host an instance of Silex, to give back to the community or
   offer a service built on top of Silex.</h3><p>Here are the instances we know about.
   Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
 items:
+- image: "/uploads/silex-icon-2018-4x.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  text: <h3>Official Silex instance by <a href="https://www.silexlabs.org/" title="Silex
+    Labs non profit org">@silexlabs</a></h3><p>This is the 1st and official instance
+    of Silex, hosted since 2009 by Silex Labs organization.</p>
+  cta-link: <p><a href="https://editor.silex.me/" title="Silex website builder">Use
+    it for free</a></p>
+  cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
+    free instance">Make a donation</a></p>
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
@@ -29,9 +39,20 @@ items:
     2000 web agency">Internet 2000 web agency</a> and open to anyone for free.</p>
   cta-link: <p><a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
     title=""><strong>Download (for Mac, linux, Win)</strong></a></p>
-  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Start
-    online</strong></a></p>
-  color: "#000000"
+  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
+    it for free</strong></a></p>
+  color: "#333333"
+- image: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  text: "<h3>Submit your own instance of Silex</h3><p>Your can host a vanilla Silex
+    instance, or an instance with your custom hacks. For example you can add components
+    or provide hosting for users websites, customize the look or the feel ;)</p><p>Make
+    it public, for free or for a fee, and let us advertise it here.</p>"
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+    title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
+  cta-primary: <p><a href="/contact/#form" title="Submit your own instance of Silex"><strong>Submit
+    your own</strong></a></p>
 permalink: "/instances/"
 
 ---
