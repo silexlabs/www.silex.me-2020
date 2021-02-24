@@ -48,7 +48,7 @@ items:
     instances</a></p>
   cta-primary: <p><a href="https://editor.silex.me/" title="Silex editor, hosted by
     Silex Labs">START NOW!</a></p>
-  cta-color: "#8873FE"
+  cta-color: "#FFFFFF"
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
