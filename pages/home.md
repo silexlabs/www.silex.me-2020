@@ -44,7 +44,7 @@ items:
   text: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
     the instance provided Silex Labs for free, no installation, store your data in
     your Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
-  cta-link: <p><a href="/community/#list" title="Self hosted Silex instances">Community
+  cta-link: <p><a href="/instances/#list" title="Self hosted Silex instances">Community
     instances</a></p>
   cta-primary: <p><a href="https://editor.silex.me/" title="Silex editor, hosted by
     Silex Labs">START NOW!</a></p>

@@ -1,7 +1,8 @@
 ---
 cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
   title="How to Host An Instance of Silex">Read the docs</a></p>
-cta-link: <p><a href="/pro/#contact" title="">Submit your own</a></p>
+cta-link: <p><a href="/pro/#contact" title="Advertize your instance of Silex here">Submit
+  your own</a></p>
 lang: en
 layout: list
 title: Self hosted instances | Silex Website Builder
@@ -25,6 +26,7 @@ items:
     it for free</a></p>
   cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
     free instance">Make a donation</a></p>
+  cta-color: ''
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
@@ -42,6 +44,7 @@ items:
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
     it for free</strong></a></p>
   color: "#333333"
+  cta-color: ''
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -51,8 +54,9 @@ items:
     it public, for free or for a fee, and let us advertise it here.</p>"
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
     title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
-  cta-primary: <p><a href="/contact/#form" title="Submit your own instance of Silex"><strong>Submit
-    your own</strong></a></p>
+  cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
+    here">Submit your own</a></p>
+  cta-color: ''
 permalink: "/instances/"
 
 ---

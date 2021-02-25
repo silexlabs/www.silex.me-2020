@@ -1,6 +1,6 @@
 ---
-cta-primary: "<p>Contribute</p>"
-cta-link: "<p>Follow us</p>"
+cta-primary: "<p></p>"
+cta-link: "<p></p>"
 lang: en
 layout: 2-lists
 title: Community and partners | Silex Website Builder
@@ -9,7 +9,7 @@ description: 'Silex is a free website builder, as in #freedom and free speach. H
 image: "/uploads/ico-header-community.svg"
 header: "<h1>Community, Collaboration,<br>Creative power</h1><h2>~</h2><h2>Silex is
   a free website builder,<br>as in <em>#freedom</em> and <em>#FreeSpeech.</em></h2>"
-hero-cta: "<p>Contribute 5</p>"
+hero-cta: "<p></p>"
 text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and participate
   or just follow our adventure,<br>contribute to our <em>communication</em> or <em>documentation</em>
   or <em>code</em>,<br>vote for the features you want.</p>"
@@ -23,6 +23,8 @@ items:
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  color: ''
+  cta-color: ''
 - image: ''
   bg-color: ''
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
@@ -35,6 +37,8 @@ items:
     on</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  color: ''
+  cta-color: ''
 - image: ''
   bg-color: ''
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
@@ -46,6 +50,8 @@ items:
     events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  color: ''
+  cta-color: ''
 - image: ''
   bg-color: ''
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
@@ -55,6 +61,8 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
     yourself</a></p>
+  color: ''
+  cta-color: ''
 - image: ''
   bg-color: ''
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
@@ -65,6 +73,8 @@ items:
     title="How to Host An Instance of Silex">Read the docs</a></p>
   cta-primary: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
     instances</a></p>
+  color: ''
+  cta-color: ''
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
