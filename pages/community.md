@@ -6,7 +6,7 @@ layout: 2-lists
 title: Free software, free of charge, freehand webdesign | Silex Website Builder
 description: Silex is free software, for you and me to build websites
 image: "/uploads/ico-header-community.svg"
-header: "<h2><strong>More about freedom</strong></h2><h3>Silex is free and open source
+header: "<h2><strong>Free and open source software</strong></h2><h3>Silex is free
   because free minds need to have free tools</h3>"
 hero-cta: <p><a href="/#list" title="See how to get started with Silex">GET STARTED!</a></p>
 text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-"
@@ -20,6 +20,7 @@ items:
   text: "<h2>Follow the trend</h2><p>Welcome to free software, nocode and static movements.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: ''
   bg-color: ''
   color: ''
@@ -29,6 +30,7 @@ items:
     companies.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: ''
   bg-color: ''
   color: ''
@@ -38,6 +40,7 @@ items:
     the MPL license">MPL</a> and GPL.</p>'
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: ''
   bg-color: ''
   color: ''
@@ -48,6 +51,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Contribute" title="Here
     is how to contribute"><strong>Get involved!</strong></a></p>
+  cta-color: ''
 permalink: "/free/"
 tiles:
 - text: <p><a href="https://www.browserstack.com/" title="BrowserStack"><img src="/uploads/logo-browserstack.jpg"></a></p>
