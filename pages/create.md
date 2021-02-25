@@ -78,11 +78,12 @@ items:
   cta-link: ''
   cta-primary: ''
   cta-color: ''
-- text: "<h2>♥ Open source free software</h2><p>Silex is <em>forever free</em>, integrates
-    with<strong> </strong><em>other tools</em>, has endless <em>customization</em>.</p>"
-  image: "/uploads/ico-step-02-1.svg"
+- text: "<h2><strong>♥ Open source free software</strong></h2><p>Silex is <em>forever
+    free</em>, integrates with<strong> </strong><em>other tools</em>, has endless
+    <em>customization</em>.</p>"
+  image: "/uploads/ico-free.png"
   bg-color: "#ffffff"
-  color: "#000000"
+  color: "#333333"
   cta-link: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source on
     github">Silex source code</a></p>
   cta-primary: <p><a href="/#list" title="Start building a website now">Get started</a></p>
