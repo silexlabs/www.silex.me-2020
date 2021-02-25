@@ -7,8 +7,8 @@ cta2: <p><a href="https://github.com/silexlabs/Silex/milestones" title="Silex op
 cta3: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source code"><strong>Source
   Code</strong></a></p><p>Learn, hack, contribute</p>
 cta4: <p><a href="https://www.silexlabs.org/" title="The non profit which started
-  it all"><strong>SILEX LABS</strong></a></p><p>The non profit where it all started.
-  It is all about bringing diversity in IT.</p>
+  it all"><strong>SILEX LABS</strong></a></p><p>The non profit organization where
+  it all started, with the ambition to <em>bring diversity to IT</em>.</p>
 
 ---
 ## **Follow us, join the community !**
