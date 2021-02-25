@@ -49,8 +49,8 @@ items:
     title="Give 5 min of your time">simple things you can do</a> for your favorite
     website builder ;)</p>
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Contribute" title="Here
-    is how to contribute"><strong>Get involved!</strong></a></p>
+  cta-primary: <p><a href="/community/" title="Here is how to contribute"><strong>Get
+    involved!</strong></a></p>
   cta-color: ''
 permalink: "/free/"
 tiles:
