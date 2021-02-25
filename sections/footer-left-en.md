@@ -1,5 +1,6 @@
 ---
 tags: sections
+
 ---
 PRODUCTS
 
@@ -14,3 +15,5 @@ PRODUCTS
 [Downloads](https://github.com/silexlabs/silex-desktop/releases "Download Silex Desktop")
 
 [Developers](https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide "Silex for developers")
+
+[Community instances](/instances/ "Self hosted public Silex instances")
