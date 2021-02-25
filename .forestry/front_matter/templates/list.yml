@@ -122,6 +122,7 @@ fields:
   config:
     required: true
 pages:
+- pages/community.md
 - pages/create.md
 - pages/makers.md
 - pages/self-hosted-instances-silex-free-website-builder.md
