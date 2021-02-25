@@ -12,14 +12,15 @@ hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></
 text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 items:
-- image: "/uploads/ico-step-02.svg"
+- image: "/uploads/ico-step-02.png"
   bg-color: "#ffffff"
   color: "#808080"
   text: "<h2>Customize</h2><p>Customize anything on your site, you can add text, images,
     videos &amp; more...<br>No code is the next thing.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-- image: "/uploads/ico-step-03.svg"
+  cta-color: ''
+- image: "/uploads/ico-step-03.png"
   bg-color: "#ffffff"
   color: "#808080"
   text: "<h2>Publish!</h2><p>When you are ready, publish your website Silex integrates
@@ -27,6 +28,7 @@ items:
     name without ads.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: "/uploads/01-diy_256.gif"
   bg-color: "#ffffff"
   color: "#808080"
@@ -35,6 +37,7 @@ items:
     the mobile editor to design the mobile version too.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: ''
   bg-color: "#ffffff"
   color: "#808080"
@@ -44,6 +47,7 @@ items:
     90%<br>on desktop as well as on mobile.</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: ''
   bg-color: "#ffffff"
   color: "#808080"
@@ -53,6 +57,7 @@ items:
     from within Silex.</p>"
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
+  cta-color: ''
 - image: ''
   bg-color: "#ffffff"
   color: "#808080"
@@ -61,7 +66,8 @@ items:
     no security issues, no "important" updates.</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-- image: "/uploads/ico-step-01.svg"
+  cta-color: ''
+- image: "/uploads/ico-step-01.png"
   bg-color: "#ffffff"
   color: "#808080"
   text: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open Silex
@@ -69,6 +75,7 @@ items:
     choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
+  cta-color: ''
 permalink: "/makers/"
 
 ---
