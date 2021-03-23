@@ -16,4 +16,6 @@ PRODUCTS
 
 [Developers](https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide "Silex for developers")
 
+[Lisense (MPL or](https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL "Silex has dual license") [GPL](https://github.com/silexlabs/Silex/blob/develop/LICENSE "GPL Silex License")[)](https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL "Silex has dual license")
+
 [Community instances](/instances/ "Self hosted public Silex instances")
