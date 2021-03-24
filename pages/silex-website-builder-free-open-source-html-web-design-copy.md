@@ -93,5 +93,6 @@ items:
   cta-color: "#4A4A4A"
 hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
+tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 
 ---
