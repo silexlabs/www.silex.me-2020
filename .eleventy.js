@@ -1,3 +1,6 @@
+const MarkdownIt = require("markdown-it")
+const md = new MarkdownIt()
+
 module.exports = function(eleventyConfig) {
 
   // plugins
@@ -24,9 +27,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('css/*.ico') // favicon
   eleventyConfig.addPassthroughCopy('js')
   eleventyConfig.addPassthroughCopy('CNAME')
-  
+ 
   eleventyConfig.addFilter('getCollectionItemByFileSlug', function(collection, name) {
     return collection.find(item => item.fileSlug === name)
+  })
+
+  eleventyConfig.addFilter('markdown', function(m) {
+    return md.render(m)
   })
 
   // other config

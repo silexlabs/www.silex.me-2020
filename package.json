@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@quasibit/eleventy-plugin-sitemap": "^2.0.2",
-    "@splidejs/splide": "^2.4.14"
+    "@splidejs/splide": "^2.4.14",
+    "axios": "^0.21.1",
+    "markdown-it": "^12.0.4"
   }
 }
