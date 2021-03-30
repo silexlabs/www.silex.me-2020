@@ -38,9 +38,9 @@ items: []
 show_widget: true
 image: ''
 above_widget_list:
-  cta-link: "<p></p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/Silex/labels/widget" title="Silex
+  cta-link: <p><a href="https://github.com/silexlabs/Silex/labels/widget" title="Silex
     widgets on github">See the full list</a></p>
+  cta-primary: <p><a href="#tiles" title="Silex widgets on github">See featured widgets</a></p>
   text: "<h2>Featured Silex Widgets</h2><p>Here is a list of the best widgets</p>"
 header: "<h1>Free Widgets to create anything with Silex</h1><h2>The free open source
   web design tool for makers</h2>"
