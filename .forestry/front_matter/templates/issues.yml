@@ -58,7 +58,7 @@ fields:
     name: lang
     label: Lang
     default: en
-  - type: toggle
+  - type: boolean
     name: show_showcase
     label: Show Showcase
     default: ''
@@ -86,6 +86,91 @@ fields:
     name: cta-primary
     label: CTA Primary
     default: <b>Download</b>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: boolean
+    name: show_widget
+    label: Show Widgets
+    default: ''
+  - type: file
+    name: image
+    label: Illustration
+    default: ''
+  - type: textarea
+    name: text
+    label: Text
+    default: <h2>Use Silex in your project</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA Link
+    default: <b>Documentation</b>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: <b>Download</b>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: field_group
+    name: above_widget_list
+    label: Section Above The Widget List
+    default: ''
+    fields:
+      - type: textarea
+        name: text
+        label: Header text
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-link
+        label: CTA link
+        default: More about freedom
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-primary
+        label: CTA Primary
+        default: Get started!
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - type: textarea
+    name: text
+    label: Header text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA link
+    default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: Get started!
     config:
       wysiwyg: true
       schema:
