@@ -32,7 +32,7 @@ header-slideshow:
 - html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
-permalink: "/test/"
+permalink: "/widgets/"
 text: <h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
   about to create your project's website</h3><h3></h3>
 hero-above: 'If you are looking for:'
@@ -47,5 +47,9 @@ above_widget_list:
   text: "<p>test &amp;aaa</p>"
 header: "<h1>Free Widgets to create anything with Silex</h1><h2>The free open source
   web design tool for makers</h2>"
+above_showcase_list:
+  text: ''
+  cta-link: ''
+  cta-primary: ''
 
 ---
