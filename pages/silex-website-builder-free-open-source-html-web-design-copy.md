@@ -1,8 +1,6 @@
 ---
-cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
-cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/" title="Add Silex To
-  Your Node.js Project">Documentation</a></p>
+cta-primary: "<p>xxxxxxxxxxxxxx</p>"
+cta-link: "<p>xxxxxxxxx</p>"
 lang: en
 layout: issues
 show_showcase: true
@@ -17,8 +15,7 @@ hero-slider:
 - A better Wix for makers like you
 - An Unbounce alternative
 - An Adobe muse successor
-hero-cta: <p><a href="/#tiles" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
+hero-cta: <p><a href="#tiles" title="Silex Widgets"><strong>Get started!</strong></a></p>
 header-slideshow:
 - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
     title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
@@ -33,8 +30,7 @@ header-slideshow:
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
 permalink: "/widgets/"
-text: <h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
-  about to create your project's website</h3><h3></h3>
+text: "<p>xxxxxxxxxxxxxxxxx</p>"
 hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
@@ -42,9 +38,10 @@ items: []
 show_widget: true
 image: ''
 above_widget_list:
-  cta-link: More about freedom
-  cta-primary: Get started!
-  text: "<p>test &amp;aaa</p>"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/labels/widget" title="Silex
+    widgets on github">See the full list</a></p>
+  text: "<h2>Featured Silex Widgets</h2><p>Here is a list of the best widgets</p>"
 header: "<h1>Free Widgets to create anything with Silex</h1><h2>The free open source
   web design tool for makers</h2>"
 above_showcase_list:
