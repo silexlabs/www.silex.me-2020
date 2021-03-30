@@ -6,8 +6,8 @@ cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/" title="Add Silex
 lang: en
 layout: issues
 show_showcase: true
-title: "[test] Silex Website Builder | Free Open Source HTML Web Design"
-description: Create fast **and** beautiful websites with Silex, free open source web
+title: Free Widgets | Silex Website Builder
+description: Free Widgets to create anything with Silex, the free open source web
   design tool for makers.
 hero-slider:
 - Your website builder
@@ -17,7 +17,7 @@ hero-slider:
 - A better Wix for makers like you
 - An Unbounce alternative
 - An Adobe muse successor
-hero-cta: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
+hero-cta: <p><a href="/#tiles" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 header-slideshow:
 - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
@@ -45,6 +45,7 @@ above_widget_list:
   cta-link: More about freedom
   cta-primary: Get started!
   text: "<p>test &amp;aaa</p>"
-header: "<p>test</p>"
+header: "<h1>Free Widgets to create anything with Silex</h1><h2>The free open source
+  web design tool for makers</h2>"
 
 ---

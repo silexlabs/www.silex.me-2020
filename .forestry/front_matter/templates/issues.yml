@@ -1,164 +1,164 @@
 ---
-id: issues
 label: Issues
-fields:
-  - type: text
-    name: title
-    label: Title
-    default: ''
-  - type: text
-    name: description
-    label: Description
-    default: ''
-  - type: file
-    name: image
-    label: Image
-    default: ''
-  - type: textarea
-    name: header
-    label: Header Text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - type: boolean
-    name: show_showcase
-    label: Show Showcase
-    default: ''
-  - type: field_group
-    name: above_widget_list
-    label: Section Above The Widget List
-    default: ''
-    fields:
-      - type: textarea
-        name: text
-        label: Header text
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-link
-        label: CTA link
-        default: More about freedom
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-primary
-        label: CTA Primary
-        default: Get started!
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: textarea
-    name: text
-    label: Header text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-link
-    label: CTA link
-    default: More about freedom
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-primary
-    label: CTA Primary
-    default: Get started!
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: boolean
-    name: show_widget
-    label: Show Widgets
-    default: ''
-  - type: field_group
-    name: above_showcase_list
-    label: Section Above The Widget List
-    default: ''
-    fields:
-      - type: textarea
-        name: text
-        label: Header text
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-link
-        label: CTA link
-        default: More about freedom
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-primary
-        label: CTA Primary
-        default: Get started!
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: textarea
-    name: text
-    label: Header text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-link
-    label: CTA link
-    default: More about freedom
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-primary
-    label: CTA Primary
-    default: Get started!
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: issues
-    config:
-      required: true
-name: issues.yml
 hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: file
+  name: image
+  label: Image
+  default: ''
+- type: textarea
+  name: header
+  label: Header Text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: hero-cta
+  label: Hero CTA
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- type: boolean
+  name: show_showcase
+  label: Show Showcase
+  default: ''
+- type: field_group
+  name: above_widget_list
+  label: Section Above The Widget List
+  default: ''
+  fields:
+  - type: textarea
+    name: text
+    label: Header text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA link
+    default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: Get started!
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: text
+  label: Header text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA link
+  default: More about freedom
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: Get started!
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: boolean
+  name: show_widget
+  label: Show Widgets
+  default: ''
+- type: field_group
+  name: above_showcase_list
+  label: Section Above The Widget List
+  default: ''
+  fields:
+  - type: textarea
+    name: text
+    label: Header text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA link
+    default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: Get started!
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: text
+  label: Header text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA link
+  default: More about freedom
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: Get started!
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: issues
+  config:
+    required: true
+pages:
+- pages/silex-website-builder-free-open-source-html-web-design-copy.md
