@@ -1,137 +1,94 @@
 ---
-id: contact
 label: Contact
+hide_body: true
 fields:
-  - type: text
-    name: title
-    label: Title
-    default: ''
-  - type: text
-    name: description
-    label: Description
-    default: ''
-  - type: file
-    name: image
-    label: Image
-    default: ''
-  - type: textarea
-    name: header
-    label: Header Text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: text
-    label: Header text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-primary
-    label: CTA Primary
-    default: Get started!
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-link
-    label: CTA link
-    default: More about freedom
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - type: field_group_list
-    name: items
-    label: Alternate Sections
-    default: ''
-    fields:
-      - type: file
-        name: image
-        label: Illustration
-        default: ''
-      - type: color
-        name: bg-color
-        label: Background Color
-        default: '#FFFFFF'
-        config:
-          color_format: Hex
-      - type: color
-        name: color
-        label: Text color
-        default: '#333333'
-        config:
-          color_format: Hex
-      - type: color
-        name: cta-color
-        label: CTA color
-        default: '#FFFFFF'
-        config:
-          color_format: Hex
-      - type: textarea
-        name: text
-        label: Text
-        default: <h2>Use Silex in your project</h2>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-link
-        label: CTA Link
-        default: <b>Documentation</b>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-primary
-        label: CTA Primary
-        default: <b>Download</b>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: textarea
-    name: contact-form-text
-    label: Contact form text
-    default: >-
-      Contact us, let's do business !Ask for a quote, partnership or specific
-      developmentFollow us, join the community !Silex is free and open source
-      because free minds need to have free tools
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: boolean
-    name: show_widget
-    label: Show Widgets
-    default: ''
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: file
+  name: image
+  label: Image
+  default: ''
+- type: textarea
+  name: header
+  label: Header Text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: hero-cta
+  label: Hero CTA
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: text
+  label: Header text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: Get started!
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA link
+  default: More about freedom
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- type: field_group_list
+  name: items
+  label: Alternate Sections
+  default: ''
+  fields:
   - type: file
     name: image
     label: Illustration
     default: ''
+  - type: color
+    name: bg-color
+    label: Background Color
+    default: "#FFFFFF"
+    config:
+      color_format: Hex
+  - type: color
+    name: color
+    label: Text color
+    default: "#333333"
+    config:
+      color_format: Hex
+  - type: color
+    name: cta-color
+    label: CTA color
+    default: "#FFFFFF"
+    config:
+      color_format: Hex
   - type: textarea
     name: text
     label: Text
-    default: <h2>Use Silex in your project</h2>
+    default: "<h2>Use Silex in your project</h2>"
     config:
       wysiwyg: true
       schema:
@@ -139,7 +96,7 @@ fields:
   - type: textarea
     name: cta-link
     label: CTA Link
-    default: <b>Documentation</b>
+    default: "<b>Documentation</b>"
     config:
       wysiwyg: true
       schema:
@@ -147,22 +104,64 @@ fields:
   - type: textarea
     name: cta-primary
     label: CTA Primary
-    default: <b>Download</b>
+    default: "<b>Download</b>"
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: contact
-    config:
-      required: true
-name: contact.yml
-hide_body: true
+- type: textarea
+  name: contact-form-text
+  label: Contact form text
+  default: Contact us, let's do business !Ask for a quote, partnership or specific
+    developmentFollow us, join the community !Silex is free and open source because
+    free minds need to have free tools
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: boolean
+  name: show_widget
+  label: Show Widgets
+  default: ''
+- type: file
+  name: image
+  label: Illustration
+  default: ''
+- type: textarea
+  name: text
+  label: Text
+  default: "<h2>Use Silex in your project</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA Link
+  default: "<b>Documentation</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: "<b>Download</b>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: contact
+  config:
+    required: true
+pages:
+- pages/pro.md
