@@ -187,3 +187,5 @@ fields:
   default: issues
   config:
     required: true
+pages:
+- pages/silex-website-builder-free-open-source-html-web-design-copy.md

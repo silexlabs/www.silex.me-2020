@@ -41,5 +41,10 @@ tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 items: []
 show_widget: false
 image: ''
+above_widget_list:
+  cta-link: More about freedom
+  cta-primary: Get started!
+  text: ''
+header: ''
 
 ---
