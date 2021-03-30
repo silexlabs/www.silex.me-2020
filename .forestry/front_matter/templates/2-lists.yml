@@ -130,6 +130,19 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: boolean
+    name: show_widget
+    label: Show Widgets
+    default: ''
+  - type: field_group_list
+    name: tiles
+    label: Tiles list
+    default: ''
+    fields:
+      - type: ''
+        name: ''
+        label: ''
+        default: ''
   - name: permalink
     type: text
     label: Permalink

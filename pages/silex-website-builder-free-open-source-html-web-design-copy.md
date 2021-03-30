@@ -33,13 +33,18 @@ header-slideshow:
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
 permalink: "/test/"
-text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
-  about to create your project''s website<br>or <a href="/create/" title="Silex, nocode
-  tool for designers">you’re a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2><strong>Your
-  Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
+text: <h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
+  about to create your project's website</h3><h3></h3>
 hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
+items: []
+show_widget: true
+image: ''
+above_widget_list:
+  cta-link: More about freedom
+  cta-primary: Get started!
+  text: "<p>test &amp;aaa</p>"
+header: "<p>test</p>"
 
 ---

@@ -58,7 +58,7 @@ fields:
     name: lang
     label: Lang
     default: en
-  - type: toggle
+  - type: boolean
     name: show_showcase
     label: Show Showcase
     default: ''
@@ -90,6 +90,72 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: field_group
+    name: above_widget_list
+    label: Section Above The Widget List
+    default: ''
+    fields:
+      - type: textarea
+        name: text
+        label: Header text
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-link
+        label: CTA link
+        default: More about freedom
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+      - type: textarea
+        name: cta-primary
+        label: CTA Primary
+        default: Get started!
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - type: textarea
+    name: text
+    label: Header text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA link
+    default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-primary
+    label: CTA Primary
+    default: Get started!
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: boolean
+    name: show_widget
+    label: Show Widgets
+    default: ''
+  - type: field_group_list
+    name: tiles
+    label: Tiles list
+    default: ''
+    fields:
+      - type: ''
+        name: ''
+        label: ''
+        default: ''
   - name: permalink
     type: text
     label: Permalink
