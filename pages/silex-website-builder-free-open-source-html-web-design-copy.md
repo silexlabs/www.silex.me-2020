@@ -39,12 +39,12 @@ hero-above: 'If you are looking for:'
 hero-bellow: You are in the right place !
 tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 items: []
-show_widget: false
+show_widget: true
 image: ''
 above_widget_list:
   cta-link: More about freedom
   cta-primary: Get started!
-  text: ''
-header: ''
+  text: "<p>test &amp;aaa</p>"
+header: "<p>test</p>"
 
 ---
