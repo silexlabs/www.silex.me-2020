@@ -3,7 +3,7 @@ cta-primary: "<p>xxxxxxxxxxxxxx</p>"
 cta-link: "<p>xxxxxxxxx</p>"
 lang: en
 layout: issues
-show_showcase: true
+show_showcase: false
 title: Free Widgets | Silex Website Builder
 description: Free Widgets to create anything with Silex, the free open source web
   design tool for makers.
