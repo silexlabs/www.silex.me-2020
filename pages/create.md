@@ -87,7 +87,7 @@ items:
   cta-link: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source on
     github">Silex source code</a></p>
   cta-primary: <p><a href="/#list" title="Start building a website now">Get started</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/create/"
 
 ---
