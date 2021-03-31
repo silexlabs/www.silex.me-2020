@@ -345,6 +345,8 @@ will love Silex.<br></h3></div></div><div data-silex-type="container-element" cl
     }
     body.silex-runtime .item_{{forloop.index}} a:hover {
         color: {{item['bg-color']}};
+        background-color: {{item['cta-color']}};
+        border-radius: inherit;
     }
     body.silex-runtime .item_{{forloop.index}} a::after {
         content: "";
@@ -361,7 +363,7 @@ will love Silex.<br></h3></div></div><div data-silex-type="container-element" cl
     body.silex-runtime .item_{{forloop.index}} .cta a::after {
         display: none;
     }
-    body.silex-runtime .item_{{forloop.index}} a:hover::after {
+    xxxxxbody.silex-runtime .item_{{forloop.index}} a:hover::after {
         height: 30px;
     }
     body.silex-runtime .item_{{forloop.index}} .cta {
