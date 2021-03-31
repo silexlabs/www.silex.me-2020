@@ -26,7 +26,7 @@ items:
     it for free</a></p>
   cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
     free instance">Make a donation</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
@@ -44,7 +44,7 @@ items:
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
     it for free</strong></a></p>
   color: "#333333"
-  cta-color: ''
+  cta-color: "#333333"
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -56,7 +56,7 @@ items:
     title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
   cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
     here">Submit your own</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/instances/"
 
 ---
