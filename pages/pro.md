@@ -22,6 +22,7 @@ items:
     a drag and drop website editor they will love</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: "/uploads/ico-pro-team.jpg"
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -31,6 +32,7 @@ items:
     adds custom components to her site, using Silex UI to change its style and behavior.</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: "/uploads/ico-pro-hacker.png"
   bg-color: "#FCFCFC"
   color: "#333333"
@@ -40,6 +42,7 @@ items:
     it to.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
+  cta-color: ''
 - image: "/uploads/ico-pro-compagnies.jpg"
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -49,6 +52,7 @@ items:
   cta-link: <p><a href="https://editor.silex.me/" title="">Try Silex online now</a></p>
   cta-primary: '<p><a href="https://github.com/silexlabs/Silex/wiki/Integrate-Silex-with-your-infrastructure"
     title="Docs: Integrate Silex with your infrastructure">Read the docs</a></p>'
+  cta-color: "#333333"
 - image: "/uploads/ico-pro-designers.png"
   bg-color: "#FCFCFC"
   color: "#333333"
@@ -59,6 +63,7 @@ items:
     us a question now</a></p>
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki" title="Silex user
     docs">Read the user documentation</a></p>
+  cta-color: ''
 - image: "/uploads/ico-pro-on-office-2.png"
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -68,6 +73,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
     title="Developpers docs">Read the docs</a></p>
+  cta-color: ''
 - image: "/uploads/ico-pro-help.png"
   bg-color: "#FCFCFC"
   color: "#333333"
@@ -80,6 +86,7 @@ items:
     Founder</a></p>
   cta-primary: <p><a href="/partners/" title="Silex agencies directory">Silex agencies
     directory</a></p>
+  cta-color: ''
 permalink: "/pro/"
 contact-form-text: "<h2>Contact us, let's do business !</h2><h3>Ask for a quote, partnership
   or specific development</h3>"
