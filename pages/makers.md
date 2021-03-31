@@ -57,7 +57,7 @@ items:
     from within Silex.</p>"
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: ''
+  cta-color: "#808080"
 - image: ''
   bg-color: "#ffffff"
   color: "#808080"
@@ -66,7 +66,7 @@ items:
     no security issues, no "important" updates.</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: ''
+  cta-color: "#808080"
 - image: "/uploads/ico-step-01.png"
   bg-color: "#ffffff"
   color: "#808080"
@@ -75,7 +75,7 @@ items:
     choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: ''
+  cta-color: "#808080"
 permalink: "/makers/"
 
 ---
