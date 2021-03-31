@@ -15,7 +15,7 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
   or <em>code</em>,<br>vote for the features you want.</p>"
 items:
 - image: ''
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
     title="Silex forums">the official forum</a> (you will need a Github account)</p><p>Subscribe
     to our <a href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube
@@ -23,10 +23,10 @@ items:
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: ''
-  cta-color: ''
+  color: "#333333"
+  cta-color: "#333333"
 - image: ''
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
     and <a href="https://www.facebook.com/silexlabs/">like</a> us on Facebook, <a
     href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
@@ -37,8 +37,8 @@ items:
     on</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: ''
-  cta-color: ''
+  color: "#333333"
+  cta-color: "#333333"
 - image: ''
   bg-color: ''
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
