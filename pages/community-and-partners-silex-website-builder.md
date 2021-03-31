@@ -40,7 +40,7 @@ items:
   color: "#333333"
   cta-color: "#333333"
 - image: ''
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
     know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
     title="Easy questions on github">questions which are flagged as easy ones</a>
@@ -50,8 +50,8 @@ items:
     events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: ''
-  cta-color: ''
+  color: "#333333"
+  cta-color: "#333333"
 - image: ''
   bg-color: ''
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
