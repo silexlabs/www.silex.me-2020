@@ -63,7 +63,7 @@ items:
     us a question now</a></p>
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki" title="Silex user
     docs">Read the user documentation</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-pro-on-office-2.png"
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -73,7 +73,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
     title="Developpers docs">Read the docs</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-pro-help.png"
   bg-color: "#FCFCFC"
   color: "#333333"
@@ -86,7 +86,7 @@ items:
     Founder</a></p>
   cta-primary: <p><a href="/partners/" title="Silex agencies directory">Silex agencies
     directory</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/pro/"
 contact-form-text: "<h2>Contact us, let's do business !</h2><h3>Ask for a quote, partnership
   or specific development</h3>"
