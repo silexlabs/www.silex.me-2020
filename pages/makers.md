@@ -58,7 +58,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
   cta-color: ''
-- image: ''
+- image: "/uploads/ico-drag.svg"
   bg-color: "#ffffff"
   color: "#808080"
   text: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is extremely
