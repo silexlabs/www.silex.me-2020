@@ -45,7 +45,7 @@ items:
     it for free</strong></a></p>
   color: "#333333"
   cta-color: ''
-- image: "/uploads/ico-search.svg"
+- image: "/uploads/ico-search.png"
   bg-color: "#FFFFFF"
   color: "#333333"
   text: "<h3>Submit your own instance of Silex</h3><p>Your can host a vanilla Silex
