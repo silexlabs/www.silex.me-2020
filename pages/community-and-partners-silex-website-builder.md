@@ -63,8 +63,8 @@ items:
     yourself</a></p>
   color: "#4A4A4A"
   cta-color: ''
-- image: ''
-  bg-color: ''
+- image: "/uploads/ico-space.svg"
+  bg-color: "#FFFFFF"
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
     online version of Silex. You can host an instance of Silex on your own server
     or on node.js. If you do so, and plan to maintain your server long term, Silex
@@ -73,7 +73,7 @@ items:
     title="How to Host An Instance of Silex">Read the docs</a></p>
   cta-primary: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
     instances</a></p>
-  color: ''
+  color: "#4A4A4A"
   cta-color: ''
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
