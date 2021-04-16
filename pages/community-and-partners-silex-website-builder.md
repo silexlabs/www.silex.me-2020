@@ -39,7 +39,7 @@ items:
   cta-primary: "<p></p>"
   color: ''
   cta-color: ''
-- image: ''
+- image: "/uploads/ico_love.svg"
   bg-color: ''
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
     know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
@@ -52,7 +52,7 @@ items:
   cta-primary: "<p></p>"
   color: ''
   cta-color: ''
-- image: ''
+- image: "/uploads/ico-open-source.svg"
   bg-color: ''
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
     staging server, where the next version is being developed</a>.</p><p>We always
