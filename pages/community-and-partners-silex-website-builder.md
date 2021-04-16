@@ -25,7 +25,7 @@ items:
   cta-primary: "<p></p>"
   color: ''
   cta-color: ''
-- image: "/uploads/ico_love.svg"
+- image: "/uploads/ico-love-04.svg"
   bg-color: "#FFFFFF"
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
     and <a href="https://www.facebook.com/silexlabs/">like</a> us on Facebook, <a
