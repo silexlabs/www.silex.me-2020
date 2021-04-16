@@ -15,7 +15,7 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
   or <em>code</em>,<br>vote for the features you want.</p>"
 items:
 - image: ''
-  bg-color: "#FFFFFF"
+  bg-color: ''
   text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
     title="Silex forums">the official forum</a> (you will need a Github account)</p><p>Subscribe
     to our <a href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube
@@ -23,10 +23,10 @@ items:
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: "#333333"
-  cta-color: "#333333"
-- image: ''
-  bg-color: "#FFFFFF"
+  color: ''
+  cta-color: ''
+- image: "/uploads/ico_love.svg"
+  bg-color: ''
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
     and <a href="https://www.facebook.com/silexlabs/">like</a> us on Facebook, <a
     href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
@@ -37,10 +37,10 @@ items:
     on</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: "#333333"
-  cta-color: "#333333"
+  color: ''
+  cta-color: ''
 - image: ''
-  bg-color: "#FFFFFF"
+  bg-color: ''
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
     know and we will advertise the event! </p><p>Here are <a href="https://github.com/silexlabs/Silex/issues?labels=question&amp;state=open"
     title="Easy questions on github">questions which are flagged as easy ones</a>
@@ -50,10 +50,10 @@ items:
     events">Silex meetup</a> or online demo, we will help advertise those.</p><p></p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: "#333333"
-  cta-color: "#333333"
+  color: ''
+  cta-color: ''
 - image: ''
-  bg-color: "#FFFFFF"
+  bg-color: ''
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
     staging server, where the next version is being developed</a>.</p><p>We always
     need more testers, so that the next version will not break people websites. The
@@ -61,10 +61,10 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
     yourself</a></p>
-  color: "#333333"
-  cta-color: "#333333"
+  color: ''
+  cta-color: ''
 - image: ''
-  bg-color: "#FFFFFF"
+  bg-color: ''
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
     online version of Silex. You can host an instance of Silex on your own server
     or on node.js. If you do so, and plan to maintain your server long term, Silex
@@ -73,8 +73,8 @@ items:
     title="How to Host An Instance of Silex">Read the docs</a></p>
   cta-primary: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
     instances</a></p>
-  color: "#333333"
-  cta-color: "#333333"
+  color: ''
+  cta-color: ''
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
