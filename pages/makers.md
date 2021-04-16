@@ -48,7 +48,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   cta-color: ''
-- image: ''
+- image: "/uploads/ico-pro-hacker.png"
   bg-color: "#ffffff"
   color: "#808080"
   text: "<h2>Hacking Without Limits</h2><p>Code from within the editor, with immediate
