@@ -15,7 +15,7 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
   or <em>code</em>,<br>vote for the features you want.</p>"
 items:
 - image: "/uploads/ico-chat.svg"
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
     title="Silex forums">the official forum</a> (you will need a Github account)</p><p>Subscribe
     to our <a href="https://www.youtube.com/user/Silexlabs" title="Silex Labs youtube
@@ -23,7 +23,7 @@ items:
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: ''
+  color: "#4A4A4A"
   cta-color: ''
 - image: "/uploads/ico-love-04.svg"
   bg-color: "#FFFFFF"
@@ -37,7 +37,7 @@ items:
     on</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  color: ''
+  color: "#4A4A4A"
   cta-color: ''
 - image: "/uploads/ico_love.svg"
   bg-color: ''
