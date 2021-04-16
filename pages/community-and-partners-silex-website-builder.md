@@ -53,7 +53,7 @@ items:
   color: "#9B9B9B"
   cta-color: ''
 - image: "/uploads/ico-open-source.svg"
-  bg-color: ''
+  bg-color: "#FFFFFF"
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
     staging server, where the next version is being developed</a>.</p><p>We always
     need more testers, so that the next version will not break people websites. The
@@ -61,7 +61,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
     yourself</a></p>
-  color: ''
+  color: "#4A4A4A"
   cta-color: ''
 - image: ''
   bg-color: ''
