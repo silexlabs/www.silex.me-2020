@@ -14,7 +14,7 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
   or just follow our adventure,<br>contribute to our <em>communication</em> or <em>documentation</em>
   or <em>code</em>,<br>vote for the features you want.</p>"
 items:
-- image: ''
+- image: "/uploads/ico-chat.svg"
   bg-color: ''
   text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
     title="Silex forums">the official forum</a> (you will need a Github account)</p><p>Subscribe
