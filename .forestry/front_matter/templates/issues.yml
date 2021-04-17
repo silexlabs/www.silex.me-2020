@@ -112,5 +112,3 @@ fields:
   default: issues
   config:
     required: true
-pages:
-- pages/showcase.md

@@ -7,7 +7,7 @@ lang: en
 layout: list
 title: Self hosted instances | Silex Website Builder
 description: Here is a list of public self hosted instances of Silex website builder
-image: ''
+image: "/uploads/ico-host-instance.svg"
 header: "<h1>Silex website builder<br>public self hosted instances.</h1><h2>Free or
   paid services by the community for the community.</h2>"
 hero-cta: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
@@ -26,7 +26,7 @@ items:
     it for free</a></p>
   cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
     free instance">Make a donation</a></p>
-  cta-color: "#333333"
+  cta-color: ''
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"
   text: <h3>Stastic designer by <a href="https://lexoyo.me/" title="Alex Hoyau, Silex
@@ -44,8 +44,8 @@ items:
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
     it for free</strong></a></p>
   color: "#333333"
-  cta-color: "#333333"
-- image: ''
+  cta-color: ''
+- image: "/uploads/ico-search.png"
   bg-color: "#FFFFFF"
   color: "#333333"
   text: "<h3>Submit your own instance of Silex</h3><p>Your can host a vanilla Silex
@@ -56,7 +56,7 @@ items:
     title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
   cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
     here">Submit your own</a></p>
-  cta-color: "#333333"
+  cta-color: ''
 permalink: "/instances/"
 
 ---

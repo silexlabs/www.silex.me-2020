@@ -38,7 +38,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   cta-color: ''
-- image: ''
+- image: "/uploads/ico-speed.svg"
   bg-color: "#ffffff"
   color: "#808080"
   text: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
@@ -48,7 +48,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   cta-color: ''
-- image: ''
+- image: "/uploads/ico-pro-hacker.png"
   bg-color: "#ffffff"
   color: "#808080"
   text: "<h2>Hacking Without Limits</h2><p>Code from within the editor, with immediate
@@ -57,8 +57,8 @@ items:
     from within Silex.</p>"
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: "#808080"
-- image: ''
+  cta-color: ''
+- image: "/uploads/ico-drag.svg"
   bg-color: "#ffffff"
   color: "#808080"
   text: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is extremely
@@ -66,7 +66,7 @@ items:
     no security issues, no "important" updates.</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: "#808080"
+  cta-color: ''
 - image: "/uploads/ico-step-01.png"
   bg-color: "#ffffff"
   color: "#808080"
@@ -75,7 +75,7 @@ items:
     choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: "#808080"
+  cta-color: ''
 permalink: "/makers/"
 
 ---
