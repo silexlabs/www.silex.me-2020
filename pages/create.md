@@ -42,10 +42,10 @@ items:
   cta-primary: ''
   cta-color: "#000000"
 - text: <h2><strong>Beyond nice looking</strong></h2><p>Due to its static nature,
-    your website will be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.silex.me"
+    your website will be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
     title="Google PSI test">Page Speed Insight</a> score for Silex websites is <em>&gt;
     90% on mobile and desktop.</em></p>
-  image: "/uploads/02-publish_64.gif"
+  image: "/uploads/silex-scrore.png"
   bg-color: "#ffffff"
   color: "#000000"
   cta-link: ''
