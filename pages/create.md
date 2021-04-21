@@ -51,7 +51,7 @@ items:
   cta-primary: ''
   cta-color: ''
 - text: <h2><strong>DIY spirit</strong></h2><p>As a <em>nocode tool</em>, Silex is
-    <em>maker friendly</em>, with a <em>loving community</em>. Copy paste <a href="https://github.com/silexlabs/Silex/labels/widget"
+    <em>maker friendly</em>, with a <em>loving community</em>. Copy paste <a href="/widgets/"
     title="Silex widgets, ready to use code snipets">code and widgets</a> provided
     by the community.</p>
   image: "/uploads/01-diy_256.gif"
@@ -59,7 +59,7 @@ items:
   color: "#333333"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - text: "<h2><strong>Hacking without limits</strong></h2><p>You can code from within
     the editor, add JS and CSS with<strong> </strong><em>immediate feedback</em>.<br><em>Add
     any front end feature</em>. Plug into any third party API.</p>"
