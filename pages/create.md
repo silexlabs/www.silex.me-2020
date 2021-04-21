@@ -1,5 +1,5 @@
 ---
-cta-primary: "<p></p>"
+cta-primary: <p><a href="/showcase/" title="Silex websites showcase and examples">Showcase</a></p>
 cta-link: "<p></p>"
 lang: en
 layout: list
@@ -10,9 +10,7 @@ image: "/uploads/ico-header-freedom.svg"
 header: "<h1><strong>Your design, your way!</strong></h1><h2>Free is not just about
   price. #creativity</h2>"
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
-text: <h2>Why choose Silex</h2><h3>To showcase your product or project?</h3><p>Checkout
-  the showcase page of <a href="/showcase/" title="Silex websites showcase and examples">websites
-  powered by Silex</a>.</p>
+text: "<h2>Why choose Silex</h2><h3>To showcase your product or project?</h3>"
 items:
 - text: "<h2><strong>Creative process</strong></h2><p>Design a website as you would
     draw it, <em>iterate over your design</em>, embrace the <em>live web creation</em>
