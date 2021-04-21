@@ -20,7 +20,7 @@ items:
   color: "#333333"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - image: "/uploads/ico-fast.png"
   bg-color: "#FCFCFC"
   color: "#333333"
@@ -29,7 +29,7 @@ items:
     free plans including your own domain name without ads.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  cta-color: ''
+  cta-color: "#000000"
 - text: "<h2><strong>Total design freedom, DIY!</strong></h2><p>Create any <em>custom
     design</em>, clone a website pixel perfect.<br>Elements are absolutely positioned
     to make it feel natural.<br>Use the <em>mobile editor</em> to design the mobile
@@ -39,7 +39,7 @@ items:
   color: "#333333"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - text: <h2><strong>Beyond nice looking</strong></h2><p>Due to its static nature,
     your website will be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.silex.me"
     title="Google PSI test">Page Speed Insight</a> score for Silex websites is <em>&gt;
@@ -49,7 +49,7 @@ items:
   color: "#000000"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - text: <h2><strong>DIY spirit</strong></h2><p>As a <em>nocode tool</em>, Silex is
     <em>maker friendly</em>, with a <em>loving community</em>. Copy paste <a href="/widgets/"
     title="Silex widgets, ready to use code snipets">code and widgets</a> provided
@@ -68,7 +68,7 @@ items:
   color: "#333333"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - text: <h2><strong>The static nature of your<br>drag and drop editor</strong></h2><p>Silex
     uses only file, so it has no databases, no template language, no plugins.<br>This
     means <em>no security issues, no "important" updates</em>.</p>
@@ -77,7 +77,7 @@ items:
   color: "#333333"
   cta-link: ''
   cta-primary: ''
-  cta-color: ''
+  cta-color: "#000000"
 - text: "<h2><strong>♥ Open source free software</strong></h2><p>Silex is <em>forever
     free</em>, integrates with<strong> </strong><em>other tools</em>, has endless
     <em>customization</em>.</p>"
@@ -87,7 +87,7 @@ items:
   cta-link: <p><a href="https://github.com/silexlabs/Silex/" title="Silex source on
     github">Silex source code</a></p>
   cta-primary: <p><a href="/#list" title="Start building a website now">Get started</a></p>
-  cta-color: "#333333"
+  cta-color: "#000000"
 permalink: "/create/"
 
 ---
