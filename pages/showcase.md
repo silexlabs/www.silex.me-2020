@@ -11,7 +11,7 @@ above_showcase_list:
   cta-primary: <p><a href="/instances/#list" title="Use silex free instance now">Get
     started!</a></p>
   show_showcase: true
-  text: "<h2>Featured websites</h2><p>By the community</p>"
+  text: "<h2>Featured websites</h2><h3>By the community of designers, makers and no-coders</h3>"
 layout: issues
 title: Showcase | Silex Website Builder
 description: Websites by our users, powered by Silex
