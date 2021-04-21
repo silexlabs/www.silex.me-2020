@@ -8,7 +8,7 @@ above_widget_list:
 above_showcase_list:
   cta-link: More about freedom
   cta-primary: Get started!
-  show_showcase: false
+  show_showcase: true
   text: ''
 layout: issues
 title: Showcase | Silex Website Builder
