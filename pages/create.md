@@ -1,7 +1,7 @@
 ---
-cta-primary: <p><a href="/showcase/" title="Silex websites showcase and examples">Featured
+cta-primary: "<p></p>"
+cta-link: <p><a href="/showcase/" title="Silex websites showcase and examples">Featured
   Silex websites</a></p>
-cta-link: "<p></p>"
 lang: en
 layout: list
 title: Design professional websites | Silex website builder
