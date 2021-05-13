@@ -1,8 +1,7 @@
 ---
 cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
-cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/" title="Add Silex To
-  Your Node.js Project">Documentation</a></p>
+cta-link: <p><a href="/showcase" title="See examples of Silex websites">Showcase</a></p>
 lang: en
 layout: home
 title: Silex Website Builder | Free Open Source HTML Web Design
