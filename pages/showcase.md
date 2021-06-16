@@ -9,7 +9,7 @@ above_showcase_list:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   show_showcase: true
-  text: "<p>Here is a small selection&nbsp;of recent websites powered by </p>"
+  text: "<h3>Here is a small selection of recent websites powered by Silex</h3>"
 layout: issues
 title: Showcase | Silex Website Builder
 description: Websites by our users, powered by Silex
