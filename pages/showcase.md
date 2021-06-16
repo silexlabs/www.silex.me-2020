@@ -13,7 +13,7 @@ above_showcase_list:
 layout: issues
 title: Showcase | Silex Website Builder
 description: Websites by our users, powered by Silex
-image: "/uploads/ico_love.png"
+image: "/uploads/ico-love-04.svg"
 header: "<h1>Featured websites powered by Silex</h1><h3>Top 10 websites by the community
   of designers, makers and no-coders</h3>"
 hero-cta: <p><a href="https://github.com/silexlabs/Silex/issues/new?title=My%20Silex%20website&amp;body=Here%20is%20a%20link%20to%20a%20website%20I%20did%20with%20Silex:&amp;labels=showcase">Add
