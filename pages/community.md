@@ -22,15 +22,15 @@ items:
   cta-primary: "<p></p>"
   cta-color: "#333333"
 - image: ''
-  bg-color: ''
-  color: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
   text: "<h2>HOSTING YOUR SITE FOR FREE</h2><p>Your work on silex.me will result in
     HTML pages stored on your computer.<br>Let Silex publish your site and host it
     anywhere.</p><p>Or use the options to publish directly to trusted free hosting
     companies.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  cta-color: ''
+  cta-color: "#333333"
 - image: ''
   bg-color: ''
   color: ''
