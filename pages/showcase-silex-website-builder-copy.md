@@ -40,7 +40,7 @@ items:
     pixel perfect clone from the design to the features has been made possible thanks
     to Silex</p>'
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://belighted.com/" title="Belighted website">https://belighted.com/</a></p>
+  cta-primary: <p><a href="https://belighted.com/" title="Belighted website">belighted.com</a></p>
 - image: "/uploads/quorb-net.png"
   bg-color: "#FFFFFF"
   color: "#333333"
@@ -68,5 +68,13 @@ items:
     embed in our web site :-)</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="http://razzledazzle.free.fr" title="Razzledazzle rock band">razzledazzle.free.fr</a></p>
+- image: "/uploads/justfriends.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: "<p>Hi all, here is a link to the site I built with Silex for the band I belong
+    to.</p>"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://justfriends.netlify.app/" title="https://justfriends.netlify.app/">justfriends.netlify.app</a></p>
 
 ---
