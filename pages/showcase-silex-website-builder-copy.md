@@ -112,5 +112,18 @@ items:
     when the user clicks on a picture.</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://laphotonature.fr/" title="https://laphotonature.fr/">laphotonature.fr</a></p>
+- image: "/uploads/ce2.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: <p>This website is the official website of the Cloud Explorer project. We
+    developed this great file browser with <a href="https://github.com/zabojad"><strong>@zabojad</strong></a>
+    and <a href="https://github.com/lexoyo"><strong>@lexoyo</strong></a> as a free
+    software. It is used in <a href="http://www.silex.me/">Silex</a>, <a href="http://responsize.org/">Responsize</a>
+    and <a href="http://backnode.io/">Backnode</a> so that the users can open and
+    save files to and from several file services, such as Dropbox and FTP.</p><p>It
+    targets web developers who work on web applications.</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://cloud-explorer.org/" title="https://cloud-explorer.org/">cloud-explorer.org</a></p>
 
 ---
