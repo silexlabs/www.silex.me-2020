@@ -28,7 +28,7 @@ items:
 - image: "/uploads/belighted.png"
   bg-color: "#FFFFFF"
   color: "#333333"
-  cta-color: "#FFFFFF"
+  cta-color: "#333333"
   text: '<p>The belgian company <a href="https://belighted.com/" title="Belighted">Belighted</a>
     has released their new marketing website, it looks like this:</p><p>It has been
     created together with <a href="https://internet2000.net/" title="INTERNET 2000
