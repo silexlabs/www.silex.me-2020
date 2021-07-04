@@ -52,14 +52,10 @@ items:
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#333333"
-  text: <table><tbody><tr><td>Here is <a href="https://cto-bro.com/">a link to a website
-    I did with Silex</a>:<a href="https://cto-bro.com/"><img src="https://user-images.githubusercontent.com/715377/51267823-ecde8f00-19be-11e9-8f03-75d3170cd866.png"
-    alt="screenshot from 2019-01-16 18-41-23"></a>It is multilingual and seo optimized
-    (very good page rank). It is plugged in <a href="https://jekyllrb.com/">jekyll</a>
-    and <a href="https://www.siteleaf.com/">sitelaf</a> through github pages.</td></tr></tbody></table><p><br>Here
-    is a link to a website powered by Silex. It is multilingual and seo optimized
-    (very good page rank). It is plugged in <a href="https://jekyllrb.com/">jekyll</a>
-    and <a href="https://www.siteleaf.com/">sitelaf</a> through github pages.</p>
+  text: <p>Here is a website <a href="https://www.silex.me" title="Silex website builder">powered
+    by Silex</a>. It is multilingual and seo optimized (very good page rank). It is
+    plugged in <a href="https://jekyllrb.com/">jekyll</a> and <a href="https://www.siteleaf.com/">sitelaf</a>
+    through github pages.</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://cto-bro.com/" title="CTO Bro coaching CTOs">cto-bro.com</a></p>
 
