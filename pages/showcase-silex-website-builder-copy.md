@@ -58,5 +58,15 @@ items:
     through github pages.</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://cto-bro.com/" title="CTO Bro coaching CTOs">cto-bro.com</a></p>
+- image: "/uploads/razzledazzle-free-fr.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: <p>Razzledazzle rock band website</p><p>We are a new "rock band" and silex.me
+    was an easy and very good tool to develop and maintain (with github) our modern
+    and designed web site.</p><p>Youtube videos and Soundcloud musics were easily
+    embed in our web site :-)</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="http://razzledazzle.free.fr" title="Razzledazzle rock band">razzledazzle.free.fr</a></p>
 
 ---
