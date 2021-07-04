@@ -39,7 +39,7 @@ items:
     and github to glue everything together and Netlify for the hosting and forms A
     pixel perfect clone from the design to the features has been made possible thanks
     to Silex</p>'
-  cta-link: <p><a href="https://belighted.com/" title="Belighted website">https://belighted.com/</a></p>
-  cta-primary: "<p></p>"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://belighted.com/" title="Belighted website">https://belighted.com/</a></p>
 
 ---
