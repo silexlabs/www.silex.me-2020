@@ -24,7 +24,7 @@ cta-primary: Get started!
 cta-link: More about freedom
 text: ''
 items:
-- image: ''
+- image: "/uploads/belighted.png"
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#FFFFFF"
