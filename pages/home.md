@@ -32,8 +32,8 @@ header-slideshow:
     design the mobile version too.</p>
 permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
-  creating your&nbsp;next project''s website<br>or <a href="/create/" title="Silex,
-  nocode tool for designers">you’re a designer</a> making websites for customers,<br>you
+  creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
+  tool for designers">you’re a designer</a> making websites for customers,<br>you
   will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
