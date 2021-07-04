@@ -17,16 +17,17 @@ items:
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  text: "<h2>Follow the trend</h2><p>Welcome to free software, nocode and static movements.</p>"
+  text: "<p></p><h2>Follow the trend</h2><p>Welcome to free software, nocode and static
+    movements.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   cta-color: "#333333"
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  text: "<h2>HOSTING YOUR SITE FOR FREE</h2><p>Your work on silex.me will result in
-    HTML pages stored on your computer.<br>Let Silex publish your site and host it
-    anywhere.</p><p>Or use the options to publish directly to trusted free hosting
+  text: "<p></p><h2>HOSTING YOUR SITE FOR FREE</h2><p>Your work on silex.me will result
+    in HTML pages stored on your computer.<br>Let Silex publish your site and host
+    it anywhere.</p><p>Or use the options to publish directly to trusted free hosting
     companies.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
@@ -44,8 +45,8 @@ items:
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  text: <h2>GET INVOLVED</h2><h3>Let us know about you, participate!</h3><p>If you
-    want to be even more helpful, here is a list of <a href="https://github.com/silexlabs/Silex/wiki/Contribute"
+  text: <p></p><h2>GET INVOLVED</h2><h3>Let us know about you, participate!</h3><p>If
+    you want to be even more helpful, here is a list of <a href="https://github.com/silexlabs/Silex/wiki/Contribute"
     title="Give 5 min of your time">simple things you can do</a> for your favorite
     website builder ;)</p>
   cta-link: "<p></p>"
