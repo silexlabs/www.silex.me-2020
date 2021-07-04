@@ -86,5 +86,19 @@ items:
     quickly create a relatively simple website.</p><p><br></p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="http://bioworx-pigeon.co.za/" title="http://bioworx-pigeon.co.za/">bioworx-pigeon.co.za</a></p>
+- image: "/uploads/bot-emploi.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: '<p><a href="https://singchan.github.io/bot-emploi/">Here is very simple and
+    efficient "landing page"</a> I did in 3 hours from a blank page, as a marketing
+    tool to test my business idea.</p><p>It is made with <a href="http://www.silex.me/">Silex
+    website builder</a>, it uses these "widgets": <a href="https://simplesharebuttons.com/">SimpleShareButtons</a>,
+    <a href="https://formspree.io/">Formspree</a>. It has a big call to action and
+    <a href="http://ami.responsivedesign.is/?url=https%3A%2F%2Fsingchan.github.io%2Fbot-emploi%2F">it
+    is responsive as you can see here</a>.</p><p>It is <a href="https://github.com/singchan/bot-emploi">hosted
+    for free on gihub, you can see the website files here</a>.</p>'
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://bot-emploi.fr/" title="https://bot-emploi.fr/">bot-emploi.fr</a></p>
 
 ---
