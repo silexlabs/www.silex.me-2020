@@ -19,12 +19,19 @@ header: "<h1>Featured websites powered by Silex</h1><h3>Top 10 websites by the c
   of designers, makers and no-coders</h3>"
 hero-cta: <p><a href="https://github.com/silexlabs/Silex/issues/new?title=My%20Silex%20website&amp;body=Here%20is%20a%20link%20to%20a%20website%20I%20did%20with%20Silex:&amp;labels=showcase">Add
   your website to the list</a></p>
-permalink: "/showcase1/"
+permalink: "/showcase/"
 cta-primary: <p><a href="/#list" title="Create a website with Silex"><strong>CREATE
   YOUR OWN</strong></a></p>
 cta-link: "<p></p>"
 text: "<h3>Here is a small selection of recent websites powered by Silex</h3>"
 items:
+- image: "/uploads/quorb-net.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: "<p>Quorb Inc. website powered by Silex</p>"
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://www.quorb.net/">quorb.net</a></p>
 - image: "/uploads/belighted.png"
   bg-color: "#FFFFFF"
   color: "#333333"
