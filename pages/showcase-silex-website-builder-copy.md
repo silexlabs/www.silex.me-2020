@@ -76,5 +76,15 @@ items:
     to.</p>"
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://justfriends.netlify.app/" title="https://justfriends.netlify.app/">justfriends.netlify.app</a></p>
+- image: "/uploads/bioworx-pigeon-co-za.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: <p>Here is a website I did with <a href="https://www.silex.me" title="Silex
+    website builder">Silex website builder</a></p><p>Made use of only the standard
+    Silex features, didn't use any widgets. Silex is a wonderful tool to easily and
+    quickly create a relatively simple website.</p><p><br></p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="http://bioworx-pigeon.co.za/" title="http://bioworx-pigeon.co.za/">bioworx-pigeon.co.za</a></p>
 
 ---
