@@ -12,7 +12,7 @@ above_showcase_list:
   show_showcase: true
   text: "<h3>Here is a small selection of recent websites powered by Silex</h3>"
 layout: list
-title: Showcase | Silex Website Builder-(copy)
+title: Showcase | Silex Website Builder
 description: Websites by our users, powered by Silex
 image: "/uploads/ico-free.png"
 header: "<h1>Featured websites powered by Silex</h1><h3>Top 10 websites by the community
