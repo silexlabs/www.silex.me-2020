@@ -15,12 +15,12 @@ text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/silexl
   to the community.</p>
 items:
 - image: ''
-  bg-color: ''
-  color: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
   text: "<h2>Follow the trend</h2><p>Welcome to free software, nocode and static movements.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  cta-color: ''
+  cta-color: "#333333"
 - image: ''
   bg-color: ''
   color: ''
