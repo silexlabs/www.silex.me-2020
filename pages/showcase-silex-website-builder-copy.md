@@ -25,6 +25,16 @@ cta-primary: <p><a href="/#list" title="Create a website with Silex"><strong>CRE
 cta-link: "<p></p>"
 text: "<h3>Here is a small selection of recent websites powered by Silex</h3>"
 items:
+- image: "/uploads/refty.png"
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: <p>Blog de l'entreprise <a href="https://refty.co/" title="">Refty</a>. Powered
+    by Silex, with the <a href="/instances/#list" title="">"Stastic" instance</a>,
+    using <a href="http://11ty.dev/" title="">11ty static site generator</a>, netlify
+    hosting &amp; forms, github, hubspot integration.</p>
+  cta-link: "<p></p>"
+  cta-primary: <p><a href="https://blog.refty.co/" title="https://blog.refty.co/">blog.refty.co</a></p>
 - image: "/uploads/belighted.png"
   bg-color: "#FFFFFF"
   color: "#333333"
