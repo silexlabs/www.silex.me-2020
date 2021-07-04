@@ -23,6 +23,21 @@ permalink: "/showcase1/"
 cta-primary: Get started!
 cta-link: More about freedom
 text: ''
-items: []
+items:
+- image: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#FFFFFF"
+  text: '<p>The belgian company <a href="https://belighted.com/" title="Belighted">Belighted</a>
+    has released their new marketing website, it looks like this:</p><p>It has been
+    created together with INTERNET 2000 web agency, as a clone of a website they made
+    in Hubspot CMS. It was slow and very expensive to host. Today it runs with JAMstack
+    tools: Silex to edit the design, Forestry for marketers to edit the content and
+    structure, <a href="https://11ty.dev" title="Eleventy SSG">Eleventy</a> (11ty)
+    and github to glue everything together and Netlify for the hosting and forms A
+    pixel perfect clone from the design to the features has been made possible thanks
+    to Silex</p>'
+  cta-link: <p><a href="https://belighted.com/" title="https://belighted.com/">https://belighted.com/</a></p>
+  cta-primary: "<b>Download</b>"
 
 ---
