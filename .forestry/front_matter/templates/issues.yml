@@ -113,4 +113,5 @@ fields:
   config:
     required: true
 pages:
+- pages/showcase-silex-website-builder-copy.md
 - pages/showcase.md
