@@ -62,6 +62,8 @@ tiles:
     Labs org"><img src="/uploads/silexlabs.png"></a></p>
 - text: <p>Here is a <a href="https://opencollective.com/silex#section-contributors"
     title="Open Source Collective">list of individuals supporting Silex</a> on opencollective</p>
+- text: <p>Your company here, <a href="https://silex2020.netlify.app/pro/#contact"
+    title="">get in touch</a></p>
 tile-list-title: "<h2>Proudly sponsored by</h2>"
 
 ---
