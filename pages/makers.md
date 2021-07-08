@@ -50,14 +50,14 @@ items:
   cta-color: ''
 - image: "/uploads/ico-pro-hacker.png"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: "<h2>Hacking Without Limits</h2><p>Code from within the editor, with immediate
     feedback.<br>Add any front end feature. Plug into any third party API.<br>If a
     feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript
     from within Silex.</p>"
   cta-link: "<p></p>"
   cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-drag.svg"
   bg-color: "#ffffff"
   color: "#808080"
