@@ -38,7 +38,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   color: "#4A4A4A"
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico_love.svg"
   bg-color: "#FFFFFF"
   text: <h3>Share knowledge</h3><p>If you're talking about Silex in public, let us
@@ -51,7 +51,7 @@ items:
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   color: "#4A4A4A"
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-open-source.svg"
   bg-color: "#FFFFFF"
   text: <h3>Become a beta tester</h3><p>Here is <a href="https://preprod.silex.me">Silex
@@ -62,7 +62,7 @@ items:
   cta-primary: <p><a href="https://github.com/silexlabs/Silex/issues/new">Introduce
     yourself</a></p>
   color: "#4A4A4A"
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-space.svg"
   bg-color: "#FFFFFF"
   text: "<h3>Host an instance of Silex</h3><p>We have more and more people using the
@@ -74,7 +74,7 @@ items:
   cta-primary: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
     instances</a></p>
   color: "#4A4A4A"
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/community/"
 tile-list-title: "<h3>PROUDLY SPONSORED BY THE BEST</h3>"
 tiles:
