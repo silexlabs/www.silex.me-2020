@@ -36,7 +36,7 @@ items:
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  text: "<p></p><h2>HOSTING YOUR SITE FOR FREE</h2><p>Your work on silex.me will result
+  text: "<p></p><h2>Host your site for free</h2><p>Your work on silex.me will result
     in HTML pages stored on your computer.<br>Let Silex publish your site and host
     it anywhere.</p><p>Or use the options to publish directly to trusted free hosting
     companies.</p>"
