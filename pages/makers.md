@@ -72,7 +72,7 @@ items:
   color: "#333333"
   text: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open Silex
     in a browser</a>, or <a href="/makers/" title="">install the app on your computer</a>,
-    choose a free template or start with a blank page</p>
+    <br>choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
   cta-color: "#333333"
