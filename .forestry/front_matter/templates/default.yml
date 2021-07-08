@@ -36,4 +36,4 @@ fields:
   config:
     required: true
 pages:
-- pages/404-page-not-found.md
+- pages/404.md
