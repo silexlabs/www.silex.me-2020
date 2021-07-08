@@ -76,7 +76,7 @@ items:
   color: "#4A4A4A"
   cta-color: "#333333"
 permalink: "/community/"
-tile-list-title: "<h3>Partners</h3>"
+tile-list-title: "<h3>Partners, agencies and hosting companies</h3>"
 tiles:
 - text: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit organization"><img
     src="/uploads/silexlabs.png"></a></p>
