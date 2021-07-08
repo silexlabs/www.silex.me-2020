@@ -14,12 +14,12 @@ text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing We
 items:
 - image: "/uploads/ico-step-02.png"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: "<h2>Customize</h2><p>Customize anything on your site, you can add text, images,
     videos &amp; more...<br>No code is the next thing.</p>"
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-step-03.png"
   bg-color: "#ffffff"
   color: "#808080"
