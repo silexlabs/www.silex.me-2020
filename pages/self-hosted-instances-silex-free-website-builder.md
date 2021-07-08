@@ -60,7 +60,7 @@ items:
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
     title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
   cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
-    here">Submit your own</a></p>
+    here"><strong>Submit your own</strong></a></p>
   cta-color: "#333333"
 permalink: "/instances/"
 
