@@ -61,7 +61,7 @@ items:
     title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
   cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
     here">Submit your own</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/instances/"
 
 ---
