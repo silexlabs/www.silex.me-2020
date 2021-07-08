@@ -49,7 +49,7 @@ items:
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
     it for free</strong></a></p>
   color: "#333333"
-  cta-color: ''
+  cta-color: "#333333"
 - image: "/uploads/ico-search.png"
   bg-color: "#FFFFFF"
   color: "#333333"
