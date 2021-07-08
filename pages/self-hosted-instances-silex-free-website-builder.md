@@ -1,6 +1,6 @@
 ---
 cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
-  title="How to Host An Instance of Silex">Read the docs</a></p>
+  title="How to Host An Instance of Silex">Read the docs about self hosting</a></p>
 cta-link: <p><a href="/pro/#contact" title="Advertize your instance of Silex here">Submit
   your own</a></p>
 lang: en
@@ -12,8 +12,8 @@ header: "<h1>Silex website builder<br>public self hosted instances.</h1><h2>Free
   paid services by the community for the community.</h2>"
 hero-cta: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
   instances</a></p>
-text: <h3>Anyone can host an instance of Silex, to give back to the community or to
-  offer a service built on top of Silex.</h3><p>Here are the instances we know about.
+text: <h3>Anyone can host an instance of Silex</h3><p>Give back to the community or
+  create a service built on top of Silex.</p><p>Here are the instances we know about.
   Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
 items:
 - image: "/uploads/silex-icon-2018-4x.png"
