@@ -17,17 +17,6 @@ items:
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  cta-color: "#333333"
-  text: <h2>Behind the scene</h2><p>Most of Silex source code is written and maintained
-    by <a href="https://lexoyo.me/" title="Alex Hoyau, lead dev, CTO, javascript">Alex
-    Hoyau</a>. Visit <a href="https://internet2000.net/" title="Internet 2000 SOLUTIONS
-    DIGITALES RESPONSABLES ET PERFORMANTES">his small web agency</a> and <a href="https://www.linkedin.com/in/webappdev/"
-    title="Alex Hoyau on linkedin">give him kudos on linkedin</a>.</p>
-  cta-link: "<p></p>"
-  cta-primary: "<p></p>"
-- image: ''
-  bg-color: "#FFFFFF"
-  color: "#333333"
   text: "<p></p><h2>Follow the trend</h2><p>Welcome to free software, nocode and static
     movements.</p>"
   cta-link: "<p></p>"
@@ -56,7 +45,18 @@ items:
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
-  text: <p></p><h2>GET INVOLVED</h2><h3>Let us know about you, participate!</h3><p>If
+  cta-color: "#333333"
+  text: <h2>Behind the scene</h2><p>Most of Silex source code is written and maintained
+    by <a href="https://lexoyo.me/" title="Alex Hoyau, lead dev, CTO, javascript">Alex
+    Hoyau</a>. Visit <a href="https://internet2000.net/" title="Internet 2000 SOLUTIONS
+    DIGITALES RESPONSABLES ET PERFORMANTES">his small web agency</a> and <a href="https://www.linkedin.com/in/webappdev/"
+    title="Alex Hoyau on linkedin">give him kudos on linkedin</a>.</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
+- image: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  text: <p></p><h2>Get involved</h2><h3>Let us know about you, participate!</h3><p>If
     you want to be even more helpful, here is a list of <a href="https://github.com/silexlabs/Silex/wiki/Contribute"
     title="Give 5 min of your time">simple things you can do</a> for your favorite
     website builder ;)</p>
