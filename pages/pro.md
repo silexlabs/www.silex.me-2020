@@ -88,7 +88,7 @@ items:
     agencies directory</a></p>
   cta-color: "#333333"
 permalink: "/pro/"
-contact-form-text: "<h2>Contact us, let's do business !</h2><h3>Ask for a quote, partnership
+contact-form-text: "<h2>Contact us, let's collaborate !</h2><h3>Ask for a quote, partnership
   or specific development</h3>"
 
 ---
