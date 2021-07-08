@@ -1,8 +1,8 @@
 ---
-cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
-  title="How to Host An Instance of Silex">Read the docs about self hosting</a></p>
-cta-link: <p><a href="/pro/#contact" title="Advertize your instance of Silex here">Submit
+cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex here">Submit
   your own</a></p>
+cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+  title="How to Host An Instance of Silex">Read the docs about self hosting</a></p>
 lang: en
 layout: list
 title: Self hosted instances | Silex Website Builder
@@ -14,7 +14,12 @@ hero-cta: <p><a href="/instances/#list" title="Silex self hosted community insta
   instances</a></p>
 text: <h3>Anyone can host an instance of Silex</h3><p>Give back to the community or
   create a service built on top of Silex.</p><p>Here are the instances we know about.
-  Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p>
+  Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p><p><a
+  href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+  title="How to Host An Instance of Silex">Here is how to self host Silex</a> and
+  how to use Silex <a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
+  title="How To Add Silex To Your Node.js Project">in your project</a> or <a href="https://github.com/silexlabs/Silex/wiki/Integrate-Silex-with-your-infrastructure"
+  title="Integrate Silex with your infrastructure">with your infrastructure</a>.</p>
 items:
 - image: "/uploads/silex-icon-2018-4x.png"
   bg-color: "#FFFFFF"
