@@ -56,7 +56,7 @@ items:
     feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript
     from within Silex.</p>"
   cta-link: "<p></p>"
-  cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
+  cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
   cta-color: "#333333"
 - image: "/uploads/ico-drag.svg"
   bg-color: "#ffffff"
@@ -65,7 +65,7 @@ items:
     simple yet powerful: no databases, no template language, no plugins.<br>This means
     no security issues, no "important" updates.</p>'
   cta-link: "<p></p>"
-  cta-primary: <p><a href="/get-started/" title="Create website in Silex">GET STARTED!</a></p>
+  cta-primary: "<p></p>"
   cta-color: ''
 - image: "/uploads/ico-step-01.png"
   bg-color: "#ffffff"
@@ -75,7 +75,7 @@ items:
     choose a free template or start with a blank page</p>
   cta-link: "<p></p>"
   cta-primary: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
-  cta-color: ''
+  cta-color: "#333333"
 permalink: "/makers/"
 
 ---
