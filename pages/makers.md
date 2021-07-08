@@ -22,7 +22,7 @@ items:
   cta-color: "#333333"
 - image: "/uploads/ico-step-03.png"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: "<h2>Publish!</h2><p>When you are ready, publish your website Silex integrates
     with professional hosting providers offering free plans including your own domain
     name without ads.</p>"
@@ -31,7 +31,7 @@ items:
   cta-color: ''
 - image: "/uploads/01-diy_256.gif"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: "<h2>Total Design Freedom, DIY!</h2><p>Create any custom design, or clone
     one, pixel perfect.<br>Elements are absolutely positioned to make it feel natural.<br>Use
     the mobile editor to design the mobile version too.</p>"
@@ -40,7 +40,7 @@ items:
   cta-color: ''
 - image: "/uploads/ico-speed.svg"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
     be very fast to load.<br>The <a href="https://developers.google.com/speed/pagespeed/insights/"
     title="Google PSI test">Page Speed Insight</a> score of a Silex site is at least
@@ -60,7 +60,7 @@ items:
   cta-color: "#333333"
 - image: "/uploads/ico-drag.svg"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is extremely
     simple yet powerful: no databases, no template language, no plugins.<br>This means
     no security issues, no "important" updates.</p>'
@@ -69,7 +69,7 @@ items:
   cta-color: ''
 - image: "/uploads/ico-step-01.png"
   bg-color: "#ffffff"
-  color: "#808080"
+  color: "#333333"
   text: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open Silex
     in a browser</a>, or <a href="/makers/" title="">install the app on your computer</a>,
     choose a free template or start with a blank page</p>
