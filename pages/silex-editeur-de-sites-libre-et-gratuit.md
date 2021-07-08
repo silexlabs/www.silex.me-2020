@@ -8,7 +8,8 @@ text: <h1>Silex en français, c'est pour bientôt !</h1><p>Silex est un éditeur
   (GPL) de sites web en ligne, il fonctionne en glisser/déposer et en mode WYSIWYG.</p><p>Aidez
   nous à traduire le site et le logiciel en français, <a href="https://github.com/silexlabs/Silex/issues/new"
   title="Contactez nous sur les forums">proposez votre aide ici</a> (compte github
-  nécessaire)</p>
+  nécessaire)</p><p>Pour le moment vous pouvez <a href="/" title="Silex website builder">consulter
+  le site en anglais ici</a>.</p>
 permalink: "/fr/"
 
 ---
