@@ -60,6 +60,8 @@ tiles:
     src="/uploads/pastille_internet2000.png"></a></p>
 - text: <p><a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-" title="Silex
     Labs org"><img src="/uploads/silexlabs.png"></a></p>
+- text: <p>Here is a <a href="https://opencollective.com/silex#section-contributors"
+    title="Open Source Collective">list of individuals supporting Silex</a> on opencollective</p>
 tile-list-title: "<h2>Proudly sponsored by</h2>"
 
 ---
