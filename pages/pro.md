@@ -88,7 +88,9 @@ items:
     agencies directory</a></p>
   cta-color: "#333333"
 permalink: "/pro/"
-contact-form-text: "<h2>Contact us, let's collaborate !</h2><h3>Ask for a quote, partnership
-  or specific development</h3>"
+contact-form-text: <h2>Contact us, let's collaborate !</h2><h3>Ask for a quote, partnership
+  or specific development</h3><p>For support questions or anything which can benefit
+  the community, please <a href="https://github.com/silexlabs/Silex/issues/new" title="Silex
+  forum, new issue">open an issue in the forums instead</a> - github account required.</p>
 
 ---
