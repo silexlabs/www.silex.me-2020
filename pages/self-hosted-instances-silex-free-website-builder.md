@@ -45,9 +45,9 @@ items:
     Silex instance is hosted by <a href="https://internet2000.net/" title="Internet
     2000 web agency">Internet 2000 web agency</a> and open to anyone for free.</p>
   cta-link: <p><a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
-    title=""><strong>Download (for Mac, linux, Win)</strong></a></p>
-  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer"><strong>Use
-    it for free</strong></a></p>
+    title="">Download (for Mac, linux, Win)</a></p>
+  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer">Use
+    it for free</a></p>
   color: "#333333"
   cta-color: "#333333"
 - image: "/uploads/ico-search.png"
@@ -58,9 +58,9 @@ items:
     or provide hosting for users websites, customize the look or the feel ;)</p><p>Make
     it public, for free or for a fee, and let us advertise it here.</p>"
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
-    title="How to Host An Instance of Silex"><strong>Documentation</strong></a></p>
+    title="How to Host An Instance of Silex">Documentation</a></p>
   cta-primary: <p><a href="/pro/#contact" title="Advertize your instance of Silex
-    here"><strong>Submit your own</strong></a></p>
+    here">Submit your own</a></p>
   cta-color: "#333333"
 permalink: "/instances/"
 
