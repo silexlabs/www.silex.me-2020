@@ -13,8 +13,8 @@ header: "<h1>Silex website builder<br>public self hosted instances.</h1><h2>Free
 hero-cta: <p><a href="/instances/#list" title="Silex self hosted community instances">Community
   instances</a></p>
 text: <h3>Anyone can host an instance of Silex</h3><p>Give back to the community or
-  create a service built on top of Silex.</p><p>Here are the instances we know about.
-  Feel free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p><p><a
+  create a service built on top of Silex. Here are the instances we know about. Feel
+  free to <a href="/contact/#form" title="">contact us and submit your own</a>.</p><p><a
   href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
   title="How to Host An Instance of Silex">Here is how to self host Silex</a> and
   how to use Silex <a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
