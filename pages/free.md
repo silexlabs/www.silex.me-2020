@@ -9,11 +9,22 @@ image: "/uploads/ico-header-community.svg"
 header: "<h2><strong>Free and open source software</strong></h2><h3>Silex is free
   because free minds need to have free tools</h3>"
 hero-cta: <p><a href="/#list" title="See how to get started with Silex">GET STARTED!</a></p>
-text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/silexlabs#what-is-silex-labs-"
-  title="About Silex Labs">a non profit</a> can make it free like this, without hidden
-  costs or licensing hassle.</p><p>You are welcome to contribute and to offer services
-  to the community.</p>
+text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/" title="About
+  Silex Labs">a non profit</a> can make it free like this, without hidden costs or
+  licensing hassle.</p><p>You are welcome to contribute and to offer services to the
+  community.</p>
 items:
+- image: ''
+  bg-color: "#FFFFFF"
+  color: "#333333"
+  cta-color: "#333333"
+  text: <h2>Behind the scene</h2><p>Most of Silex source code is written and maintained
+    by <a href="https://lexoyo.me/" title="Alex Hoyau, lead dev, CTO, javascript">Alex
+    Hoyau</a>. Visit <a href="https://internet2000.net/" title="Internet 2000 SOLUTIONS
+    DIGITALES RESPONSABLES ET PERFORMANTES">his small web agency</a> and <a href="https://www.linkedin.com/in/webappdev/"
+    title="Alex Hoyau on linkedin">give him kudos on linkedin</a>.</p>
+  cta-link: "<p></p>"
+  cta-primary: "<p></p>"
 - image: ''
   bg-color: "#FFFFFF"
   color: "#333333"
