@@ -156,4 +156,14 @@ jQuery(document).ready(function($){
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
+
+    // optimization of the fixed elements
+    if(silex.scale === 1) {
+        $('.fixed').removeClass('fixed').css({
+            'position': 'fixed'
+            , 'zIndex': 999
+            , 'transform': ''
+        })
+    }
+
 });
