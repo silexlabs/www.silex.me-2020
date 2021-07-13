@@ -36,4 +36,5 @@ fields:
   config:
     required: true
 pages:
+- pages/404.md
 - pages/pro-thx.md
