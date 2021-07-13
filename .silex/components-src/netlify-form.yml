@@ -26,6 +26,9 @@ props:
   type: string
   default: contact
   description: The name of Netlify form
+- name: recaptcha
+  type: boolean
+  default: true
 - name: sendTo
   displayName: 'Thank you path'
   expandable: true

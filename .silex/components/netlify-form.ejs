@@ -1,4 +1,12 @@
-<form id="id_<%= uid %>" data-netlify="true" name="<%= formName %>" action="<%= sendTo %>" method="POST" <% if(onsubmit) { %>onsubmit="return onsubmit_<%= uid %>(event);"<% } %>>
+<form
+  id="id_<%= uid %>"
+  data-netlify="true"
+  name="<%= formName %>"
+  action="<%= sendTo %>"
+  method="POST"
+  <% if(recaptcha) { %>data-netlify-recaptcha="true" <% } %>
+  <% if(onsubmit) { %>onsubmit="return onsubmit_<%= uid %>(event);"<% } %>
+  >
   <% if(field1) { %>
   <div>
     <% if(label1) { %><label for="field1"><%= label1 %></label><% } %>
@@ -17,5 +25,10 @@
     <textarea required id="field3" name="field3" placeholder="<%= placeholder3 %>"></textarea>
   </div>
   <% } %>
+
+  <% if(recaptcha) { %>
+		<div data-netlify-recaptcha="true"></div>
+	<% } %>
+
   <input type="submit" value="<%= submitButtonLabel %>">
 </form>
