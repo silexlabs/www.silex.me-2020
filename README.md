@@ -1,4 +1,4 @@
-[This repository](https://github.com/lexoyo/11ty-boilerplate) is a template you can use to create a site with [11ty](https://11ty.dev) and [Silex website builder](https://www.silex.me)
+[This repository](https://github.com/lexoyo/11ty-boilerplate) is a template you can use to create a site with [11ty](https://11ty.dev) and [Silex website builder](https://www.silex.me) with the Stastic instance provided by [Internet 2000 agency](https://internet2000.net) (more [info about this fork of Silex here](http://localhost:8080/instances/#list))
 
 It conains an action to deploy on github pages automatically
 
