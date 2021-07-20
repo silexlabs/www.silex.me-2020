@@ -25,12 +25,11 @@ items:
   bg-color: "#FFFFFF"
   color: "#333333"
   text: <h3>Official Silex instance by <a href="https://www.silexlabs.org/" title="Silex
-    Labs non profit org">@silexlabs</a></h3><p>This is the 1st and official instance
-    of Silex, hosted since 2009 by Silex Labs organization.</p>
-  cta-link: <p><a href="https://editor.silex.me/" title="Silex website builder">Use
-    it for free</a></p>
-  cta-primary: <p><a href="https://opencollective.com/silex" title="Donate for Silex
-    free instance">Make a donation</a></p>
+    Labs non profit org">@silexlabs</a></h3><p>This is the official instance of Silex,
+    hosted since 2009 by Silex Labs organization. Forever free to use.</p>
+  cta-link: <p><a href="https://opencollective.com/silex" title="Help fund Silex">Make
+    a donation</a></p>
+  cta-primary: <p><a href="/#list" title="Build your free website">Start now</a></p>
   cta-color: "#333333"
 - image: "/uploads/stastic-logo-square-10x-1.png"
   bg-color: "#FFFFFF"

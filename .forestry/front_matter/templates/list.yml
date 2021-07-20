@@ -121,3 +121,5 @@ fields:
   default: list
   config:
     required: true
+pages:
+- pages/instances.md
