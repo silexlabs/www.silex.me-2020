@@ -47,7 +47,7 @@ items:
     designer source code">Source code</a></p>
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer">Online
     version</a> / <a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
-    title="Download Stastic free template editor">Download (for Mac, linux, Win)</a></p>
+    title="Download Stastic free template editor">Desktop version</a></p>
   color: "#333333"
   cta-color: "#333333"
 - image: "/uploads/ico-search.png"
