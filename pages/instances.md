@@ -44,7 +44,7 @@ items:
     Silex instance is hosted by <a href="https://internet2000.net/" title="Internet
     2000 web agency">Internet 2000 web agency</a> and open to anyone for free.</p>
   cta-link: <p><a href="https://github.com/lexoyo/stastic-designer/" title="Stastic
-    designer sources">Source code</a></p>
+    designer source code">Source code</a></p>
   cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer">Online
     version</a> / <a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
     title="Download Stastic free template editor">Download (for Mac, linux, Win)</a></p>
