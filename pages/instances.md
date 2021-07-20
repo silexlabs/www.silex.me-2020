@@ -45,8 +45,9 @@ items:
     2000 web agency">Internet 2000 web agency</a> and open to anyone for free.</p>
   cta-link: <p><a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
     title="">Download (for Mac, linux, Win)</a></p>
-  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer">Use
-    it for free</a></p>
+  cta-primary: <p><a href="https://design.stastic.net/" title="Stastic designer">Online
+    version</a> / <a href="https://github.com/lexoyo/stastic-designer/releases/latest/"
+    title="Download Stastic free template editor">Download (for Mac, linux, Win)</a></p>
   color: "#333333"
   cta-color: "#333333"
 - image: "/uploads/ico-search.png"
