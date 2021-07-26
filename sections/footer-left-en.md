@@ -10,7 +10,7 @@ PRODUCTS
 
 [HTML, CSS and JS inside Silex](https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript "Silex and javascript")
 
-[Paid services](/pro/ "Silex founder Alex Hoyau")
+[Paid services](/pro/ "Silex professionals offer paid service for the open source project")
 
 [Downloads](https://github.com/silexlabs/silex-desktop/releases "Download Silex Desktop")
 
