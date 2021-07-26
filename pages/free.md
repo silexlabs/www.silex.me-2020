@@ -11,8 +11,8 @@ header: "<h2><strong>Free and open source software</strong></h2><h3>Silex is fre
 hero-cta: <p><a href="/#list" title="See how to get started with Silex">GET STARTED!</a></p>
 text: <h2>FREE, FREE HOW ?</h2><p>Only <a href="https://www.silexlabs.org/" title="About
   Silex Labs">a non profit</a> can make it free like this, without hidden costs or
-  licensing hassle.</p><p>You are welcome to contribute and to offer services to the
-  community.</p>
+  licensing hassle.</p><p>We really appreciate having you involved! We depend on your
+  help to continue to improve the open source website builder.</p>
 items:
 - image: ''
   bg-color: "#FFFFFF"
