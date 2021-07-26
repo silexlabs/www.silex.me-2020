@@ -123,4 +123,5 @@ fields:
     required: true
 pages:
 - pages/instances.md
+- pages/makers.md
 - pages/pro.md

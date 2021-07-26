@@ -9,7 +9,7 @@ image: "/uploads/ico-makers-dev.svg"
 header: "<h1><strong>Take full control<br>over your web presence</strong></h1><h2>DIY
   style!</h2>"
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
-text: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing Website</h2><h3>Step
+text: "<h2>From a very Fast Landing Page<br>to an Efficient  Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 items:
 - image: "/uploads/ico-step-02.png"
