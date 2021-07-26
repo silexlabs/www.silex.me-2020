@@ -40,7 +40,8 @@ items:
     licensed: <a href="https://en.wikipedia.org/wiki/Mozilla_Public_License" title="About
     the MPL license">MPL</a> and GPL.</p>'
   cta-link: "<p></p>"
-  cta-primary: "<p></p>"
+  cta-primary: <p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
+    title="Silex website builder for developers">Developer guide</a></p>
   cta-color: "#333333"
 - image: ''
   bg-color: "#FFFFFF"
