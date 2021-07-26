@@ -10,7 +10,7 @@ SILEX TEAM
 
 [Contribute](/community/ "Contribute to Silex")
 
-[Newsletter](https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&id=2e1b03a5f0 "Mailing list")
+[Newsletter](http://eepurl.com/IuNSD "Mailing list")
 
 [Partners](/community/#tiles "Silex partners")
 
