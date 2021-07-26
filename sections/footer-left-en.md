@@ -12,7 +12,7 @@ PRODUCTS
 
 [Paid services](/pro/ "Silex professionals offer paid service for the open source project")
 
-[Downloads](https://github.com/silexlabs/silex-desktop/releases "Download Silex Desktop")
+[Downloads](https://github.com/silexlabs/silex-desktop/releases/latest/ "Download Silex Desktop")
 
 [Developers](https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide "Silex for developers")
 
