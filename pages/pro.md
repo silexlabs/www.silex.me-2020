@@ -3,7 +3,7 @@ cta-primary: <p><a href="/pro/#contact" title="Contact for professionals">Contac
   Silex Founder</a></p>
 cta-link: "<p></p>"
 lang: en
-layout: contact
+layout: list
 title: Freelancers, Web Agencies, Hosting Companies | Silex Website Builder
 description: Fully customizable website creation tool, with a vision and a great business
   model.
@@ -12,7 +12,8 @@ header: "<h1><strong>Silex for professionals</strong></h1><h2>No-code tool for c
   and freelancers who want to own <em>their</em> website builder</h2>"
 hero-cta: ''
 text: "<h2>Freelancers, agencies, hosting companies,</h2><h3>Silex is the best at
-  being <em>customised</em> and <em>integrated</em> to your infrastructure</h3>"
+  being <em>customised</em> and <em>integrated</em> to your infrastructure </h3><h4>You
+  are welcome to contribute and to offer services to the community.</h4>"
 items:
 - image: "/uploads/ico-pro-sustainability.png"
   bg-color: "#FCFCFC"
