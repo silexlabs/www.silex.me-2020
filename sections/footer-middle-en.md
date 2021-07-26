@@ -8,7 +8,7 @@ SILEX TEAM
 
 [Donate](https://opencollective.com/silex "Silex donation page")
 
-[Contribute](https://github.com/silexlabs/Silex/wiki/Contribute "Contribute to Silex")
+[Contribute](/community/ "Contribute to Silex")
 
 [Newsletter](https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&id=2e1b03a5f0 "Mailing list")
 
