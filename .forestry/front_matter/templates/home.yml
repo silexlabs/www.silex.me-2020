@@ -133,3 +133,5 @@ fields:
   default: home
   config:
     required: true
+pages:
+- pages/home.md
