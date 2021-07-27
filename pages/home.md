@@ -31,7 +31,7 @@ header-slideshow:
     are absolutely positioned to make it feel natural.<br>Use the mobile editor to
     design the mobile version too.</p>
 permalink: "/"
-text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
+text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you’re a designer</a> making websites for customers,<br>you
   will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2><strong>Your
