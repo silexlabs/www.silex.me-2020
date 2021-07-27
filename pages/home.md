@@ -34,8 +34,8 @@ permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you are a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2><strong>Your
-  Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
+  will love Silex.</h3><p><br></p><p><strong>✦</strong></p><p><br></p><h2>Hackable,
+  forever free. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
   color: "#ffffff"
