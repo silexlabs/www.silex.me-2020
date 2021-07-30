@@ -29,12 +29,12 @@ items:
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#333333"
-  text: <p>Here is a link to a website I did with Silex:</p><p>Silex Labs non profit
-    organization website is powered by Silex (the Stastic fork, listed in <a href="https://silex.me/instances/#list">Silex
+  text: <h3>Non profit organization website</h3><p>Silex Labs non profit organization
+    website is powered by Silex (the Stastic fork, listed in <a href="https://silex.me/instances/#list">Silex
     community instances</a> , Jekyll, forestry.io, github pages</p><p>The design was
     initially made by <a href="https://github.com/Stuff31">Léo Francia</a> (<a href="https://github.com/Stuff31">@Stuff31</a>)</p><p>The
     website content includes hundreds of blog posts since 2009 which were imported
-    from WordPress</p><p>You can get </p>
+    from WordPress</p>
   cta-link: <p><a href="https://github.com/silexlabs/silexlabs.org">Website source
     files</a></p>
   cta-primary: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit,
