@@ -22,7 +22,8 @@ hero-cta: <p><a href="https://github.com/silexlabs/Silex/issues/new?title=My%20S
 permalink: "/showcase/"
 cta-primary: <p><a href="/#list" title="Create a website with Silex"><strong>CREATE
   YOUR OWN</strong></a></p>
-cta-link: "<p></p>"
+cta-link: <p><a href="https://github.com/silexlabs/Silex/issues/new?title=My%20Silex%20website&amp;body=Here%20is%20a%20link%20to%20a%20website%20I%20did%20with%20Silex:&amp;labels=showcase">Add
+  your website to the list</a></p>
 text: "<h3>Here is a small selection of recent websites powered by Silex</h3>"
 items:
 - image: "/uploads/silexlabs-screenshot.png"
