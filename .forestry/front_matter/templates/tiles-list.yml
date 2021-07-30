@@ -91,3 +91,5 @@ fields:
   default: tiles-list
   config:
     required: true
+pages:
+- pages/features.md

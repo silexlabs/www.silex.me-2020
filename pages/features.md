@@ -4,7 +4,7 @@ cta-primary: <p><a href="/#list" title="Get started with Silex website builder">
 cta-link: "<p></p>"
 lang: en
 layout: tiles-list
-title: Powerful Features For Your Website | Silex Website Builder
+title: Powerful Features | Drag and Drop Website Builder
 description: List of features of Silex open source website builder. Forever free,
   backed by a friendly community.
 image: "/uploads/ico-header-features.svg"
@@ -57,5 +57,6 @@ tiles:
     and see exactly what Silex does. There is no installation, just launch the app
     on your computer.</p>"
 permalink: "/features/"
+tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
 
 ---
