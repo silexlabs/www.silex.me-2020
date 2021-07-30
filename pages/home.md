@@ -4,7 +4,7 @@ cta-primary: <p><a href="/#list" title="Get started with Silex website builder">
 cta-link: <p><a href="/showcase" title="See examples of Silex websites">Showcase</a></p>
 lang: en
 layout: home
-title: Silex Website Builder | Free Open Source HTML Editor
+title: Silex Website Builder | HTML Editor Free & Open Source
 description: Create fast **and** beautiful websites with Silex, free open source web
   design tool for makers.
 hero-slider:
