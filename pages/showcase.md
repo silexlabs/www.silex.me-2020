@@ -55,16 +55,16 @@ items:
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#333333"
-  text: '<p>The belgian company <a href="https://belighted.com/" title="Belighted">Belighted</a>
-    has released their new marketing website, it looks like this:</p><p>It has been
-    created together with <a href="https://internet2000.net/" title="INTERNET 2000
-    web agency">INTERNET 2000 web agency</a>, as a clone of a website they made in
-    Hubspot CMS. It was slow and very expensive to host. Today it runs with JAMstack
-    tools: Silex to edit the design, Forestry for marketers to edit the content and
-    structure, <a href="https://11ty.dev" title="Eleventy SSG">Eleventy</a> (11ty)
-    and github to glue everything together and Netlify for the hosting and forms A
-    pixel perfect clone from the design to the features has been made possible thanks
-    to Silex</p>'
+  text: '<h3>300 pages multilingual website for inbound marketing</h3><p>The belgian
+    company <a href="https://belighted.com/" title="Belighted">Belighted</a> has released
+    their new marketing website, it looks like this:</p><p>It has been created together
+    with <a href="https://internet2000.net/" title="INTERNET 2000 web agency">INTERNET
+    2000 web agency</a>, as a clone of a website they made in Hubspot CMS. It was
+    slow and very expensive to host. Today it runs with JAMstack tools: Silex to edit
+    the design, Forestry for marketers to edit the content and structure, <a href="https://11ty.dev"
+    title="Eleventy SSG">Eleventy</a> (11ty) and github to glue everything together
+    and Netlify for the hosting and forms A pixel perfect clone from the design to
+    the features has been made possible thanks to Silex</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://belighted.com/" title="Belighted website">belighted.com</a></p>
 - image: "/uploads/quorb-net.png"
