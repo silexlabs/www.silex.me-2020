@@ -1,7 +1,8 @@
 /////////////////////////////////////
 /////////////////////////////////////
-// FILE NOT USED
-// NOW USE FORESTRY FOR SHOWCASE
+// FILE USED ONLY FOR WIDGETS
+// WE USE FORESTRY FOR SHOWCASE
+// also it is bugguy, see FIXME bellow
 /////////////////////////////////////
 /////////////////////////////////////
 const axios = require('axios')
@@ -49,7 +50,8 @@ function cleanup(listResults) {
       title,
       user,
       created_at,
-      body: body.replace(/<img[^>]*>/g,""), // remove images
+      // body: body.replace(/<img[^>]*>/g,""), // remove images
+      body: body.replace(/(<([^>]+)>)/gi, ''), // remove all html tags
       url: linkUrlArray ? linkUrlArray[0].replace('href="', '') : null,
       image: imageUrlArray ? imageUrlArray[0] : null,
     }
