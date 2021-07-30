@@ -3,11 +3,11 @@ cta-primary: "<p></p>"
 cta-link: "<p></p>"
 lang: en
 layout: list
-title: DIY for makers | Silex website builder
+title: DIY No Code tool for makers | Silex website builder
 description: Produce a website for free with this Low-code / no-code tool for Makers
 image: "/uploads/ico-makers-dev.svg"
 header: "<h1><strong>Take full control<br>over your web presence</strong></h1><h2>DIY
-  style!</h2>"
+  &amp; No Code style!</h2>"
 hero-cta: <p><a href="/#list" title="Create website in Silex">GET STARTED!</a></p>
 text: "<h2>From a very Fast Landing Page<br>to an Efficient  Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
