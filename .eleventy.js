@@ -3,7 +3,7 @@ const md = new MarkdownIt()
 
 module.exports = function(eleventyConfig) {
 
-  // plugins
+  // sitemap
   const sitemap = require("@quasibit/eleventy-plugin-sitemap")
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {

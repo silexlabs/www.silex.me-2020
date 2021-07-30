@@ -1,5 +1,6 @@
 ---
 lang: en
+eleventyExcludeFromCollections: true
 layout: default
 title: Thank you for contacting Silex team
 description: Thank you for reaching out!
