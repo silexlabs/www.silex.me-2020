@@ -43,10 +43,12 @@ items:
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#333333"
-  text: <p>Blog de l'entreprise <a href="https://refty.co/" title="">Refty</a>. Powered
-    by Silex, with the <a href="/instances/#list" title="">"Stastic" instance</a>,
-    using <a href="http://11ty.dev/" title="">11ty static site generator</a>, netlify
-    hosting &amp; forms, github, hubspot integration.</p>
+  text: '<h3>Startup website for growth hacking</h3><p>Blog de l''entreprise <a href="https://refty.co/"
+    title="">Refty</a>. Powered by Silex, with the <a href="/instances/#list" title="">"Stastic"
+    instance</a>, using <a href="http://11ty.dev/" title="">11ty static site generator</a>,
+    netlify hosting &amp; forms, github, hubspot integration.</p><p><a href="https://developers.google.com/speed/pagespeed/insights/?url=https://blog.refty.co/"
+    title="Very fast website">Google page insights score</a>: 82% on mobile, 99% on
+    desktop.</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://blog.refty.co/" title="https://blog.refty.co/">blog.refty.co</a></p>
 - image: "/uploads/belighted.png"
