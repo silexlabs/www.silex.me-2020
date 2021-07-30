@@ -14,7 +14,7 @@ hero-slider:
 - An Adobe muse successor
 hero-cta: <p><a href="#tiles" title="Silex Widgets"><strong>Get started!</strong></a></p>
 permalink: "/widgets/"
-image: ''
+image: "/uploads/ico-step-02.png"
 above_widget_list:
   show_widget: true
   cta-link: <p><a href="https://github.com/silexlabs/Silex/labels/widget" title="Silex
