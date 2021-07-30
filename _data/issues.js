@@ -1,3 +1,9 @@
+/////////////////////////////////////
+/////////////////////////////////////
+// FILE NOT USED
+// NOW USE FORESTRY FOR SHOWCASE
+/////////////////////////////////////
+/////////////////////////////////////
 const axios = require('axios')
 const MarkdownIt = require("markdown-it")
 const md = new MarkdownIt()
@@ -35,6 +41,7 @@ function cleanup(listResults) {
     body,
   }) => {
     body = md.render(body)
+    // FIXME: body is in markdown => should get and remove images and links from markdown
     const imageUrlArray = body.match(/(https?:\/\/\S+\.(?:jpg|png|gif|jpg<.|png<.|gif<.))/i)
     const linkUrlArray = body.match(/href="([^\'\"]+)/gi)
     return {
@@ -42,7 +49,7 @@ function cleanup(listResults) {
       title,
       user,
       created_at,
-      body: body.replace(/(<([^>]+)>)/gi, ''),
+      body: body.replace(/<img[^>]*>/g,""), // remove images
       url: linkUrlArray ? linkUrlArray[0].replace('href="', '') : null,
       image: imageUrlArray ? imageUrlArray[0] : null,
     }
