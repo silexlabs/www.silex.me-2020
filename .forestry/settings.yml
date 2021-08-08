@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- type: document
-  path: _data/settings.json
-  label: Settings
 - type: directory
   path: pages
   label: Pages
@@ -32,7 +29,11 @@ sections:
   label: Nav
 - type: document
   path: _data/langs.json
-  label: Defaults
+  label: Lang
+- type: document
+  path: _data/settings.json
+  label: Settings
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
