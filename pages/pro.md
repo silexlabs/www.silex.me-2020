@@ -90,8 +90,11 @@ items:
   cta-color: "#333333"
 permalink: "/pro/"
 contact-form-text: <h2>Contact us, let's collaborate !</h2><h3>Ask for a quote, partnership
-  or specific development</h3><p>For support questions or anything which can benefit
-  the community, please <a href="https://github.com/silexlabs/Silex/issues/new" title="Silex
-  forum, new issue">open an issue in the forums instead</a> - github account required.</p>
+  or specific development</h3><p>For <strong>support&nbsp;or questions</strong> which
+  can benefit the community, please <a href="https://github.com/silexlabs/Silex/issues/new"
+  title="Silex forum, new issue">open an issue in the forums instead</a> - github
+  account required.</p><p>We are structuring our community of <strong>professionals
+  selling Silex websites</strong>. Please <a href="http://eepurl.com/gjYnib" title="Silex
+  PRO newsletter">subscribe here if you are interested</a>.</p>
 
 ---
