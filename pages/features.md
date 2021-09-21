@@ -57,6 +57,7 @@ tiles:
     and see exactly what Silex does. There is no installation, just launch the app
     on your computer.</p>"
 permalink: "/features/"
-tile-list-title: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
+tile-list-title: "<h2>Silex has all the features expected from a modern website builder,
+  a no-code platform and an open source project</h2>"
 
 ---
