@@ -21,57 +21,57 @@
   },
   "/create": {
     "en": {
-      "path": "/create",
+      "path": "/create/",
       "name": "Designers"
     },
     "fr": {
-      "path": "/fr/creer",
+      "path": "/fr/creer/",
       "name": "Designers"
     }
   },
   "/features": {
     "en": {
-      "path": "/features",
+      "path": "/features/",
       "name": "Features"
     },
     "fr": {
-      "path": "/fr/fonctionnalites",
+      "path": "/fr/fonctionnalites/",
       "name": "Fonctionnalités"
     }
   },
   "/makers": {
     "en": {
-      "path": "/makers",
+      "path": "/makers/",
       "name": "Makers"
     },
     "fr": {
-      "path": "/fr/makers",
+      "path": "/fr/makers/",
       "name": "No-code"
     }
   },
   "/pro": {
     "en": {
-      "path": "/pro",
+      "path": "/pro/",
       "name": "Professionals"
     },
     "fr": {
-      "path": "/fr/pro",
+      "path": "/fr/pro/",
       "name": "Professionnels"
     }
   },
   "/community": {
     "en": {
-      "path": "/community",
+      "path": "/community/",
       "name": "Community"
     },
     "fr": {
-      "path": "/fr/communauté",
+      "path": "/fr/communauté/",
       "name": "Communauté"
     }
   },
   "lang-switch": {
     "en": {
-      "path": "/fr",
+      "path": "/fr/",
       "name": "Français",
       "short": "FR"
     },
