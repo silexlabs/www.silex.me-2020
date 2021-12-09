@@ -33,10 +33,7 @@ permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you are a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br></p><p><a href="https://www.producthunt.com/posts/silex?utm_source=badge-review&utm_medium=badge&utm_souce=badge-silex#discussion-body"
-  target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=306235&theme=dark"
-  alt="Silex - Open source Website Builder | Product Hunt" style="width: 250px; height:
-  54px;" width="250" height="54" /></a></p><p><br></p><h2>Hackable, forever free.
+  will love Silex.</h3><p><br></p><p><div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="611d3bddcb597a001d43f4d9" data-style-height="52px" data-style-width="100%" data-theme="light" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true" data-allow-robots="true"><a href="https://www.trustpilot.com/review/silex.me" target="_blank" rel="noopener">Trustpilot</a></div></p><p><br></p><h2>Hackable, forever free.
   Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
