@@ -33,8 +33,13 @@ permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you are a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br></p><p><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script><div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="611d3bddcb597a001d43f4d9" data-style-height="52px" data-style-width="100%" data-theme="light" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true" data-allow-robots="true"><a href="https://www.trustpilot.com/review/silex.me" target="_blank" rel="noopener">Trustpilot</a></div></p><p><br></p><h2>Hackable, forever free.
-  Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
+  will love Silex.</h3><p><br></p><p><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
+  async></script><div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc"
+  data-businessunit-id="611d3bddcb597a001d43f4d9" data-style-height="52px" data-style-width="100%"
+  data-theme="light" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true"
+  data-allow-robots="true"><a href="https://www.trustpilot.com/review/silex.me" target="_blank"
+  rel="noopener">Trustpilot</a></div></p><p><br></p><h2>Hackable, forever free. Your
+  design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
   color: "#ffffff"
@@ -52,9 +57,10 @@ items:
   color: "#ffffff"
   text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
     nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
-    on your computer, Windows, MacOS and Linux are supported.</p>"
+    on your computer, <strong>Windows</strong>, <strong>MacOS</strong> and <strong>Linux</strong>
+    are supported.</p>"
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
-    title="Download Silex desktop app">DOWNLOADS</a></p>
+    title="Download Silex desktop app">DOWNLOADS</a> (Windows, MacOs, Linux)</p>
   cta-link: "<p></p>"
   cta-color: ''
 - image: "/uploads/ico-deploy-your-server.svg"
