@@ -1,92 +1,92 @@
 ---
 label: Tiles list
+hide_body: true
 fields:
-  - type: text
-    name: title
-    label: Title
-    default: ''
-  - type: text
-    name: description
-    label: Description
-    default: ''
-  - type: file
-    name: image
-    label: Image
-    default: ''
-  - type: textarea
-    name: header
-    label: Header Text
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: file
+  name: image
+  label: Image
+  default: ''
+- type: textarea
+  name: header
+  label: Header Text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: hero-cta
+  label: Hero CTA
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: text
+  label: Header text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: Get started!
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA link
+  default: More about freedom
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group_list
+  name: tiles
+  label: Tiles list
+  fields:
   - type: textarea
     name: text
-    label: Header text
+    label: Text
     default: ''
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: textarea
-    name: cta-primary
-    label: CTA Primary
-    default: Get started!
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: textarea
-    name: cta-link
-    label: CTA link
-    default: More about freedom
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: field_group_list
-    name: tiles
-    label: Tiles list
-    fields:
-      - type: textarea
-        name: text
-        label: Text
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - type: textarea
-    name: tile-list-title
-    label: Tile list title
-    default: <h2>PROUDLY SPONSORED BY THE BEST</h2>
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: tiles-list
-    config:
-      required: true
-hide_body: true
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- type: textarea
+  name: tile-list-title
+  label: Tile list title
+  default: "<h2>PROUDLY SPONSORED BY THE BEST</h2>"
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: tiles-list
+  config:
+    required: true
