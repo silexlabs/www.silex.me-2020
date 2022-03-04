@@ -7,28 +7,33 @@ layout: home
 title: Silex Website Builder | HTML Editor Free & Open Source
 description: Create fast **and** beautiful websites with Silex, free open source web
   design tool for makers.
-hero-slider:
-- Your website builder
-- A free and open source tool
-- Learn web design
-- A friendly community
-- A better Wix for makers like you
-- An Unbounce alternative
-hero-cta: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
-header-slideshow:
-- html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
-    title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
-    title="">install the app on your computer</a>,<br>choose a free template or start
-    with a blank page</p>
-- html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
-    text, images, videos &amp; more...</p>
-- html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
-    ready, publish your website<br>Silex integrates with professional free hosting
-    providers<br>with your own domain name and without ads.</p>
-- html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
-    are absolutely positioned to make it feel natural.<br>Use the mobile editor to
-    design the mobile version too.</p>
+hero:
+  above: 'If you are looking for:'
+  bellow: You are in the right place !
+  cta: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
+    started!</strong></a></p>
+  slider:
+  - Your website builder
+  - A free and open source tool
+  - Learn web design
+  - A friendly community
+  - A better Wix for makers like you
+  - An Unbounce alternative
+header:
+  title: 'A free website in just 3 easy steps :'
+  slideshow:
+  - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
+      title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
+      title="">install the app on your computer</a>,<br>choose a free template or start
+      with a blank page</p>
+  - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
+      text, images, videos &amp; more...</p>
+  - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
+      ready, publish your website<br>Silex integrates with professional free hosting
+      providers<br>with your own domain name and without ads.</p>
+  - html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
+      are absolutely positioned to make it feel natural.<br>Use the mobile editor to
+      design the mobile version too.</p>
 permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
@@ -95,7 +100,5 @@ items:
   cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>GET
     STARTED!</strong></a></p>
   cta-color: "#4A4A4A"
-hero-above: 'If you are looking for:'
-hero-bellow: You are in the right place !
 
 ---
