@@ -11,14 +11,7 @@ hero:
 - above: 'If you are looking for:'
 - bellow: You are in the right place !
 - cta: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
-- slider:
-  - Your website builder
-  - A free and open source tool
-  - Learn web design
-  - A friendly community
-  - A better Wix for makers like you
-  - An Unbounce alternative
+    started!</strong></a></p>
 header-slideshow:
 - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
     title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
@@ -98,5 +91,6 @@ items:
   cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>GET
     STARTED!</strong></a></p>
   cta-color: "#4A4A4A"
+
 
 ---
