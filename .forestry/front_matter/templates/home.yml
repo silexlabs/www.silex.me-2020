@@ -33,18 +33,26 @@ fields:
           wysiwyg: true
           schema:
             format: html-blocks
-  - type: field_group_list
-    name: header-slideshow
-    label: Header Slideshow
+  - type: field_group
+    name: header
+    label: Header section
     fields:
-      - type: textarea
-        name: html
-        label: html
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
+      - type: field_group_list
+        name: slideshow
+        label: Slideshow
+        fields:
+          - type: textarea
+            name: html
+            label: html
+            default: ''
+            config:
+              wysiwyg: true
+              schema:
+                format: html-blocks
+      - type: text
+        name: title
+        label: Section title
+        default: 'A free website in just 3 easy steps :'
   - type: textarea
     name: text
     label: Header text
