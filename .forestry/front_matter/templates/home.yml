@@ -1,54 +1,117 @@
 ---
 label: Home
+hide_body: true
 fields:
+- type: text
+  name: title
+  label: Title
+  default: ''
+- type: text
+  name: description
+  label: Description
+  default: ''
+- type: field_group
+  name: hero
+  label: Hero section
+  fields:
   - type: text
-    name: title
-    label: Title
+    name: hero-above
+    label: Hero above
+    default: ''
+  - type: list
+    name: hero-slider
+    label: Hero Slider
     default: ''
   - type: text
-    name: description
-    label: Description
+    name: hero-bellow
+    label: Header text bellow
     default: ''
-  - type: field_group
-    name: hero
-    label: Hero section
-    fields:
-      - type: text
-        name: hero-above
-        label: Hero above
-        default: ''
-      - type: list
-        name: hero-slider
-        label: Hero Slider
-        default: ''
-      - type: text
-        name: hero-bellow
-        label: Header text bellow
-        default: ''
-      - type: textarea
-        name: hero-cta
-        label: Hero CTA
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - type: field_group_list
-    name: header-slideshow
-    label: Header Slideshow
-    fields:
-      - type: textarea
-        name: html
-        label: html
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
+  - type: textarea
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group_list
+  name: header-slideshow
+  label: Header Slideshow
+  fields:
+  - type: textarea
+    name: html
+    label: html
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: textarea
+  name: text
+  label: Header text
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-primary
+  label: CTA Primary
+  default: Get started!
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: cta-link
+  label: CTA link
+  default: More about freedom
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: lang
+  label: Lang
+  default: en
+- type: field_group_list
+  name: items
+  label: Alternate Sections
+  fields:
+  - type: file
+    name: image
+    label: Illustration
+    default: ''
+  - type: color
+    name: bg-color
+    label: Background Color
+    default: "#FFFFFF"
+    config:
+      color_format: Hex
+  - type: color
+    name: color
+    label: Text color
+    default: "#333333"
+    config:
+      color_format: Hex
+  - type: color
+    name: cta-color
+    label: CTA color
+    default: "#FFFFFF"
+    config:
+      color_format: Hex
   - type: textarea
     name: text
-    label: Header text
-    default: ''
+    label: Text
+    default: "<h2>Use Silex in your project</h2>"
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: cta-link
+    label: CTA Link
+    default: "<b>Documentation</b>"
     config:
       wysiwyg: true
       schema:
@@ -56,83 +119,22 @@ fields:
   - type: textarea
     name: cta-primary
     label: CTA Primary
-    default: Get started!
+    default: "<b>Download</b>"
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: textarea
-    name: cta-link
-    label: CTA link
-    default: More about freedom
-    config:
-      wysiwyg: true
-      schema:
-        format: html-blocks
-  - type: text
-    name: lang
-    label: Lang
-    default: en
-  - type: field_group_list
-    name: items
-    label: Alternate Sections
-    fields:
-      - type: file
-        name: image
-        label: Illustration
-        default: ''
-      - type: color
-        name: bg-color
-        label: Background Color
-        default: '#FFFFFF'
-        config:
-          color_format: Hex
-      - type: color
-        name: color
-        label: Text color
-        default: '#333333'
-        config:
-          color_format: Hex
-      - type: color
-        name: cta-color
-        label: CTA color
-        default: '#FFFFFF'
-        config:
-          color_format: Hex
-      - type: textarea
-        name: text
-        label: Text
-        default: <h2>Use Silex in your project</h2>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-link
-        label: CTA Link
-        default: <b>Documentation</b>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta-primary
-        label: CTA Primary
-        default: <b>Download</b>
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: home
-    config:
-      required: true
-hide_body: true
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: home
+  config:
+    required: true
+pages:
+- pages/home.md
