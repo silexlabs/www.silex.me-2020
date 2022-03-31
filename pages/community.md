@@ -89,6 +89,7 @@ tiles:
     src="/uploads/logo-browserstack.jpg"></a></p>
 - text: <p><a href="https://www.gandi.net/en/gandi-supports#silex" title="Gandi projets
     soutenus"><img src="/uploads/gandi.png"></a></p>
+- text: <p><a href="https://www.netlify.com/" title="Netlify hosting"><img src="/uploads/netlify_logo.svg"></a></p>
 - text: <p>Your company here, <a href="/pro/#contact" title="">get in touch</a></p>
 
 ---
