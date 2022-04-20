@@ -24,16 +24,16 @@ header:
   slideshow:
   - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
       title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
-      title="">install the app on your computer</a>,<br>choose a free template or start
-      with a blank page</p>
-  - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
-      text, images, videos &amp; more...</p>
-  - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
-      ready, publish your website<br>Silex integrates with professional free hosting
+      title="">install the app on your computer</a>,<br>choose a free template or
+      start with a blank page</p>
+  - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can
+      add text, images, videos &amp; more...</p>
+  - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you
+      are ready, publish your website<br>Silex integrates with professional free hosting
       providers<br>with your own domain name and without ads.</p>
   - html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
-      are absolutely positioned to make it feel natural.<br>Use the mobile editor to
-      design the mobile version too.</p>
+      are absolutely positioned to make it feel natural.<br>Use the mobile editor
+      to design the mobile version too.</p>
 permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
@@ -64,8 +64,8 @@ items:
     nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
     on your computer, <strong>Windows</strong>, <strong>MacOS</strong> and <strong>Linux</strong>
     are supported.</p>"
-  cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
-    title="Download Silex desktop app">DOWNLOADS</a> (Windows, MacOS, Linux)</p>
+  cta-primary: <p><a href="https://www.electronjs.org/apps/silex" title="Download
+    Silex desktop app">DOWNLOADS</a> (Windows, MacOS, Linux)</p>
   cta-link: "<p></p>"
   cta-color: ''
 - image: "/uploads/ico-deploy-your-server.svg"
