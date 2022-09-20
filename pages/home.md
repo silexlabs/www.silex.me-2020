@@ -57,12 +57,12 @@ items:
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
-  text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
-    nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
-    on your computer, <strong>Windows</strong>, <strong>MacOS</strong> and <strong>Linux</strong>
+  text: "<h2>BETA<strong> Download Silex Desktop App</strong></h2><h3>Local is faster
+    and nicer !</h3><p>Use the desktop version of Silex to work offline, store your
+    data on your computer, <strong>Windows</strong>, <strong>MacOS</strong> and <strong>Linux</strong>
     are supported.</p>"
-  cta-primary: <p><a href="https://www.electronjs.org/apps/silex" title="Download
-    Silex desktop app">DOWNLOADS</a> (Windows, MacOS, Linux)</p>
+  cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
   cta-color: ''
 - image: "/uploads/ico-deploy-your-server.svg"
