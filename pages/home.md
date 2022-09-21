@@ -57,8 +57,12 @@ items:
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
-  text: <h2><strong>Download Silex Desktop App</strong></h2><p><strong><img src="/uploads/beta.svg">  <img
-    src="/uploads/beta-apple.svg"> <img src="/uploads/beta-linux.svg"></strong></p><h3>Local
+  text: <h2><strong>Download Silex Desktop App</strong></h2><p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for Windows"><strong><img src="/uploads/beta.svg" title="Silex
+    for windows" alt="Silex for indows"></strong></a><strong>  </strong><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for macos"><strong><img src="/uploads/beta-apple.svg" title="Silex
+    for macos" alt="Silex for macos"></strong></a><strong> </strong><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for linux"><strong><img src="/uploads/beta-linux.svg"></strong></a></p><h3>Local
     is faster and nicer ! App in beta, help needed</h3><p>Use the desktop version
     of Silex to work offline, store your data on your computer, <strong>Windows</strong>,
     <strong>MacOS</strong> and <strong>Linux</strong> are supported.</p>
