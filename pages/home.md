@@ -59,9 +59,9 @@ items:
   color: "#ffffff"
   text: <h2><strong>Download Silex Desktop App</strong></h2><p><strong><img src="/uploads/beta.svg">  <img
     src="/uploads/beta-apple.svg"> <img src="/uploads/beta-linux.svg"></strong></p><h3>Local
-    is faster and nicer !</h3><p>Use the desktop version of Silex to work offline,
-    store your data on your computer, <strong>Windows</strong>, <strong>MacOS</strong>
-    and <strong>Linux</strong> are supported.</p>
+    is faster and nicer ! App in beta, help needed</h3><p>Use the desktop version
+    of Silex to work offline, store your data on your computer, <strong>Windows</strong>,
+    <strong>MacOS</strong> and <strong>Linux</strong> are supported.</p>
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
     title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
