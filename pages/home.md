@@ -63,9 +63,10 @@ items:
     title="Download Silex for macos"><strong><img src="/uploads/beta-apple.svg" title="Silex
     for macos" alt="Silex for macos"></strong></a><strong> </strong><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
     title="Download Silex for linux"><strong><img src="/uploads/beta-linux.svg"></strong></a></p><h3>Local
-    is faster and nicer ! App in beta, help needed</h3><p>Use the desktop version
-    of Silex to work offline, store your data on your computer, <strong>Windows</strong>,
-    <strong>MacOS</strong> and <strong>Linux</strong> are supported.</p>
+    is faster and nicer !</h3><p>Use the desktop version of Silex to work offline,
+    store your data on your computer, <strong>Windows</strong>, <strong>MacOS</strong>
+    and <strong>Linux</strong> are supported.</p><p>The desktop app is <strong>in
+    beta</strong>, help needed</p>
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
     title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
