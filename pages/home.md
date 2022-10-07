@@ -18,33 +18,30 @@ hero:
   - Learn web design
   - A friendly community
   - A better Wix for makers like you
-  - An Unbounce alternative
 header:
   title: 'A free website in just 3 easy steps :'
   slideshow:
   - html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
       title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
-      title="">install the app on your computer</a>,<br>choose a free template or start
-      with a blank page</p>
-  - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
-      text, images, videos &amp; more...</p>
-  - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
-      ready, publish your website<br>Silex integrates with professional free hosting
+      title="">install the app on your computer</a>,<br>choose a free template or
+      start with a blank page</p>
+  - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can
+      add text, images, videos &amp; more...</p>
+  - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you
+      are ready, publish your website<br>Silex integrates with professional free hosting
       providers<br>with your own domain name and without ads.</p>
   - html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
-      are absolutely positioned to make it feel natural.<br>Use the mobile editor to
-      design the mobile version too.</p>
+      are absolutely positioned to make it feel natural.<br>Use the mobile editor
+      to design the mobile version too.</p>
 permalink: "/"
 text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you are a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br></p><p><script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"
-  async></script><div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc"
-  data-businessunit-id="611d3bddcb597a001d43f4d9" data-style-height="52px" data-style-width="100%"
-  data-theme="light" data-stars="1,2,3,4,5" data-no-reviews="hide" data-scroll-to-list="true"
-  data-allow-robots="true"><a href="https://www.trustpilot.com/review/silex.me" target="_blank"
-  rel="noopener">Trustpilot</a></div></p><p><br></p><h2>Hackable, forever free. Your
-  design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
+  will love Silex.</h3><p><br></p><p><a href="https://www.producthunt.com/posts/silex?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-silex"
+  target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=306235&theme=dark"
+  alt="Silex - Open&#0032;source&#0032;website&#0032;builder&#0032;&#0126;&#0032;no&#0045;code&#0032;for&#0032;designers&#0032;&#0038;&#0032;makers
+  | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p><p><br></p><h2>Hackable,
+  forever free. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
   color: "#ffffff"
@@ -60,12 +57,18 @@ items:
 - image: "/uploads/ico-download-silex-desktop-app.svg"
   bg-color: "#ff557a"
   color: "#ffffff"
-  text: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and
-    nicer !</h3><p>Use the desktop version of Silex to work offline, store your data
-    on your computer, <strong>Windows</strong>, <strong>MacOS</strong> and <strong>Linux</strong>
-    are supported.</p>"
+  text: <h2><strong>Download Silex Desktop App</strong></h2><p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for Windows"><strong><img src="/uploads/beta.svg" title="Silex
+    for windows" alt="Silex for indows"></strong></a><strong>  </strong><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for macos"><strong><img src="/uploads/beta-apple.svg" title="Silex
+    for macos" alt="Silex for macos"></strong></a><strong> </strong><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
+    title="Download Silex for linux"><strong><img src="/uploads/beta-linux.svg"></strong></a></p><h3>Local
+    is faster and nicer !</h3><p>Use the desktop version of Silex to work offline,
+    store your data on your computer, <strong>Windows</strong>, <strong>MacOS</strong>
+    and <strong>Linux</strong> are supported.</p><p>The desktop app is <strong>in
+    beta</strong>, help needed</p>
   cta-primary: <p><a href="https://github.com/silexlabs/silex-desktop/releases/latest"
-    title="Download Silex desktop app">DOWNLOADS</a> (Windows, MacOS, Linux)</p>
+    title="Download Silex desktop app">DOWNLOADS</a></p>
   cta-link: "<p></p>"
   cta-color: ''
 - image: "/uploads/ico-deploy-your-server.svg"
