@@ -29,15 +29,16 @@ items:
 - image: "/uploads/ico-love-04.svg"
   bg-color: "#FFFFFF"
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
-    and <a href="https://www.facebook.com/silexlabs/">like</a> us on Facebook, <a
-    href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
-    and <a href="https://twitter.com/silexlabs">follow</a> us on Twitter</p><p><a
+    and <a href="https://www.facebook.com/silexlabs/">like</a> us on <strong>Facebook</strong>,
+    <a href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
+    and <a href="https://twitter.com/silexlabs">follow</a> us on <strong>Twitter</strong></p><p><a
     href="http://alternativeto.net/software/silex-live-web-creation/">Recommend</a>
-    us on AlternativeTo</p><p><a href="https://www.producthunt.com/products/silex#silex"
-    title="Rate Silex on ProductHunt">Rate Silex</a> on ProductHunt, <a href="https://www.trustpilot.com/evaluate/silex.me"
-    title="Rate Silex on Trustpilot">give it five stars</a> on Trustpilot</p><p><a
-    href="https://opencollective.com/silex" title="Donate to Silex website builder">Donate</a>
-    to our <strong>non profit organization</strong> and help us keep the lights on</p>
+    us on <strong>AlternativeTo</strong></p><p><a href="https://www.producthunt.com/products/silex#silex"
+    title="Rate Silex on ProductHunt">Rate Silex</a> on <strong>ProductHunt</strong>,
+    <a href="https://www.trustpilot.com/evaluate/silex.me" title="Rate Silex on Trustpilot">give
+    it five stars</a> on <strong>Trustpilot</strong></p><p><a href="https://opencollective.com/silex"
+    title="Donate to Silex website builder">Donate</a> to our <strong>non profit organization</strong>
+    and help us keep the lights on</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
   color: "#4A4A4A"
