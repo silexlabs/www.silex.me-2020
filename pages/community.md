@@ -30,7 +30,7 @@ items:
   bg-color: "#FFFFFF"
   text: <h3>Show Silex Some ❤</h3><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
     and <a href="https://www.facebook.com/silexlabs/">like</a> us on <strong>Facebook</strong>,
-    <a href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">Share</a>
+    <a href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">share</a>
     and <a href="https://twitter.com/silexlabs">follow</a> us on <strong>Twitter</strong></p><p><a
     href="http://alternativeto.net/software/silex-live-web-creation/">Recommend</a>
     us on <strong>AlternativeTo</strong></p><p><a href="https://www.producthunt.com/products/silex#silex"
