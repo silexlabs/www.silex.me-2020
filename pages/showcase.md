@@ -68,13 +68,6 @@ items:
     the features has been made possible thanks to Silex</p>'
   cta-link: "<p></p>"
   cta-primary: <p><a href="https://belighted.com/" title="Belighted website">belighted.com</a></p>
-- image: "/uploads/quorb-net.png"
-  bg-color: "#FFFFFF"
-  color: "#333333"
-  cta-color: "#333333"
-  text: "<p>Quorb Inc. website powered by Silex</p>"
-  cta-link: "<p></p>"
-  cta-primary: <p><a href="https://www.quorb.net/">quorb.net</a></p>
 - image: "/uploads/cto-bro-com.png"
   bg-color: "#FFFFFF"
   color: "#333333"
