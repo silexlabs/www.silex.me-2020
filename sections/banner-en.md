@@ -5,4 +5,4 @@ cta3: ''
 cta4: ''
 
 ---
-Be part of the team behind Silex v2 as we are now working on a V3 product. [Subscribe here](https://mail-lists.internet2000.net/subscription/cemnfkaVrK "Subscribe to silex news").
+Be part of the team behind Silex v2 now working on the v3 next big version. [Subscribe here](https://mail-list.silexlabs.org/subscription/cemnfkaVrK "Subscribe to silex news").
