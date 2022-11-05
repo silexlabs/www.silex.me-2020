@@ -48,7 +48,7 @@
 {% if section %}<div class="editable-style text-element silex-id-1667659551898-2 style-banner fullwidth-content"><div class="silex-element-content normal">{{section.templateContent}}
 </div></div>{% endif %}<div class="editable-style silex-element-content silex-id-1478366444112-0 container-element website-width"><div class="editable-style container-element silex-id-1625994091436-17 hover-container hide-on-mobile"><div class="editable-style image-element silex-id-1625993543983-10"><img src="{{ site.url }}{{ site.baseurl }}/assets/github.svg" alt="github logo"></div><div class="editable-style container-element silex-id-1625993605030-11 hover-content"><a class="editable-style image-element silex-id-1625992762257-0" href="https://gitter.im/silex-website-builder/community"><img src="{{ site.url }}{{ site.baseurl }}/assets/gitter.svg"></a><a class="editable-style text-element silex-id-1625993702535-12 style-left" href="http://github.com/silexlabs/Silex/"><div class="silex-element-content normal"><p>Source code</p><span class="_wysihtml-temp-caret-fix" style="position: absolute; display: block; min-width: 1px; z-index: 99999;">﻿</span></div></a><a class="editable-style image-element silex-id-1625431408060-0 hide-on-mobile" href="https://opencollective.com/silex"><img src="{{ site.url }}{{ site.baseurl }}/assets/sponsor.png"></a><a class="editable-style image-element silex-id-1625993830726-15" href="http://github.com/silexlabs/Silex/"><img src="{{ site.url }}{{ site.baseurl }}/assets/github.svg" alt="Github logo"></a></div></div><div class="editable-style silex-id-1588932951506-1 text-element hide-on-mobile style-menu"><div class="silex-element-content normal">{% include nav %}</div></div><div class="editable-style text-element silex-id-1589295312922-11 hide-on-mobile style-btn-purple"><div class="silex-element-content normal"><p><a href="{{nav['/get-started'][lang].path}}">{{nav['/get-started'][lang].name}}</a></p></div></div><a class="editable-style silex-id-1588931277326-0 container-element" href="{{ site.url }}{{ site.baseurl }}/"></a><div class="silex-component-hamburger prevent-resizable prevent-auto-z-index editable-style silex-id-1589874442709-0 text-element silex-component hide-on-desktop style-hamburger-menu"><div class="silex-element-content normal">
 <!-- inspired by https://codepen.io/erikterwan/pen/EVzeRP -->
-<div class="hamburger-menu_1667659404850_769 closed">
+<div class="hamburger-menu_1667662734401_457 closed">
     <div class="hamburger-btn ">
       <span></span>
       <span></span>
@@ -87,13 +87,13 @@
   var isOpen = false;
   function close() {
     isOpen = false;
-    document.querySelector('.hamburger-menu_1667659404850_769').classList.remove('open');
-    document.querySelector('.hamburger-menu_1667659404850_769').classList.add('closed');
+    document.querySelector('.hamburger-menu_1667662734401_457').classList.remove('open');
+    document.querySelector('.hamburger-menu_1667662734401_457').classList.add('closed');
   }
   function open() {
     isOpen = true;
-    document.querySelector('.hamburger-menu_1667659404850_769').classList.add('open');
-    document.querySelector('.hamburger-menu_1667659404850_769').classList.remove('closed');
+    document.querySelector('.hamburger-menu_1667662734401_457').classList.add('open');
+    document.querySelector('.hamburger-menu_1667662734401_457').classList.remove('closed');
   }
   function toggle() {
     if(isOpen) close();
@@ -103,7 +103,7 @@
     close();
     move();
   }
-  var silexElement = document.querySelector('.hamburger-menu_1667659404850_769').closest('.editable-style');
+  var silexElement = document.querySelector('.hamburger-menu_1667662734401_457').closest('.editable-style');
   function move() {
     var data = window.silex
     var rect = silexElement.getBoundingClientRect();
@@ -111,10 +111,10 @@
       top: rect.top + data.scrollTop,
       left: rect.left + data.scrollLeft,
     };
-    var container = document.querySelector('.hamburger-menu_1667659404850_769 .nav-container');
+    var container = document.querySelector('.hamburger-menu_1667662734401_457 .nav-container');
     container.style.transform = 'translate(' + (data.scrollLeft - (offset.left/data.scale)) + 'px, ' + (data.scrollTop - (offset.top/data.scale)) + 'px)';
   }
-  document.querySelector('.hamburger-menu_1667659404850_769 .hamburger-btn').addEventListener('click', function() { toggle(); });
+  document.querySelector('.hamburger-menu_1667662734401_457 .hamburger-btn').addEventListener('click', function() { toggle(); });
   document.addEventListener('resize', scrollOrResize);
   document.addEventListener('scroll', scrollOrResize);
   scrollOrResize()
@@ -125,7 +125,51 @@
         
     <div class="editable-style silex-element-content container-element website-width silex-id-1589965994906-5">{% if image %}<div class="editable-style container-element silex-id-1589965844370-1"><img src="{{image}}">
 </div>{% endif %}<div class="editable-style container-element silex-id-1605627812668-0"><div class="editable-style text-element silex-id-1589965834203-0 style-white-version"><div class="silex-element-content normal">{{header}}</div></div><div class="editable-style text-element silex-id-1590566953789-45 style-btn-white"><div class="silex-element-content normal"><b>{{hero-cta}}</b></div></div></div></div></section><a name="list"></a>
-{% for item in items %}{% endfor %}<a name="contact"></a>{%if page.url != '/pro/' %}{%endif%}{% if above_showcase_list.show_showcase %}<div class="editable-style section-element silex-id-1617114922846-0 page-issues paged-element paged-element-visible"><div class="editable-style container-element silex-id-1617114922846-1 silex-element-content website-width prevent-draggable"><div class="editable-style text-element silex-id-1617114922846-2"><div class="silex-element-content normal">{{above_showcase_list.text}}</div></div><div class="editable-style container-element silex-id-1617114922846-3">{% if above_showcase_list.cta-link and above_showcase_list.cta-link != '<p></p>' %}<div class="editable-style text-element silex-id-1617114922846-4 style-btn-more-link-purple"><div class="silex-element-content normal"><b>{{above_showcase_list.cta-link}}</b></div></div>{% endif %}{% if above_showcase_list.cta-primary and above_showcase_list.cta-primary != '<p></p>' %}<div class="editable-style text-element silex-id-1617114922846-5 style-btn-purple"><div class="silex-element-content normal"><b>{{above_showcase_list.cta-primary}}</b></div></div>{% endif %}</div></div></div>{% endif %}{% if above_showcase_list.show_showcase %}
+{% for item in items %}
+<style>
+    body.silex-runtime .item_{{forloop.index}} {
+        background-color: {{item['bg-color']}} !important;
+    }
+    body.silex-runtime .item_{{forloop.index}} * {
+        color: {{item.color}};
+    }
+    body.silex-runtime .item_{{forloop.index}} a {
+        color: {{item['cta-color']}};
+        transition: all 0.2s ease-in-out;
+        position: relative;
+        z-index: 0;
+    }
+    body.silex-runtime .item_{{forloop.index}} a:hover {
+        color: {{item['bg-color']}};
+        background-color: {{item['cta-color']}};
+        border-radius: inherit;
+    }
+    body.silex-runtime .item_{{forloop.index}} a::after {
+        content: "";
+        position: absolute;
+        display: inline-block;
+        width: 100%;
+        height: 2px;
+        bottom: -2px;
+        left: 0;
+        background-color: {{item['cta-color']}};
+        transition: all 0.2s ease-in-out;
+        z-index: -1;
+    }
+    body.silex-runtime .item_{{forloop.index}} .cta a::after {
+        display: none;
+    }
+    xxxxxbody.silex-runtime .item_{{forloop.index}} a:hover::after {
+        height: 30px;
+    }
+    body.silex-runtime .item_{{forloop.index}} .cta {
+        border-color: {{item['cta-color']}};
+    }
+    body.silex-runtime .item_{{forloop.index}} .cta:hover {
+        color: {{item['cta-color']}};
+        border-color: {{item['color']}};
+    }
+</style>{% endfor %}<a name="contact"></a>{%if page.url != '/pro/' %}{%endif%}{% if above_showcase_list.show_showcase %}<div class="editable-style section-element silex-id-1617114922846-0 page-issues paged-element paged-element-visible"><div class="editable-style container-element silex-id-1617114922846-1 silex-element-content website-width prevent-draggable"><div class="editable-style text-element silex-id-1617114922846-2"><div class="silex-element-content normal">{{above_showcase_list.text}}</div></div><div class="editable-style container-element silex-id-1617114922846-3">{% if above_showcase_list.cta-link and above_showcase_list.cta-link != '<p></p>' %}<div class="editable-style text-element silex-id-1617114922846-4 style-btn-more-link-purple"><div class="silex-element-content normal"><b>{{above_showcase_list.cta-link}}</b></div></div>{% endif %}{% if above_showcase_list.cta-primary and above_showcase_list.cta-primary != '<p></p>' %}<div class="editable-style text-element silex-id-1617114922846-5 style-btn-purple"><div class="silex-element-content normal"><b>{{above_showcase_list.cta-primary}}</b></div></div>{% endif %}</div></div></div>{% endif %}{% if above_showcase_list.show_showcase %}
 <a name="list"></a>
 {% for item in issues.showcase  limit: 3 %}<div class="editable-style section-element silex-id-1616594717710-22 page-issues paged-element item_{{forloop.index}} list_section paged-element-visible"><div class="editable-style container-element silex-id-1616594717710-23 page-issues paged-element website-width paged-element-visible">{% if item.image != "" %}<div class="editable-style container-element silex-id-1616594717710-24 page-issues paged-element paged-element-visible"><img style="width: 100%;" src="{{item.image}}">
 </div>{% endif %}<div class="editable-style container-element silex-id-1616594717710-25 page-issues paged-element paged-element-visible"><div class="editable-style text-element silex-id-1616594717711-26 page-issues paged-element paged-element-visible"><div class="silex-element-content normal"><h3>{{ item.title  | safe }}</h3>

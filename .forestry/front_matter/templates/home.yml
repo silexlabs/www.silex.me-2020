@@ -96,12 +96,6 @@ fields:
         config:
           color_format: Hex
       - type: color
-        name: color
-        label: Text color
-        default: '#333333'
-        config:
-          color_format: Hex
-      - type: color
         name: cta-color
         label: CTA color
         default: '#FFFFFF'
