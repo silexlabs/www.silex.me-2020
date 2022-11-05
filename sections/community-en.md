@@ -1,7 +1,8 @@
 ---
 tags: sections
-cta1: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex forums"><strong>FORUMS</strong></a></p><p><em>Real
-  advice from real people</em></p>
+cta1: <p><a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US"
+  title="Silex newsletter"><strong>NEWS LETTER</strong></a></p><p><em>Real advice
+  from real people</em></p>
 cta2: <p><a href="https://github.com/silexlabs/Silex/labels/feature" title="Silex
   open source roadmap"><strong>ROAD MAP</strong></a></p><p>Help prioritize the features
   you want</p>
