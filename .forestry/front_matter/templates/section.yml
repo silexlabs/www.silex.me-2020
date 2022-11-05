@@ -39,6 +39,7 @@ fields:
       format: html-blocks
   label: CTA4
 pages:
+- sections/banner-en.md
 - sections/community-en.md
 - sections/freedom-en.md
 - sections/pro-en.md
