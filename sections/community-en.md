@@ -1,6 +1,6 @@
 ---
 tags: sections
-cta1: <p><a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US"
+cta1: <p><a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&amp;source=silex.me"
   title="Silex newsletter"><strong>NEWS LETTER</strong></a></p><p><em>Real advice
   from real people</em></p>
 cta2: <p><a href="https://github.com/silexlabs/Silex/labels/feature" title="Silex
