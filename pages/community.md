@@ -20,7 +20,7 @@ items:
     title="Silex forums">the official forum</a> and <a href="https://gitter.im/silex-website-builder/community"
     title="Official Silex community chat">the community chat</a> (you will need a
     Github account)</p><p>Subscribe to our <a href="https://www.youtube.com/user/Silexlabs"
-    title="Silex Labs youtube channel">YouTube channel</a></p><p>Subscribe to <a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US"
+    title="Silex Labs youtube channel">YouTube channel</a></p><p>Subscribe to <a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&amp;source=silex.me"
     title="Silex news letter">Silex newsletter</a> (1 email per year)</p>
   cta-link: "<p></p>"
   cta-primary: "<p></p>"
