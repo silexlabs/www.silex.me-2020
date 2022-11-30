@@ -1,7 +1,7 @@
 ---
 tags: sections
----
 
+---
 COMMUNITY
 
 [Silex Labs Blog](http://www.silexlabs.org/events/ "Silex Labs blog")
@@ -18,6 +18,6 @@ COMMUNITY
 
 SUPPORT
 
-[Forums](https://github.com/silexlabs/Silex/issues "Silex Forums")
+[Forums](https://github.com/silexlabs/Silex/discussions "Silex Forums")
 
 [Wiki](https://github.com/silexlabs/Silex/wiki "Silex Wiki")
