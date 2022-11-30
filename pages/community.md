@@ -16,7 +16,7 @@ text: "<h3>Here is a page about us,<br>you, me, the community.</h3><p>Common and
 items:
 - image: "/uploads/ico-mailbox.svg"
   bg-color: "#FFFFFF"
-  text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/issues/"
+  text: <h3>Keep in touch, let's talk</h3><p>Get in touch on <a href="https://github.com/silexlabs/Silex/discussions"
     title="Silex forums">the official forum</a> and <a href="https://gitter.im/silex-website-builder/community"
     title="Official Silex community chat">the community chat</a> (you will need a
     Github account)</p><p>Subscribe to our <a href="https://www.youtube.com/user/Silexlabs"
