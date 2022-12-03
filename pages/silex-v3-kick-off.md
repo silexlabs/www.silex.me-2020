@@ -2,8 +2,7 @@
 lang: en
 layout: default
 title: Silex v3 kick off
-description: Silex website builder is about to walk on no-code giants toes, with JAMStack/static/serverless
-  tech as its core.
+description: Silex website builder, open source no-code and JAMStack/static/serverless
 text: '<p></p><blockquote><p>An article about the future of <a href="https://www.silex.me/"
   title="Silex website builder">Silex</a> by <a href="https://lexoyo.me/" title="Alex
   Hoyau">Alex Hoyau</a>, the official maintainer</p></blockquote><h1>Silex v3 kick
