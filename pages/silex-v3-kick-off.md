@@ -24,17 +24,22 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   generate snipets of templates <a href="https://ejs.co/" title="EJS template">(ejs</a>,
   <a href="https://liquidjs.com/" title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/"
   title="twig templates">twig</a>, ...) so that we can create Jekyll or eleventy layouts</p></li></ol><p>That
-  is the plan, in that order.</p><h2>Motivations</h2><p>I''m a fan of webflow I admit
-  ! But their pricing is a bit off and I want to be able to make sites with <strong>static
-  / jamstack technology</strong></p><p>I also like being able to <strong>host websites
-  and the app</strong> on my  (green) server and have the code of my sites versioned
-  with git. </p><p>I want to be able to <strong>invite any number of users without
-  worrying</strong> about the cost, why would it be more expensive to have people
-  accessing the website I am working on?</p><p>I will never again accept to have a
-  tool of mine <strong>decomissioned or updated to a new version</strong>, making
-  it impossible or painful for me to continue working on a client website. I want
-  to be able to revert to a previous version, and to keep a per-website apps versions.
-  </p><p>And finally I need to be sure that <strong>anything is possible</strong>
+  is the plan, in that order.</p><h2>The Ambassador program</h2><p>I would love to
+  create a small group of ambassadors, with regular meetups:</p><ul><li><p>Make sure
+  we are all up to date with latest dev and silex knowledge</p></li><li><p>Grow the
+  community</p></li><li><p>Make Silex sustainable</p></li></ul><p>Please apply for
+  a seat at the new ambassador program: email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
+  title="Silex forums">in the forums</a></p><h2>Motivations</h2><p>I''m a fan of webflow
+  I admit ! But their pricing is a bit off and I want to be able to make sites with
+  <strong>static / jamstack technology</strong></p><p>I also like being able to <strong>host
+  websites and the app</strong> on my  (green) server and have the code of my sites
+  versioned with git. </p><p>I want to be able to <strong>invite any number of users
+  without worrying</strong> about the cost, why would it be more expensive to have
+  people accessing the website I am working on?</p><p>I will never again accept to
+  have a tool of mine <strong>decomissioned or updated to a new version</strong>,
+  making it impossible or painful for me to continue working on a client website.
+  I want to be able to revert to a previous version, and to keep a per-website apps
+  versions. </p><p>And finally I need to be sure that <strong>anything is possible</strong>
   with the tool I use for my clients. Wether I want to edit something in the UI, white
   label something or change the whole CMS for another product. This is me working
   on my tool, I don''t want to be charged more for my own time.</p><p>Open source
