@@ -30,11 +30,11 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/" title="twig
   templates">twig</a>, ...) so that we can create Jekyll or <a href="https://www.11ty.dev/"
   title="Eleventy SSG">eleventy</a> layouts</p></li></ol><p>That is the plan, in that
-  order.</p><h2>The Ambassador program</h2><p>I am creating a small group of ambassadors,
-  with regular meetups. </p><p>Here are the ambassadors goals:</p><ol><li><p>Become
-  a Silex power user</p></li><li><p>Make sure Silex becomes a useful no-code tool</p></li><li><p>Grow
-  the community and make Silex a sustainable open source project</p></li></ol><p>Please
-  apply for a seat at the new ambassador program: email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
+  order.</p><h2>The Ambassador program</h2><p>I am creating a small group of ambassadors.
+  Here are the ambassadors goals:</p><ol><li><p>Become a Silex power user</p></li><li><p>Make
+  sure Silex becomes a useful no-code tool</p></li><li><p>Grow the community and make
+  Silex a sustainable open source project</p></li></ol><p>Please apply for a seat
+  at the new ambassador program: email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
   title="Silex forums">in the forums</a></p><h2>Motivations</h2><p>I''m a fan of no-code
   in general and Webflow in particular, I admit it ! But their pricing is a bit off
   and I want to be able to make sites with <strong>static / JAMStack technology</strong></p><p>I
@@ -72,17 +72,7 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   title="Donate to Silex website builder">Donate</a> to the <strong>non profit organization</strong>
   and help us keep the lights on</p></li></ul><p>Apply for a seat at the new ambassador
   program (email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
-  title="Silex forums">in the forums</a>)</p><h2>Tech choices</h2><p>Philosophy</p><ul><li><p>Works
-  with defaults, then use config to override defaults</p></li><li><p>The website config
-  file overrides all paths</p></li><li><p>The website config overrides the blocks,
-  so that we may have templates with nextjs/react and others with vue or tailwind</p></li></ul><p>UI</p><ul><li><p>Right
-  side panel, everything related to current selection</p></li><li><p>Left side panel,
-  everything related to the website</p></li><li><p>Top bar, the "view" menu</p></li></ul><p>Dashboard</p><ul><li><p>As
-  simple as possible, no choice of a folder, store in default location + config</p></li></ul><p>Templates</p><p>They
-  are just a normal website with a config file to override Silex defaults. No possible
-  update of a template after you started modifying it, no way to apply another template
-  afterwards.</p><p>External site import</p><p>Thanks to grapesjs, it may be possible
-  in the log run to import any HTML page in a page of your website, to be developed.</p>'
+  title="Silex forums">in the forums</a>)</p><p></p>'
 permalink: "/blog/silex-v3-kickoff/"
 
 ---
