@@ -10,7 +10,7 @@ SILEX TEAM
 
 [Contribute](/community/ "Contribute to Silex")
 
-[Newsletter](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US "Mailing list in english")
+[Newsletter](https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=silex.me "Mailing list in english")
 
 [Partners](/community/#tiles "Silex partners")
 
