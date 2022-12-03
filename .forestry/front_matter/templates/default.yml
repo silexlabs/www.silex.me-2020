@@ -1,40 +1,36 @@
 ---
 label: Default
-hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-  default: ''
-- type: text
-  name: description
-  label: Description
-  default: ''
-- type: text
-  name: lang
-  label: Lang
-  default: en
-- type: textarea
-  name: text
-  label: Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: default
-  config:
-    required: true
-pages:
-- pages/404.md
-- pages/pro-thx.md
-- pages/silex-v3-kick-off.md
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
+  - type: text
+    name: lang
+    label: Lang
+    default: en
+  - type: textarea
+    name: text
+    label: Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: default
+    config:
+      required: true
+hide_body: true
