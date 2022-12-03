@@ -5,7 +5,7 @@ title: Silex v3 in 2023
 description: Silex website builder, open source no-code and JAMStack/static/serverless
 text: '<p>June 2021 &gt; This is an article about the future of <a href="https://www.silex.me/"
   title="Silex website builder">Silex</a> by <a href="https://lexoyo.me/" title="Alex
-  Hoyau">Alex Hoyau</a>, the official maintainer</p><h1>Silex v3 in 2023</h1><p>Silex
+  Hoyau">Alex Hoyau</a>, the official maintainer of Silex</p><h1>Silex v3 in 2023</h1><p>Silex
   website builder v1 was released as open source in 2009 and download a million times,
   then silex v2 in 2010 was made an online tool and a downloadable app. It is time
   in 2022 for the v3. Every major release means a major rewrite with new tech, no
