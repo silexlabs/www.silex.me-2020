@@ -78,6 +78,6 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   update of a template after you started modifying it, no way to apply another template
   afterwards.</p><p>External site import</p><p>Thanks to grapesjs, it may be possible
   in the log run to import any HTML page in a page of your website, to be developed.</p>'
-permalink: "/silex-v3-kickoff/"
+permalink: "/blog/silex-v3-kickoff/"
 
 ---
