@@ -5,11 +5,11 @@ title: Silex v3 kick off
 description: Silex website builder, open source no-code and JAMStack/static/serverless
 text: '<p>June 2021 &gt; This is an article about the future of <a href="https://www.silex.me/"
   title="Silex website builder">Silex</a> by <a href="https://lexoyo.me/" title="Alex
-  Hoyau">Alex Hoyau</a>, the official maintainer</p><h1>Silex v3 kick off</h1><p>Silex
+  Hoyau">Alex Hoyau</a>, the official maintainer</p><h1>Silex v3 in 2023</h1><p>Silex
   website builder v1 was released as open source in 2009 and download a million times,
   then silex v2 in 2010 was made an online tool and a downloadable app. It is time
   in 2022 for the v3. Every major release means a major rewrite with new tech, no
-  backward compatibility, a new paradigm. </p><p>Today I''m aiming at a free and open
+  backward compatibility, a new paradigm.</p><p>Today I''m aiming at a free and open
   source alternative to Webflow, WordPress Elementor/Divi.</p><h2>What is in the v3</h2><p>I
   have been the dev behind all versions, I wrote 99% of the code and I have hold the
   vision from the start - and 2009 was before wix, 2010 was before no-code.</p><p>Today
@@ -32,14 +32,14 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   title="Silex forums">in the forums</a></p><h2>Motivations</h2><p>I''m a fan of webflow
   I admit ! But their pricing is a bit off and I want to be able to make sites with
   <strong>static / jamstack technology</strong></p><p>I also like being able to <strong>host
-  websites and the app</strong> on my  (green) server and have the code of my sites
-  versioned with git. </p><p>I want to be able to <strong>invite any number of users
+  websites and the app</strong> on my (green) server and have the code of my sites
+  versioned with git.</p><p>I want to be able to <strong>invite any number of users
   without worrying</strong> about the cost, why would it be more expensive to have
   people accessing the website I am working on?</p><p>I will never again accept to
   have a tool of mine <strong>decomissioned or updated to a new version</strong>,
   making it impossible or painful for me to continue working on a client website.
   I want to be able to revert to a previous version, and to keep a per-website apps
-  versions. </p><p>And finally I need to be sure that <strong>anything is possible</strong>
+  versions.</p><p>And finally I need to be sure that <strong>anything is possible</strong>
   with the tool I use for my clients. Wether I want to edit something in the UI, white
   label something or change the whole CMS for another product. This is me working
   on my tool, I don''t want to be charged more for my own time.</p><p>Open source
@@ -49,8 +49,8 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   self hostable hackable tool to create green websites</p></li><li><p>No code has
   serious <strong>alternatives for everything but Webflow</strong>:</p><ul><li><p>Bubble
   has <a href="https://alternativeto.net/software/appsmith/about/">Appsmith</a></p></li><li><p>Airtable
-  has <a href="https://alternativeto.net/software/nocodb/about/">NocoDB</a></p></li><li><p>
-  Notion has <a href="https://alternativeto.net/software/appflowy/about/">AppFlowy</a></p></li><li><p>Make
+  has <a href="https://alternativeto.net/software/nocodb/about/">NocoDB</a></p></li><li><p>Notion
+  has <a href="https://alternativeto.net/software/appflowy/about/">AppFlowy</a></p></li><li><p>Make
   has <a href="https://alternativeto.net/software/n8n-io/about/">n8n.io</a></p></li><li><p>Zapier
   has <a href="https://alternativeto.net/software/huginn/about/">Huginn</a></p></li><li><p>...</p></li></ul></li></ul><h2>Get
   on board</h2><p>What now?</p><ul><li><p>Discuss ideas and make sure it will be a

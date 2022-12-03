@@ -36,4 +36,5 @@ fields:
     required: true
 pages:
 - pages/404.md
+- pages/blog/silex-v3-kick-off.md
 - pages/pro-thx.md
