@@ -10,45 +10,46 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   download a million times, then silex v2 in 2010 was made an online tool and a downloadable
   app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite
   with new tech, a new paradigm.</p><p>Today I''m aiming at a free and open source
-  alternative to Webflow, WordPress Elementor/Divi.</p><h2>What is in the v3</h2><p>I
-  have been the dev behind all versions, I wrote 99% of the code and I have hold the
-  vision from the start - and 2009 was before wix, 2010 was before no-code.</p><p>Today
-  I envision Silex as the bridge between 2 worlds: <strong>no-code</strong> and <strong>JAMStack/static/serverless</strong>.
-  It will offer as a free and open source software (MPL) all the key features of Webflow
-  with these components:</p><ol><li><p>A drag and drop web design tool, showing all
-  the CSS features in a class-based style manager - that is the no-code part</p></li><li><p>An
-  integration with any <a href="https://jamstack.org/headless-cms/" title="Headless
-  CMS">headless CMS</a> - such as directus or strapi, to visually design your website
-  with real data</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
+  alternative to Webflow, WordPress Elementor/Divi.</p><h2>Silex v3: no-code meets
+  static</h2><p>I have been the dev behind all versions, I wrote 99% of the code and
+  I have hold the vision from the start - and 2009 was before wix, 2010 was before
+  no-code.</p><p>Today I envision Silex as the bridge between 2 worlds: <strong>no-code</strong>
+  and <strong>JAMStack/static/serverless</strong>. It will offer as a free and open
+  source software (MPL) all the key features of Webflow with these components:</p><ol><li><p>A
+  drag and drop web design tool, showing all the CSS features in a class-based style
+  manager - that is the no-code part</p></li><li><p>An integration with any <a href="https://jamstack.org/headless-cms/"
+  title="Headless CMS">headless CMS</a> - such as directus or strapi, to visually
+  design your website with real data</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
   title="Static site generators">static site generators</a>: components which transparently
   generate snipets of templates <a href="https://ejs.co/" title="EJS template">(ejs</a>,
   <a href="https://liquidjs.com/" title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/"
   title="twig templates">twig</a>, ...) so that we can create Jekyll or eleventy layouts</p></li></ol><p>That
-  is the plan, in that order.</p><h2>The Ambassador program</h2><p>I would love to
-  create a small group of ambassadors, with regular meetups:</p><ul><li><p>Make sure
-  we are all up to date with latest dev and silex knowledge</p></li><li><p>Grow the
-  community</p></li><li><p>Make Silex sustainable</p></li></ul><p>Please apply for
-  a seat at the new ambassador program: email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
-  title="Silex forums">in the forums</a></p><h2>Motivations</h2><p>I''m a fan of webflow
-  I admit ! But their pricing is a bit off and I want to be able to make sites with
-  <strong>static / jamstack technology</strong></p><p>I also like being able to <strong>host
-  websites and the app</strong> on my (green) server and have the code of my sites
-  versioned with git.</p><p>I want to be able to <strong>invite any number of users
-  without worrying</strong> about the cost, why would it be more expensive to have
-  people accessing the website I am working on?</p><p>I will never again accept to
-  have a tool of mine <strong>decomissioned or updated to a new version</strong>,
-  making it impossible or painful for me to continue working on a client website.
-  I want to be able to revert to a previous version, and to keep a per-website apps
-  versions.</p><p>And finally I need to be sure that <strong>anything is possible</strong>
-  with the tool I use for my clients. Wether I want to edit something in the UI, white
-  label something or change the whole CMS for another product. This is me working
-  on my tool, I don''t want to be charged more for my own time.</p><p>Open source
-  gives you all that.</p><p>My other motivations</p><ul><li><p><a href="https://www.silexlabs.org/"
-  title="Silex Labs organization">Silex Labs</a> or other NGOs need free tools</p></li><li><p><a
-  href="https://internet2000.net/" title="Green websites">Internet 2000</a> need a
-  self hostable hackable tool to create green websites</p></li><li><p>No code has
-  serious <strong>alternatives for everything but Webflow</strong>:</p><ul><li><p>Bubble
-  has <a href="https://alternativeto.net/software/appsmith/about/">Appsmith</a></p></li><li><p>Airtable
+  is the plan, in that order.</p><h2>The Ambassador program</h2><p>I am creating a
+  small group of ambassadors, with regular meetups. </p><p>Here are the ambassadors
+  goals:</p><ol><li><p>Become a Silex power user</p></li><li><p>Make sure Silex becomes
+  a useful no-code tool</p></li><li><p>Grow the community and make Silex a sustainable
+  open source project</p></li></ol><p>Please apply for a seat at the new ambassador
+  program: email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
+  title="Silex forums">in the forums</a></p><h2>Motivations</h2><p>I''m a fan of no-code
+  in general and webflow in particular, I admit it ! But their pricing is a bit off
+  and I want to be able to make sites with <strong>static / jamstack technology</strong></p><p>I
+  also like being able to <strong>host websites and the app</strong> on my (green)
+  server and have the code of my sites versioned with git.</p><p>I want to be able
+  to <strong>invite any number of users without worrying</strong> about the cost,
+  why would it be more expensive to have people accessing the website I am working
+  on?</p><p>I will never again accept to have a tool of mine <strong>decomissioned
+  or updated to a new version</strong>, making it impossible or painful for me to
+  continue working on a client website. I want to be able to revert to a previous
+  version, and to keep a per-website apps versions.</p><p>And finally I need to be
+  sure that <strong>anything is possible</strong> with the tool I use for my clients.
+  Wether I want to edit something in the UI, white label something or change the whole
+  CMS for another product. This is me working on my tool, I don''t want to be charged
+  more for my own time.</p><p>Open source gives you all that.</p><p>My other motivations</p><ul><li><p><a
+  href="https://www.silexlabs.org/" title="Silex Labs organization">Silex Labs</a>
+  or other NGOs need free tools</p></li><li><p><a href="https://internet2000.net/"
+  title="Green websites">Internet 2000</a> need a self hostable hackable tool to create
+  green websites</p></li><li><p>No code has serious <strong>alternatives for everything
+  but Webflow</strong>:</p><ul><li><p>Bubble has <a href="https://alternativeto.net/software/appsmith/about/">Appsmith</a></p></li><li><p>Airtable
   has <a href="https://alternativeto.net/software/nocodb/about/">NocoDB</a></p></li><li><p>Notion
   has <a href="https://alternativeto.net/software/appflowy/about/">AppFlowy</a></p></li><li><p>Make
   has <a href="https://alternativeto.net/software/n8n-io/about/">n8n.io</a></p></li><li><p>Zapier
