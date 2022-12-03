@@ -8,18 +8,18 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   Hoyau">Alex Hoyau</a>, the official maintainer of Silex since 2009</p><h1>Silex
   v3 in 2023</h1><p>Silex website builder v1 was released as open source in 2009 and
   download a million times, then silex v2 in 2010 was made an online tool and a downloadable
-  app. It is time in 2022 for the v3. Every major release means a major rewrite with
-  new tech, no backward compatibility, a new paradigm.</p><p>Today I''m aiming at
-  a free and open source alternative to Webflow, WordPress Elementor/Divi.</p><h2>What
-  is in the v3</h2><p>I have been the dev behind all versions, I wrote 99% of the
-  code and I have hold the vision from the start - and 2009 was before wix, 2010 was
-  before no-code.</p><p>Today I envision Silex as the bridge between 2 worlds: <strong>no-code</strong>
-  and <strong>JAMStack/static/serverless</strong>. It will offer as a free and open
-  source software (MPL) all the key features of Webflow with these components:</p><ol><li><p>A
-  drag and drop web design tool, showing all the CSS features in a class-based style
-  manager - that is the no-code part</p></li><li><p>An integration with any <a href="https://jamstack.org/headless-cms/"
-  title="Headless CMS">headless CMS</a> - such as directus or strapi, to visually
-  design your website with real data</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
+  app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite
+  with new tech, a new paradigm.</p><p>Today I''m aiming at a free and open source
+  alternative to Webflow, WordPress Elementor/Divi.</p><h2>What is in the v3</h2><p>I
+  have been the dev behind all versions, I wrote 99% of the code and I have hold the
+  vision from the start - and 2009 was before wix, 2010 was before no-code.</p><p>Today
+  I envision Silex as the bridge between 2 worlds: <strong>no-code</strong> and <strong>JAMStack/static/serverless</strong>.
+  It will offer as a free and open source software (MPL) all the key features of Webflow
+  with these components:</p><ol><li><p>A drag and drop web design tool, showing all
+  the CSS features in a class-based style manager - that is the no-code part</p></li><li><p>An
+  integration with any <a href="https://jamstack.org/headless-cms/" title="Headless
+  CMS">headless CMS</a> - such as directus or strapi, to visually design your website
+  with real data</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
   title="Static site generators">static site generators</a>: components which transparently
   generate snipets of templates <a href="https://ejs.co/" title="EJS template">(ejs</a>,
   <a href="https://liquidjs.com/" title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/"
