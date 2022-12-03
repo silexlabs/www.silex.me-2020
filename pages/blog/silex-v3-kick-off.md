@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: default
-title: Silex v3 kick off
+title: Silex v3 in 2023
 description: Silex website builder, open source no-code and JAMStack/static/serverless
 text: '<p>June 2021 &gt; This is an article about the future of <a href="https://www.silex.me/"
   title="Silex website builder">Silex</a> by <a href="https://lexoyo.me/" title="Alex
