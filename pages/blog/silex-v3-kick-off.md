@@ -60,21 +60,19 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   has <a href="https://alternativeto.net/software/n8n-io/about/">n8n.io</a> and <a
   href="https://nodered.org/" title="nodered no-code">Node Red</a> </p></li><li><p>Zapier
   and IFTTT have <a href="https://alternativeto.net/software/huginn/about/">Huginn</a></p></li><li><p>...</p></li></ul></li></ul><h2>Get
-  on board</h2><p>What now?</p><ul><li><p>Discuss ideas and make sure it will be a
-  tool you can use: Twitter #silex, GitHub forums</p></li><li><p>Support by sharing:</p><ul><li><p><a
-  href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
-  and <a href="https://www.facebook.com/silexlabs/">like</a> us on <strong>Facebook</strong>,
+  on board</h2><p>What now?</p><ul><li><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
+  and <a href="https://www.facebook.com/silexlabs/">like</a> Silex on <strong>Facebook</strong>,
   <a href="https://twitter.com/intent/tweet?source=//www.silex.me/&amp;text=Silex,%20html%20website%20builder:%20http://www.silex.me/&amp;via=silexlabs">share</a>
   and <a href="https://twitter.com/silexlabs">follow</a> us on <strong>Twitter</strong></p></li><li><p><a
   href="http://alternativeto.net/software/silex-live-web-creation/">Recommend</a>
-  us on <strong>AlternativeTo</strong></p></li><li><p><a href="https://www.producthunt.com/products/silex#silex"
+  on <strong>AlternativeTo</strong></p></li><li><p><a href="https://www.producthunt.com/products/silex#silex"
   title="Rate Silex on ProductHunt">Rate Silex</a> on <strong>ProductHunt</strong>,
   <a href="https://www.trustpilot.com/evaluate/silex.me" title="Rate Silex on Trustpilot">give
   it five stars</a> on <strong>Trustpilot</strong></p></li><li><p><a href="https://opencollective.com/silex"
-  title="Donate to Silex website builder">Donate</a> to our <strong>non profit organization</strong>
-  and help us keep the lights on</p></li></ul></li><li><p>Apply for a seat at the
-  new ambassador program (email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
-  title="Silex forums">in the forums</a>)</p></li></ul><h2>Tech choices</h2><p>Philosophy</p><ul><li><p>Works
+  title="Donate to Silex website builder">Donate</a> to the <strong>non profit organization</strong>
+  and help us keep the lights on</p></li></ul><p>Apply for a seat at the new ambassador
+  program (email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
+  title="Silex forums">in the forums</a>)</p><h2>Tech choices</h2><p>Philosophy</p><ul><li><p>Works
   with defaults, then use config to override defaults</p></li><li><p>The website config
   file overrides all paths</p></li><li><p>The website config overrides the blocks,
   so that we may have templates with nextjs/react and others with vue or tailwind</p></li></ul><p>UI</p><ul><li><p>Right
