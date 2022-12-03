@@ -18,14 +18,15 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   all the key features of Webflow with these components:</p><ol><li><p>A drag and
   drop web design tool, showing all the CSS features in a class-based style manager
   - that is the no-code part and it will be based on the <a href="https://grapesjs.com/"
-  title="Grapes JS web builder framework">GrapesJS</a> framework</p></li><li><p>An
-  integration with any <a href="https://jamstack.org/headless-cms/" title="Headless
-  CMS">headless CMS</a> - such as <a href="https://directus.io/" title="headless cms
-  directus">Directus</a> or <a href="https://strapi.io/" title="Strapi headless cms">Strapi</a>,
-  to visually design your website with real data</p></li><li><p>Integration with <a
-  href="https://jamstack.org/generators/" title="Static site generators">static site
-  generators</a>: components which transparently generate snipets of templates <a
-  href="https://ejs.co/" title="EJS template">(ejs</a>, <a href="https://liquidjs.com/"
+  title="Grapes JS web builder framework">GrapesJS</a> framework. By itself, this
+  part today''s Silex v2 scope, and will still be useful by itself for smaller simpler
+  websites</p></li><li><p>An integration with any <a href="https://jamstack.org/headless-cms/"
+  title="Headless CMS">headless CMS</a> - such as <a href="https://directus.io/" title="headless
+  cms directus">Directus</a> or <a href="https://strapi.io/" title="Strapi headless
+  cms">Strapi</a>, to visually design your website with real data</p></li><li><p>Integration
+  with <a href="https://jamstack.org/generators/" title="Static site generators">static
+  site generators</a>: components which transparently generate snipets of templates
+  <a href="https://ejs.co/" title="EJS template">(ejs</a>, <a href="https://liquidjs.com/"
   title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/" title="twig
   templates">twig</a>, ...) so that we can create Jekyll or <a href="https://www.11ty.dev/"
   title="Eleventy SSG">eleventy</a> layouts</p></li></ol><p>That is the plan, in that
