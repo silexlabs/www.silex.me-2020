@@ -20,17 +20,37 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   integration with any graphql headless CMS - such as strapi and tinacms, to visually
   design your website with real data</p></li><li><p>Components to write liquid templates
   so that we can create Jekyll or eleventy websites</p></li></ol><p>That is the plan,
-  in that order.</p><h2>Motivations</h2><p>My motivations</p><ul><li><p>SL mission</p></li><li><p>A
-  world of open software</p></li><li><p>Internet 2000, green websites</p></li><li><p>Make
-  Silex development more active, involve companies such as i2k</p></li></ul><h2>Get
+  in that order.</p><h2>Motivations</h2><p>I''m a fan of webflow I admit ! But their
+  pricing is a bit off and I want to be able to make sites with <strong>static / jamstack
+  technology</strong></p><p>I also like being able to <strong>host websites and the
+  app</strong> on my  (green) server and have the code of my sites versioned with
+  git. </p><p>I want to be able to <strong>invite any number of users without worrying</strong>
+  about the cost, why would it be more expensive to have people accessing the website
+  I am working on?</p><p>I will never again accept to have a tool of mine <strong>decomissioned
+  or updated to a new version</strong>, making it impossible or painful for me to
+  continue working on a client website. I want to be able to revert to a previous
+  version, and to keep a per-website apps versions. </p><p>And finally I need to be
+  sure that <strong>anything is possible</strong> with the tool I use for my clients.
+  Wether I want to edit something in the UI, white label something or change the whole
+  CMS for another product. This is me working on my tool, I don''t want to be charged
+  more for my own time.</p><p>Open source gives you all that.</p><p>My other motivations</p><ul><li><p><a
+  href="https://www.silexlabs.org/" title="Silex Labs organization">Silex Labs</a>
+  or other NGOs need free tools</p></li><li><p><a href="https://internet2000.net/"
+  title="Green websites">Internet 2000</a> need a self hostable hackable tool to create
+  green websites</p></li><li><p>No code has serious <strong>alternatives for everything
+  but Webflow</strong>:</p><ul><li><p>Bubble has <a href="https://alternativeto.net/software/appsmith/about/">Appsmith</a></p></li><li><p>Airtable
+  has <a href="https://alternativeto.net/software/nocodb/about/">NocoDB</a></p></li><li><p>
+  Notion has <a href="https://alternativeto.net/software/appflowy/about/">AppFlowy</a></p></li><li><p>Make
+  has <a href="https://alternativeto.net/software/n8n-io/about/">n8n.io</a></p></li><li><p>Zapier
+  has <a href="https://alternativeto.net/software/huginn/about/">Huginn</a></p></li><li><p>...</p></li></ul></li></ul><h2>Get
   on board</h2><p>What now?</p><ul><li><p>Discuss ideas and make sure it will be a
-  tool you can use: Twitter #silex, GitHub forums</p></li><li><p>Support by sharing</p></li><li><p>Give
-  money</p></li><li><p>Give time</p></li></ul><h2>Tech choices</h2><p>Philosophy</p><ul><li><p>Works
-  with defaults, then use config to override defaults</p></li><li><p>The website config
-  file overrides all paths</p></li><li><p>The website config overrides the blocks,
-  so that we may have templates with nextjs/react and others with vue or tailwind</p></li></ul><p>UI</p><ul><li><p>Right
-  side panel, everything related to current selection</p></li><li><p>Left side panel,
-  everything related to the website</p></li><li><p>Top bar, the "view" menu</p></li></ul><p>Dashboard</p><ul><li><p>As
+  tool you can use: Twitter #silex, GitHub forums</p></li><li><p>Support by sharing</p></li><li><p></p></li></ul><h2>Tech
+  choices</h2><p>Philosophy</p><ul><li><p>Works with defaults, then use config to
+  override defaults</p></li><li><p>The website config file overrides all paths</p></li><li><p>The
+  website config overrides the blocks, so that we may have templates with nextjs/react
+  and others with vue or tailwind</p></li></ul><p>UI</p><ul><li><p>Right side panel,
+  everything related to current selection</p></li><li><p>Left side panel, everything
+  related to the website</p></li><li><p>Top bar, the "view" menu</p></li></ul><p>Dashboard</p><ul><li><p>As
   simple as possible, no choice of a folder, store in default location + config</p></li></ul><p>Templates</p><p>They
   are just a normal website with a config file to override Silex defaults. No possible
   update of a template after you started modifying it, no way to apply another template
