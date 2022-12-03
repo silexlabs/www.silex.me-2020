@@ -73,6 +73,6 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   and help us keep the lights on</p></li></ul><p>Apply for a seat at the new ambassador
   program (email me or ping me <a href="https://github.com/silexlabs/Silex/discussions"
   title="Silex forums">in the forums</a>)</p><p></p>'
-permalink: "/blog/silex-v3/"
+permalink: "/blog/silex-v3-kickoff/"
 
 ---
