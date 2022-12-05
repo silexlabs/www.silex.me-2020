@@ -165,5 +165,8 @@ jQuery(document).ready(function($){
             , 'transform': ''
         })
     }
-
+	// Mobile menu
+	$('.mobile-menu-btn').click(function() {
+		$('.closable').toggleClass('open')
+	})
 });
