@@ -3,9 +3,9 @@ lang: en
 layout: default
 title: Silex v3 in 2023
 description: Silex website builder, open source no-code and JAMStack/static/serverless
-text: '<p>June 2021 &gt; This is an article about the future of <a href="https://www.silex.me/"
+text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a href="https://www.silex.me/"
   title="Silex website builder">Silex</a> by <a href="https://lexoyo.me/" title="Alex
-  Hoyau">Alex Hoyau</a>, the official maintainer of Silex since 2009</p><h1>Silex
+  Hoyau">Alex Hoyau</a>, the official maintainer of Silex since 2009</p></blockquote><h1>Silex
   v3 in 2023</h1><p>Silex website builder v1 was released as open source in 2009 and
   download a million times, then Silex v2 in 2010 was made an online tool and a downloadable
   app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite
@@ -58,7 +58,7 @@ text: '<p>June 2021 &gt; This is an article about the future of <a href="https:/
   has <a href="https://alternativeto.net/software/nocodb/about/">NocoDB</a></p></li><li><p>Notion
   has <a href="https://alternativeto.net/software/appflowy/about/">AppFlowy</a></p></li><li><p>Make/integromat
   has <a href="https://alternativeto.net/software/n8n-io/about/">n8n.io</a> and <a
-  href="https://nodered.org/" title="nodered no-code">Node Red</a> </p></li><li><p>Zapier
+  href="https://nodered.org/" title="nodered no-code">Node Red</a></p></li><li><p>Zapier
   and IFTTT have <a href="https://alternativeto.net/software/huginn/about/">Huginn</a></p></li><li><p>...</p></li></ul></li></ul><h2>Get
   on board</h2><p>What now?</p><ul><li><p><a href="https://www.facebook.com/sharer/sharer.php?u=www.silex.me&amp;t=Silex,%20html%20website%20builder">Share</a>
   and <a href="https://www.facebook.com/silexlabs/">like</a> Silex on <strong>Facebook</strong>,
