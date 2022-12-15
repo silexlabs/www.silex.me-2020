@@ -10,14 +10,15 @@ text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a 
   download a million times, then Silex v2 in 2010 was made an online tool and a downloadable
   app. It is time in 2023 for the v3 to rise. Every major release means a major rewrite
   with new tech, a new paradigm.</p><p>Today I''m aiming at a free and open source
-  alternative to Webflow, WordPress Elementor/Divi.</p><h2>Silex v3: no-code meets
+  alternative to Webflow, WordPress Elementor/Divi.</p><h2>Silex v3: no-code meet
   static</h2><p>I have been the developer behind all versions, I wrote 99% of the
   code and I have hold the vision from the start - and 2009 was before Wix, before
   no-code.</p><p>Today I envision Silex as the bridge between 2 worlds: <strong>no-code</strong>
-  and <strong>JAMStack/static</strong>. It will offer as a free and open source software
-  all the key features of Webflow with these components:</p><ol><li><p>A drag and
-  drop web design tool, showing all the CSS features in a class-based style manager
-  - that is the no-code part and it will be based on the <a href="https://grapesjs.com/"
+  and <a href="https://jamstack.org/" title="JAMStack technology"><strong>JAMStack
+  (static)</strong></a>. It will offer as a free and open source software all the
+  key features of Webflow with these components:</p><ol><li><p>A drag and drop web
+  design tool, showing all the CSS features in a class-based style manager - that
+  is the no-code part and it will be based on the <a href="https://grapesjs.com/"
   title="Grapes JS web builder framework">GrapesJS</a> framework. By itself, this
   part today''s Silex v2 scope, and will still be useful by itself for smaller simpler
   websites</p></li><li><p>An integration with any <a href="https://jamstack.org/headless-cms/"
