@@ -25,12 +25,13 @@ text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a 
   title="Headless CMS">headless CMS</a> - such as <a href="https://directus.io/" title="headless
   cms directus">Directus</a> or <a href="https://strapi.io/" title="Strapi headless
   cms">Strapi</a>, to visually design your website with real data. More generally
-  import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...)</p></li><li><p>Integration
-  with <a href="https://jamstack.org/generators/" title="Static site generators">static
-  site generators</a>: components which transparently generate snipets of templates
-  <a href="https://ejs.co/" title="EJS template">(ejs</a>, <a href="https://liquidjs.com/"
-  title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/" title="twig
-  templates">twig</a>, ...) so that we can create Jekyll or <a href="https://www.11ty.dev/"
+  import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...).
+  For this I considere using <a href="https://github.com/contentlayerdev/contentlayer"
+  title="contentlayer">Contentlayer</a>.</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
+  title="Static site generators">static site generators</a>: components which transparently
+  generate snipets of templates <a href="https://ejs.co/" title="EJS template">(ejs</a>,
+  <a href="https://liquidjs.com/" title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/"
+  title="twig templates">twig</a>, ...) so that we can create Jekyll or <a href="https://www.11ty.dev/"
   title="Eleventy SSG">eleventy</a> layouts</p></li></ol><p>That is the plan, in that
   order.</p><h2>The Ambassador program</h2><p>I am creating a small group of ambassadors.
   Here are the ambassadors goals:</p><ol><li><p>Become a Silex power user</p></li><li><p>Make
