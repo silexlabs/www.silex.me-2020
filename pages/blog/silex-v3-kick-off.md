@@ -19,7 +19,7 @@ text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a 
   key features of Webflow with these components:</p><ol><li><p>A drag and drop web
   design tool, showing all the CSS features in a class-based style manager - that
   is the no-code part and it will be based on the <a href="https://grapesjs.com/"
-  title="Grapes JS web builder framework">GrapesJS</a> framework. This part  today''s
+  title="Grapes JS web builder framework">GrapesJS</a> framework. This part is today''s
   Silex v2 scope, and will still be useful by itself for smaller simpler websites</p></li><li><p>An
   integration with any <a href="https://jamstack.org/headless-cms/" title="Headless
   CMS">headless CMS</a> - such as <a href="https://directus.io/" title="headless cms
