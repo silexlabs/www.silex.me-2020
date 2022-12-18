@@ -24,7 +24,8 @@ text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a 
   websites</p></li><li><p>An integration with any <a href="https://jamstack.org/headless-cms/"
   title="Headless CMS">headless CMS</a> - such as <a href="https://directus.io/" title="headless
   cms directus">Directus</a> or <a href="https://strapi.io/" title="Strapi headless
-  cms">Strapi</a>, to visually design your website with real data</p></li><li><p>Integration
+  cms">Strapi</a>, to visually design your website with real data. More generally
+  import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...)</p></li><li><p>Integration
   with <a href="https://jamstack.org/generators/" title="Static site generators">static
   site generators</a>: components which transparently generate snipets of templates
   <a href="https://ejs.co/" title="EJS template">(ejs</a>, <a href="https://liquidjs.com/"
