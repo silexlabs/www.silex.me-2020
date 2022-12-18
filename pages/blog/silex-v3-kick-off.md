@@ -28,7 +28,7 @@ text: '<blockquote><p>&gt; June 2021: This is an article about the future of <a 
   import any api (no-code spreadsheets like nocodb or airtable, shopify, WordPress...).
   For this I considere using <a href="https://github.com/contentlayerdev/contentlayer"
   title="contentlayer">Contentlayer</a>. This includes collection pages, loops/repeaters,
-  dynamic </p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
+  dynamic properties</p></li><li><p>Integration with <a href="https://jamstack.org/generators/"
   title="Static site generators">static site generators</a>: components which transparently
   generate snipets of templates <a href="https://ejs.co/" title="EJS template">(ejs</a>,
   <a href="https://liquidjs.com/" title="Liquidjs templates">liquidjs</a>, <a href="https://twig.symfony.com/"
