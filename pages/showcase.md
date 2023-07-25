@@ -40,18 +40,16 @@ items:
     files</a></p>
   cta-primary: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit,
     diversity in IT">Silex Labs website</a></p>
-- image: "/uploads/refty.png"
+- image: "https://scoreddb.fr/cms/assets/9427034e-5561-461d-94b2-455724d72538.svg"
   bg-color: "#FFFFFF"
   color: "#333333"
   cta-color: "#333333"
-  text: '<h3>Startup website for growth hacking</h3><p>Blog de l''entreprise <a href="https://refty.co/"
-    title="">Refty</a>. Powered by Silex, with the <a href="/instances/#list" title="">"Stastic"
-    instance</a>, using <a href="http://11ty.dev/" title="">11ty static site generator</a>,
-    netlify hosting &amp; forms, github, hubspot integration.</p><p><a href="https://developers.google.com/speed/pagespeed/insights/?url=https://blog.refty.co/"
+  text: '<h3>Marketing website for a famous agency</h3><p>Powered by Silex v3, <a href="http://11ty.dev/" title="">11ty static site generator</a>, Directus,
+    netlify hosting &amp; forms, github, hubspot integration.</p><p><a href="https://developers.google.com/speed/pagespeed/insights/?url=https://scoreddb.fr/"
     title="Very fast website">Google page insights score</a>: 82% on mobile, 99% on
     desktop.</p>'
   cta-link: "<p></p>"
-  cta-primary: <p><a href="https://blog.refty.co/" title="https://blog.refty.co/">blog.refty.co</a></p>
+  cta-primary: <p><a href="https://scoreddb.fr/" title="score ddb agency website powered by silex">Site de l'agence Score DDB</a></p>
 - image: "/uploads/belighted.png"
   bg-color: "#FFFFFF"
   color: "#333333"
