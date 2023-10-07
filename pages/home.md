@@ -4,7 +4,7 @@ cta-primary: <p><a href="/#list" title="Get started with Silex website builder">
 cta-link: <p><a href="/showcase" title="See examples of Silex websites">Showcase</a></p>
 lang: en
 layout: home
-title: Silex Website Builder | Free/libre no-code website builder | Next gen Webflow for the static web
+title: Silex | Free/libre no-code website builder | Next gen Webflow | Composable web ready
 description: Create fast **and** beautiful websites with Silex, free open source web
   design tool for makers.
 hero:
@@ -13,11 +13,13 @@ hero:
   cta: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
     started!</strong></a></p>
   slider:
-  - Your website builder
-  - A free and open source tool
-  - Learn web design
-  - A friendly community
-  - A better Wix for makers like you
+  - Your no-code website builder
+  - Free and open source forever
+  - Learn web design standards
+  - Make professional websites
+  - Let's be a great community
+  - An alternative to Webflow
+  - Developers love composable
 header:
   title: 'A free website in just 3 easy steps :'
   slideshow:
