@@ -42,8 +42,8 @@ text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a ma
   will love Silex.</h3><p><br></p><p><a href="https://www.producthunt.com/posts/silex?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-silex"
   target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=306235&theme=dark"
   alt="Silex - Open&#0032;source&#0032;website&#0032;builder&#0032;&#0126;&#0032;no&#0045;code&#0032;for&#0032;designers&#0032;&#0038;&#0032;makers
-  | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p><p><br></p><h2>Hackable,
-  forever free. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
+  | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p><p><br></p><h2>Flexible and
+  forever free, all of it. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
   color: "#ffffff"
@@ -79,13 +79,13 @@ items:
   cta-color: "#ffffff"
   text: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
     the 1 click install, the docker image or just any server to create an instance
-    of Silex under your own name, for your users or just for hacking</p>"
+    of Silex under your own name, for your users or just for learning</p>"
   cta-primary: <p><a href="https://heroku.com/deploy?template=https://github.com/silexlabs/Silex/tree/master"
     title="1 click install to your server">1 CLICK INSTALL ON HEROKU</a></p>
   cta-link: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex#host-an-instance-of-silex-on-a-web-server"
     title="How to host an instance of Silex">DOCUMENTATION</a></p>
 - image: "/uploads/ico-use-silex-for-project.svg"
-  text: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, get it
+  text: "<h2><strong>Use Silex in your project</strong></h2><h3>Integrate Silex, get it
     from npm</h3><p>Use npm to install Silex on you local computer or include it in
     a project, then run it with specific parameters or even replace some parts of
     it</p>"
