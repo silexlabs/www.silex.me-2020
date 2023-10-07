@@ -1,7 +1,6 @@
 ---
-cta-primary: <p><a href="/#list" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
-cta-link: <p><a href="/showcase" title="See examples of Silex websites">Showcase</a></p>
+cta-primary: <p><a href="/showcase" title="Here is a list of websites made with Silex no-code builder"><strong>Websites powered by Silex</strong></a></p>
+cta-link: <p><a href="https://mail-list.silexlabs.org/subscription/cemnfkaVrK?locale=en-US&source=silex.me" title="Silex newsletter">Silex newsletter</a></p>
 lang: en
 layout: home
 title: Silex | Free/libre no-code website builder | Next gen Webflow | Composable web ready
@@ -36,13 +35,15 @@ header:
       are absolutely positioned to make it feel natural.<br>Use the mobile editor
       to design the mobile version too.</p>
 permalink: "/"
-text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
+old_text: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you are a maker</a>
   creating your next project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you are a designer</a> making websites for customers,<br>you
   will love Silex.</h3><p><br></p><p><a href="https://www.producthunt.com/posts/silex?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-silex"
   target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=306235&theme=dark"
   alt="Silex - Open&#0032;source&#0032;website&#0032;builder&#0032;&#0126;&#0032;no&#0045;code&#0032;for&#0032;designers&#0032;&#0038;&#0032;makers
   | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a></p><p><br></p><h2>Flexible and
+  forever free, all of it. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
+text: '<h2>Flexible and
   forever free, all of it. Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>'
 items:
 - image: "/uploads/ico-start-silex-online-animated.svg"
