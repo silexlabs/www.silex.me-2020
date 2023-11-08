@@ -82,8 +82,6 @@ items:
 permalink: "/community/"
 tile-list-title: "<h3>Partners, agencies and hosting companies</h3>"
 tiles:
-- text: <p><a href="https://www.silexlabs.org/" title="Silex Labs non profit organization"><img
-    src="/uploads/silexlabs.png"></a></p>
 - text: <p><a href="https://internet2000.net/" title="Internet 2000 agency"><img src="/uploads/pastille_internet2000.png"
     title="Internet 2000 web agency" alt="Internet 2000 web agency"></a></p>
 - text: <p><a href="https://www.whynotprod.com/" title="Whynotprod | Brice MARTIN"><img
@@ -92,6 +90,6 @@ tiles:
     src="/uploads/logo-browserstack.jpg"></a></p>
 - text: <p><a href="https://www.bairesdev.com/" title="BairesDev supports Silex"><img src="/uploads/bairesdev.png"></a></p>
 - text: <p><a href="https://www.netlify.com/" title="Netlify hosting"><img src="/uploads/netlify_logo.svg"></a></p>
-- text: <p><a href="https://puter.com/" title="Puter sponsors silex"><img src="https://about.puter.com/img/logo.png">Puter</a></p>
+- text: <p><a href="https://puter.com/" title="Puter sponsors silex"><img src="https://about.puter.com/img/logo.png"><p>Puter</p></a></p>
 
 ---
