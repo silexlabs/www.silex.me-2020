@@ -92,6 +92,6 @@ tiles:
     src="/uploads/logo-browserstack.jpg"></a></p>
 - text: <p><a href="https://www.bairesdev.com/" title="BairesDev supports Silex"><img src="/uploads/bairesdev.png"></a></p>
 - text: <p><a href="https://www.netlify.com/" title="Netlify hosting"><img src="/uploads/netlify_logo.svg"></a></p>
-- text: <p><a href="https://puter.com/" title="Puter sponsors silex"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.z0chFwZaQklNLAOi2GyrLAAAAA%26pid%3DApi&f=1&ipt=c6c1ba530385ee74c3c1219e8de40195110ba0506d286feb75d32e33e0837206&ipo=images"></a></p>
+- text: <p><a href="https://puter.com/" title="Puter sponsors silex"><img src="https://about.puter.com/img/logo.png">Puter</a></p>
 
 ---
